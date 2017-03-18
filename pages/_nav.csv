@@ -1,0 +1,9 @@
+# The list of links to put in the approprate navigation menu.
+# Put in the form <display-name>,<file-name>
+
+Home,/
+Tour,/tour
+FAQ,/faq
+Tips & Tricks,/moderation-help
+Tools,/tools/userscripts
+Room Info,/room-info/history
