@@ -12,8 +12,17 @@ During the meeting one of the RO's will chair the meeting. After we reached a co
 
 Here you'll find  the resolutions and transcript of previous meetings:
 
-{% for post in site.posts %}
-  {% if post.categories contains "meetings" %}
-[**{{ post.title }}**]({{ post.url }} )   
-  {% endif %}
-{% endfor %} 
+## 2015
+
+* [November](room-meetings/2015-11)
+* [December](room-meetings/2015-12)
+
+## 2016
+
+* [April](room-meetings/2016-04)
+* [August](room-meetings/2016-08)
+* [October](room-meetings/2016-10)
+
+## 2017
+
+* [January](room-meetings/2017-01)
