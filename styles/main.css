@@ -1,3 +1,50 @@
+body {
+    font-family: "Calibri", "Times New Roman", Times, sans-serif;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#navigation,
 #content {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#content {
+  padding-bottom: 30px;
+}
+
+a {
+  color: #0024b5;
+  text-decoration: none;
+}
+
+a:focus,a:hover {
+  color: #2a6496;
+  text-decoration: underline;
+}
+
+#navigation {
+  max-width: 800px;
+}
+
+.nav-item {
+  font-weight: bold;
+}
+
+#navigation nav {
+  padding: 15px 20px;
+  display: flex;
+  flex-flow: nowrap row;
+  justify-content: space-between;
   
-  }
+}
+
+#navigation nav + nav {
+  border-top: 1px solid gray;
+}
