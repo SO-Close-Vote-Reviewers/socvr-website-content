@@ -41,10 +41,19 @@ a:focus,a:hover {
   padding: 15px 20px;
   display: flex;
   flex-flow: nowrap row;
-  justify-content: space-between;
-  
+  justify-content: space-around;
 }
 
 #navigation nav + nav {
   border-top: 1px solid gray;
+}
+
+#not-found-content {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+#not-found-content h1 {
+  font-size: 40px;
 }
