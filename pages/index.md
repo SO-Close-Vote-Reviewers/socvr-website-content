@@ -5,3 +5,5 @@ The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/info/41
 The moderation efforts of the room have broadened, but we still aim to reduce the close vote queue length. However the room now acts pro-actively by issuing [cv-pls] requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba](http://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion).
 
 **Please see the [tour](/tour), *before* you practice in the room!** And for the detailed room guidance/rules, and more information about the bots that run in our room, check out our [FAQ](/faq).
+
+Dummy edit!
