@@ -28,7 +28,7 @@ reviewing, and clean-up efforts.
   * [Can I invite users here?](#can-i-invite-users-here)
   * [Any resources to help?](#any-resources-to-help)
 
-# <a name="quick-reference">Quick Reference</a>
+<h1 id="quick-reference">Quick Reference</h1>
 
 ## General expectations for members:
 
