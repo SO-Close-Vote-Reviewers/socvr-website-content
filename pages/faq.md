@@ -28,9 +28,9 @@ reviewing, and clean-up efforts.
   * [Can I invite users here?](#can-i-invite-users-here)
   * [Any resources to help?](#any-resources-to-help)
 
-# Quick Reference
+<h1 id="quick-reference">Quick Reference</h1>
 
-## General expectations for members:
+<h2 id="general-expectations-for-members">General Expectations for Members</h2>
 
 Stay nice and professional in chat:
 
@@ -113,7 +113,7 @@ Understand our relationship with Meta:
     [tag burning process](http://meta.stackoverflow.com/q/324070).
  
 
-## Expectations for room owners:
+<h2 id="expectations-for-room-owners">Expectations for Room Owners</h2>
 
  1. Is a role model for the kind of participation expected.
  2. Makes the final call in any dispute, unless the RO team decide otherwise.
@@ -127,16 +127,16 @@ Understand our relationship with Meta:
 10. Moves handled moderation requests to the 
     [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230).
 
-# Common questions
+<h1 id="common-questions">Common Questions</h1>
 
-## What is the SO Close Vote Reviewers Chat Room?
+<h2 id="what-is-the-so-close-vote-reviewers-chat-room-1">What is the SO Close Vote Reviewers Chat Room?</h2>
 
 The moderation efforts of the room has broadened, but we still aim to reduce the 
 close vote queue length. However, the room now acts pro-actively by issuing “`[cv-pls]`” 
 (type: [tag:cv-pls]) requests, reopen voting, tag cleanup, burnination efforts, 
 editing, coaching/commenting, delete voting, undelete voting, and feeding the [roomba][1].
 
-## What sort of behavior is expected?
+<h2 id="what-sort-of-behavior-is-expected">What sort of behavior is expected?</h2>
 
 We love this community. Our goal is to get rid of the "crap" so the good content 
 can be found with greater ease. As room owners we are sensitive for the needs of 
@@ -160,7 +160,7 @@ as we are a part of it.
 Room owners step in the moment we notice site users are targeted by any room member. 
 This goes without warning.
 
-## What are the chat room rules?
+<h2 id="what-are-the-chat-room-rules">What are the chat room rules?</h2>
 
 To be an effective member of this room you'll need access to the review queues 
 and you’ll need to have some experience on Stack Overflow. Ideally 3k reputation, 
@@ -170,7 +170,7 @@ enough experience in (self)moderation.
 To stop us from turning into a chaotic voting ring, we have set up rules and 
 guidelines for members to follow.
 
-## How and why do I need to format my cv-pls (and other requests)?
+<h2 id="how-and-why-do-i-need-to-format-my-cv-pls-and-other-requests">How and why do I need to format my cv-pls (and other requests)?</h2>
 
 The cv-pls is a commonly used format across different chatrooms on Stack Overflow. 
 You create a proper cv-pls as follows:
@@ -201,7 +201,7 @@ Other `-pls` requests follow the same format
     [tag:reopen-pls] post has enough info now http://stackoverflow/q/12345
     [tag:del-pls] has no value to stay on site http://stackoverflow/q/12345
 
-## What is Smoke Detector and how can I participate?
+<h2 id="what-is-smoke-detector-and-how-can-i-participate">What is Smoke Detector and how can I participate?</h2>
 
 The Smoke Detector (aka Smokey, or SD) is a chat-bot operated by the 
 [Charcoal team](http://chat.stackexchange.com/rooms/11540/charcoal-hq) and its 
@@ -220,7 +220,7 @@ will check your account for the following criteria:
 We don't want to feed wrong information into Smokey or flag reported posts 
 incorrectly. Spam flags have a lot of impact on user accounts.
 
-## You closed my question!
+<h2 id="you-closed-my-question">You closed my question!</h2>
 
 If a question is closed following a cv-pls that was posted in the room you can 
 hop into the room for an explanation. Expect the following policy to be followed 
@@ -244,7 +244,7 @@ to avoid any unnecessary drama:
 If the previous has not solved the issue, we will stop the discussion and redirect 
 you to Meta to have our actions scrutinized by somewhat independent community members.
 
-## Can I request people to vote or flag on posts I find?
+<h2 id="can-i-request-people-to-vote-or-flag-on-posts-i-find">Can I request people to vote or flag on posts I find?</h2>
 
 First of all, let us reiterate that you can request people to _look at_ posts you bring up, but they are
 **IN NO WAY REQUIRED** to vote or flag as you suggest. Bringing posts to chat is just a way to
@@ -278,12 +278,13 @@ trying to coerce users into flagging.
 comment in our transcript as that might get chat flags which sort of defeats the 
 goal in the first place.
 
-## What about Docs?
+<h2 id="what-about-docs">What about Docs?</h2>
 
 We will only moderate Docs for rude, abusive, spam and plagiarism. There won't 
 be any moderation of low-quality, off-topic or otherwise incorrect examples.
 
-## Who are the room owners?
+<h2 id="who-are-the-room-owners">Who are the room owners?</h2>
+
 When you become a Room Owner we believe you are that for life. Even when 
 circumstances changes and Room Owners turn down their participation knob we 
 still feel they are part of the team.
@@ -306,7 +307,7 @@ The inactive room owners are:
   room owner and creator of the room.
 * [Dukeling](http://stackoverflow.com/users/1711796/dukeling)
 
-## Why do we need room owners?
+<h2 id="why-do-we-need-room-owners">Why do we need room owners?</h2>
 
 We really shouldn't need room owners, but because we do we need to establish some 
 guidelines. Room owners are here to slow down the enthusiastic crowd and to make 
@@ -316,7 +317,7 @@ The CV chat room has quite a bit of power. In the extreme cases we can insta-clo
 any question, and this gives us moderator-like powers with very little external 
 oversight. We lead by example to prevent the room from becoming a mob.
 
-## How does the room work?
+<h2 id="how-does-the-room-work">How does the room work?</h2>
 
 There are no obligations. We can't force you to do anything, and we don't want to 
 either. The first purpose of the chat room is to have company as you go through the 
@@ -335,7 +336,7 @@ appropriate. Concentrating attention on a question in the context of whether or
 not to close a question, severely biases attention toward closing the question.
 <sup>1</sup>
 
-## Why do you invite me to the CV Request Graveyard room?
+<h2 id="why-do-you-invite-me-to-the-cv-request-graveyard-room">Why did you invite me to the CV Request Graveyard room?</h2>
 
 The room owners run a script on a regular basis to clean up the room transcript. 
 Any cv-pls message that links to a question which is: closed/deleted, or has no 
@@ -349,7 +350,7 @@ So don't be alarmed or feel left out if the invite to the graveyard room doesn't
 result in any response from us. It is a byproduct of our moving action and we can't 
 prevent you being invited, sorry.
 
-## What are all those bots doing there?
+<h2 id="what-are-all-those-bots-doing-there">What are all those bots doing there?</h2>
 
 To make our live easier we have the support of five bots that you either can 
 interact with or make you aware of posts that might need our attention.
@@ -390,7 +391,7 @@ She also reports very offensive comments for quick deletion.
 All bots that post in the room have to be cleared by the Room Owner team. Without 
 their prior approval bots will be kicked as soon as they appear.
 
-## How can I join in?
+<h2 id="how-can-i-join-in">How can I join in?</h2>
 
 First, check out the 
 [chat room's schedule of events](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers?tab=schedule). 
@@ -402,7 +403,7 @@ If you can't wait until a weekly event, or want to help out more often, we do a
 smaller review session each day. Hop into chat between 17:00 and 22:00 UTC and 
 help us fight the queue (times change by day and member availability).
 
-## What if I think you made a mistake?
+<h2 id="what-if-i-think-you-made-a-mistake">What if I think you made a mistake?</h2>
 
 We are all humans and have different backgrounds, but also solid reputations in 
 a wide range of tags. If you feel we misjudged a gem, closed for the wrong reason, 
@@ -411,7 +412,7 @@ to reopen. Based on your feedback, we'll learn, improve your question and help i
 getting it re-opened by casting re-open votes. This will improve our actions, so 
 please provide feedback.
 
-## Can I invite users here?
+<h2 id="can-i-invite-users-here">Can I invite users here?</h2>
 
 It's encouraged to invite users to the chat room to discuss issues involving 
 moderation activities that are coordinated or under discussion there.
@@ -429,7 +430,7 @@ moderation activities that are coordinated or under discussion there.
   is equal in the discussion, including the invitee, and all opinions deserve to 
   be heard and considered.
 
-## Any resources to help?
+<h2 id="any-resources-to-help">Any resources to help?</h2>
 
 Members of chat have made some user scripts to help make your life easier (or just more enjoyable).
 
