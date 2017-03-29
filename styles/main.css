@@ -40,12 +40,18 @@ a:focus,a:hover {
 #navigation nav {
   padding: 15px 20px;
   display: flex;
-  flex-flow: nowrap row;
+  flex-flow: wrap row;
   justify-content: space-around;
+  text-align: center;
 }
 
 #navigation nav + nav {
   border-top: 1px solid gray;
+}
+
+#navigation nav a {
+  margin: 10px 15px;
+  flex: 1 0 auto;
 }
 
 #not-found-content {
