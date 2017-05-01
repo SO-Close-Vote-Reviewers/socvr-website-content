@@ -300,13 +300,13 @@ The active room owners are:
 * [gunr2171](http://stackoverflow.com/users/1043380)
 * [NathanOliver](http://stackoverflow.com/users/4342498)
 * [Sam](http://stackoverflow.com/users/2246344)
-* [Mogsdad](http://stackoverflow.com/users/1677912)
 * [Tunaki](http://stackoverflow.com/users/1743880)
 * [Tiny Giant](http://stackoverflow.com/users/4639281)
 * [Kyll](http://stackoverflow.com/users/4174897)
 
 The inactive room owners are:
 
+* [Mogsdad](http://stackoverflow.com/users/1677912)
 * [durron597](http://stackoverflow.com/users/1768232/durron597)
 * [Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) - The original 
   room owner and creator of the room.
