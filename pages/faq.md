@@ -204,7 +204,7 @@ Other `-pls` requests follow the same format
 <h2 id="what-is-smoke-detector-and-how-can-i-participate">What is Smoke Detector and how can I participate?</h2>
 
 The Smoke Detector (aka Smokey, or SD) is a chat-bot operated by the 
-[Charcoal team](http://chat.stackexchange.com/rooms/11540/charcoal-hq) and its 
+[Charcoal team](https://charcoal-se.org/) and its 
 purpose is to find spam, abusive and low-quality posts. In the SOCVR room only 
 Stack Overflow posts are reported. You can find detailed info about Smokey and 
 how you can interact with it [here](https://github.com/Charcoal-SE/SmokeDetector/wiki).
@@ -219,6 +219,11 @@ will check your account for the following criteria:
  
 We don't want to feed wrong information into Smokey or flag reported posts 
 incorrectly. Spam flags have a lot of impact on user accounts.
+
+To be clear, the Charcoal team operates from a [different room](http://chat.stackexchange.com/rooms/11540/charcoal-hq)
+to SOCVR, and has different criteria for granting privileges in that room. If your
+account doesn't fit the criteria SOCVR looks for, you can still get involved with
+SmokeDetector in that room.
 
 <h2 id="you-closed-my-question">You closed my question!</h2>
 
