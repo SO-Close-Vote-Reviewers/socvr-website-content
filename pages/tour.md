@@ -6,17 +6,17 @@ Curation activities focus on improving the content of individual posts where pos
 
 ## Can we chat?
 
-<img align="right" src="http://i.stack.imgur.com/J9bqw.png" width="40%">
+<img align="right" src="https://i.stack.imgur.com/J9bqw.png" width="40%">
 
-The primary purpose of the [SOCVR chat room](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers) is to have company as you use your own [moderating privileges](http://stackoverflow.com/help/privileges?tab=moderation) on the site. 
+The primary purpose of the [SOCVR chat room](https://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers) is to have company as you use your own [moderating privileges](https://stackoverflow.com/help/privileges?tab=moderation) on the site. 
 Working as part of a supportive team is much more enjoyable than slaving on your own.
 
-The chat room is public; all conversations are in the open, and any Stack Overflow user who has [earned the required privilege](http://stackoverflow.com/help/privileges/chat) can join in on the conversation.
+The chat room is public; all conversations are in the open, and any Stack Overflow user who has [earned the required privilege](https://stackoverflow.com/help/privileges/chat) can join in on the conversation.
 
 Members are happy to help with questions about curation of Stack Overflow posts. Not sure what to do with a question or answer? Post a link and the team will take a look at it, and offer advice.
 
 The conversation stays mainly on-topic, but is casual and quirky.
-Don't fear, though - the [**be nice**](http://stackoverflow.com/help/be-nice) policy still applies!
+Don't fear, though - the [**be nice**](https://stackoverflow.com/help/be-nice) policy still applies!
 
 Take a few minutes to familiarize yourself with the [Frequently Asked Questions (FAQ)](/faq) so you know what chat behaviors are expected.
 
@@ -24,13 +24,13 @@ Take a few minutes to familiarize yourself with the [Frequently Asked Questions 
 
 _Curation_ means many things, but a significant portion of SOCVR efforts are related to _The Queue_.
 
-When members refer to _The Queue_, they mean the [Close Vote Reviews tool](http://stackoverflow.com/review/close), sometimes referred to as the Close Vote Queue (CVQ). Users who have earned the privilege to [Cast Close And Reopen Votes](http://stackoverflow.com/help/privileges/close-questions) get access to queues of questions they can filter to review. Where appropriate, they can agree or disagree with the propsed action.
+When members refer to _The Queue_, they mean the [Close Vote Reviews tool](https://stackoverflow.com/review/close), sometimes referred to as the Close Vote Queue (CVQ). Users who have earned the privilege to [Cast Close And Reopen Votes](https://stackoverflow.com/help/privileges/close-questions) get access to queues of questions they can filter to review. Where appropriate, they can agree or disagree with the propsed action.
 
 Initially, SOCVR was created to improve effectiveness of the queue, having observed that the vast majority of questions that started the close review process never completed it.
-For that reason, there are frequent [room events](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers?tab=schedule) during which team members filter their reviews to focus on specific tags. By doing this, both during events and at other times, SOCVR ensures that enough reviewers look at a cross-section of questions to complete the review process for them. 
+For that reason, there are frequent [room events](https://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers?tab=schedule) during which team members filter their reviews to focus on specific tags. By doing this, both during events and at other times, SOCVR ensures that enough reviewers look at a cross-section of questions to complete the review process for them. 
 
-We've developed aids to help deal with _The Queue_; notably our 'bot [Closey](http://stackoverflow.com/users/4424245/closey), who monitors and reports on SOCVR activity in The Queue. You don't need to know much about those things - for now, it's enough to know they exist! You can always read more in the [FAQ](/faq).
+We've developed aids to help deal with _The Queue_; notably our 'bot [Closey](https://stackoverflow.com/users/4424245/closey), who monitors and reports on SOCVR activity in The Queue. You don't need to know much about those things - for now, it's enough to know they exist! You can always read more in the [FAQ](/faq).
 
 ## Now what?
 
-**Thanks for taking The Tour!** Hopefully that has given you an idea of what SOCVR is about, and you're ready to [drop in to the chat room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) to say "Hi!", and see it live. If you have a question of any nature, just ask in chat - a member or one of the room owners will be happy to answer!
+**Thanks for taking The Tour!** Hopefully that has given you an idea of what SOCVR is about, and you're ready to [drop in to the chat room](https://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) to say "Hi!", and see it live. If you have a question of any nature, just ask in chat - a member or one of the room owners will be happy to answer!
