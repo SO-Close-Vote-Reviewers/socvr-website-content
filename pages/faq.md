@@ -86,29 +86,30 @@ Be responsible with moderation requests:
     told so. The final verdict is on the RO team.
 14. Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
 15. Do not request action on a post that you have asked or answered.
+16. Do not request to re-tag a post so you can use your dupe-hammer.
 
 Don't moderate users:
 
-16. Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
+17 Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
     of the user.
-17. Do not post multiple successive moderation requests for posts of the same user. It will be 
+18 Do not post multiple successive moderation requests for posts of the same user. It will be 
     considered as targetting a user which is explicitly forbidden.
 
 Stay nice and professional when on a post:
 
-18. Work **with** the OP to get their post into shape. Most content has some value. Save it before
+19. Work **with** the OP to get their post into shape. Most content has some value. Save it before
     you try to destroy it.
-19. A post is to be actively handled by **only one** member of the room. We don't need 4 members all 
+20. A post is to be actively handled by **only one** member of the room. We don't need 4 members all 
     leaving witty statements in the comments or in chat.
-20. If you leave a comment (or custom close reason) be prepared to interact with the OP. In all cases 
+21. If you leave a comment (or custom close reason) be prepared to interact with the OP. In all cases 
     be nice and helpful.
 
 Understand our relationship with Meta:
 
-21. All members are accountable for their actions if/when such accountability is requested on meta.
-22. Don't [jump on the bandwagon](https://en.wiktionary.org/wiki/jump_on_the_bandwagon), specially on 
+22. All members are accountable for their actions if/when such accountability is requested on meta.
+23. Don't [jump on the bandwagon](https://en.wiktionary.org/wiki/jump_on_the_bandwagon), specially on 
     meta. The room is scrutinized on meta, not the other way around. 
-23. Tag burnination requests and tag cleanup requests _must_ be backed by an 
+24. Tag burnination requests and tag cleanup requests _must_ be backed by an 
     [MSO](http://meta.stackoverflow.com) post that follows the 
     [tag burning process](http://meta.stackoverflow.com/q/324070).
  
