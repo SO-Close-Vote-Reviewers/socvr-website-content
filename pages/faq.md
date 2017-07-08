@@ -59,7 +59,7 @@ Keep the transcript clean:
 
 Know what the room moderates:
 
-9. We moderate the content of posts on Stack Overflow for closure. This means 
+9. We moderate the content of posts on Stack Overflow (closure/edit/review/delete). This means 
    that we *DO NOT* moderate:
    * User accounts (even if they are posting spam)
    * Other chat rooms
