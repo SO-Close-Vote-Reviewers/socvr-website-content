@@ -90,9 +90,9 @@ Be responsible with moderation requests:
 
 Don't moderate users:
 
-17 Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
+17. Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
     of the user.
-18 Do not post multiple successive moderation requests for posts of the same user. It will be 
+18. Do not post multiple successive moderation requests for posts of the same user. It will be 
     considered as targetting a user which is explicitly forbidden.
 
 Stay nice and professional when on a post:
