@@ -1,6 +1,6 @@
 # What is the SO Close Vote Reviewers Chat Room?
 
-The [SO Close Vote Reviewers Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) 
+The [SO Close Vote Reviewers Chat Room](https://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) 
 is a group of like-minded people who want to make a difference in the CV queue, 
 reviewing, and clean-up efforts.
  
@@ -52,9 +52,9 @@ Keep the transcript clean:
    little tasteful fun too. At any of the room owner's discretion, images may be moved to trash 
    at anytime without warning, such decisions are final. Obviously, offensive and NSFW images 
    are grounds for being kicked and moderator intervention.
-7. Please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting)/noisy formatting. 
+7. Please refrain from using [oneboxes](https://chat.stackoverflow.com/faq#formatting)/noisy formatting. 
    When posting a URL, use link syntax to make the link flow with the text, 
-   like `look at [this post](http://www.example.com/)`.
+   like `look at [this post](https://www.example.com/)`.
 8. No GIFs or other animated images in chat. They are more distracting than one-boxed messages.
 
 Know what the room moderates:
@@ -72,7 +72,7 @@ Be responsible with moderation requests:
     rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of 
     support from the community at large, as such we don't want anything in the transcript that 
     could be perceived as us treating people unfairly.
-11. [[cv-pls]](http://meta.stackoverflow.com/a/262359) should **not** be a habit for users. 
+11. [[cv-pls]](https://meta.stackoverflow.com/a/262359) should **not** be a habit for users. 
    Don't make it an instinct to fast-track every eligible post to the front of the closure system; 
    cv-pls is for posts that:
    -  are _really_ bad (low quality magnets)
@@ -110,8 +110,8 @@ Understand our relationship with Meta:
 23. Don't [jump on the bandwagon](https://en.wiktionary.org/wiki/jump_on_the_bandwagon), specially on 
     meta. The room is scrutinized on meta, not the other way around. 
 24. Tag burnination requests and tag cleanup requests _must_ be backed by an 
-    [MSO](http://meta.stackoverflow.com) post that follows the 
-    [tag burning process](http://meta.stackoverflow.com/q/324070).
+    [MSO](https://meta.stackoverflow.com) post that follows the 
+    [tag burning process](https://meta.stackoverflow.com/q/324070).
  
 
 <h2 id="expectations-for-room-owners">Expectations for Room Owners</h2>
@@ -126,7 +126,7 @@ Understand our relationship with Meta:
  8. Reels in conversation if it gets out of hand.
  9. Moves messages or conversations to trash if necessary.
 10. Moves handled moderation requests to the 
-    [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230).
+    [CV Request Graveyard](https://chat.stackoverflow.com/rooms/90230).
 
 <h1 id="common-questions">Common Questions</h1>
 
@@ -176,7 +176,7 @@ guidelines for members to follow.
 The cv-pls is a commonly used format across different chatrooms on Stack Overflow. 
 You create a proper cv-pls as follows:
 
-    [tag:cv-pls] close reason http://stackoverflow/q/12345
+    [tag:cv-pls] close reason https://stackoverflow/q/12345
 
 The first bit creates a tag layout, the close reason is there so the other 
 members know what you think the correct reason is and finally the complete url 
@@ -191,7 +191,7 @@ the GraveRobber bot.
 If you are using "duplicate" as a reason, it would be a good idea to include the 
 primary tag of the post with the request.
 
-    [tag:cv-pls] [tag:asdf] duplicate http://stackoverflow/q/12345
+    [tag:cv-pls] [tag:asdf] duplicate https://stackoverflow/q/12345
     
 Because closing as a duplicate requires more domain specific knowledge, informing 
 other chat members of the primary tag helps them quickly figure out if they would 
@@ -199,8 +199,8 @@ be effective in reviewing the request.
 
 Other `-pls` requests follow the same format
 
-    [tag:reopen-pls] post has enough info now http://stackoverflow/q/12345
-    [tag:del-pls] has no value to stay on site http://stackoverflow/q/12345
+    [tag:reopen-pls] post has enough info now https://stackoverflow/q/12345
+    [tag:del-pls] has no value to stay on site https://stackoverflow/q/12345
 
 <h2 id="what-is-smoke-detector-and-how-can-i-participate">What is Smoke Detector and how can I participate?</h2>
 
@@ -221,7 +221,7 @@ will check your account for the following criteria:
 We don't want to feed wrong information into Smokey or flag reported posts 
 incorrectly. Spam flags have a lot of impact on user accounts.
 
-To be clear, the Charcoal team operates from a [different room](http://chat.stackexchange.com/rooms/11540/charcoal-hq)
+To be clear, the Charcoal team operates from a [different room](https://chat.stackexchange.com/rooms/11540/charcoal-hq)
 to SOCVR, and has different criteria for granting privileges in that room. If your
 account doesn't fit the criteria SOCVR looks for, you can still get involved with
 SmokeDetector in that room.
@@ -243,8 +243,8 @@ to avoid any unnecessary drama:
  1. Inform the user about the reasons why this happened.
  2. Why the question is off-topic.
  3. If it can be improved and how.
- 4. Relevant pointers ([help center](http://stackoverflow.com/help/how-to-ask), 
-    [meta posts](http://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist), 
+ 4. Relevant pointers ([help center](https://stackoverflow.com/help/how-to-ask), 
+    [meta posts](https://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist), 
     IDYB, etc.).
 
 If the previous has not solved the issue, we will stop the discussion and redirect 
@@ -297,21 +297,21 @@ still feel they are part of the team.
 
 The active room owners are:
 
-* [rene](http://stackoverflow.com/users/578411)
-* [gunr2171](http://stackoverflow.com/users/1043380)
-* [NathanOliver](http://stackoverflow.com/users/4342498)
-* [Sam](http://stackoverflow.com/users/2246344)
-* [Tunaki](http://stackoverflow.com/users/1743880)
-* [Tiny Giant](http://stackoverflow.com/users/4639281)
-* [Kyll](http://stackoverflow.com/users/4174897)
+* [rene](https://stackoverflow.com/users/578411)
+* [gunr2171](https://stackoverflow.com/users/1043380)
+* [NathanOliver](https://stackoverflow.com/users/4342498)
+* [Sam](https://stackoverflow.com/users/2246344)
+* [Tunaki](https://stackoverflow.com/users/1743880)
+* [Tiny Giant](https://stackoverflow.com/users/4639281)
+* [Kyll](https://stackoverflow.com/users/4174897)
 
 The inactive room owners are:
 
-* [Mogsdad](http://stackoverflow.com/users/1677912)
-* [durron597](http://stackoverflow.com/users/1768232/durron597)
-* [Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) - The original 
+* [Mogsdad](https://stackoverflow.com/users/1677912)
+* [durron597](https://stackoverflow.com/users/1768232/durron597)
+* [Andrew Cheong](https://stackoverflow.com/users/925913/andrew-cheong) - The original 
   room owner and creator of the room.
-* [Dukeling](http://stackoverflow.com/users/1711796/dukeling)
+* [Dukeling](https://stackoverflow.com/users/1711796/dukeling)
 
 <h2 id="why-do-we-need-room-owners">Why do we need room owners?</h2>
 
@@ -347,7 +347,7 @@ not to close a question, severely biases attention toward closing the question.
 The room owners run a script on a regular basis to clean up the room transcript. 
 Any cv-pls message that links to a question which is: closed/deleted, or has no 
 close votes after 3 days will be moved to the 
-[CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230/cv-request-graveyard).
+[CV Request Graveyard](https://chat.stackoverflow.com/rooms/90230/cv-request-graveyard).
 In that process, if one of the cv-pls you posted gets moved, you get invited to 
 that room. We're sorry about that, but we will not talk there or meet you there. 
 That room is only meant to be the list of handled cv-pls messages.
@@ -387,11 +387,11 @@ which are moved to the graveyard to see if any of the posts warrant reopening.
 [Zephyr](https://github.com/AWegnerGitHub/SE_Zephyr_VoteRequest_bot) is a headless 
 chatbot that monitors our room for vote requests (`cv-pls`, `spam`, `flag-pls`, 
 `del-pls`, etc.) from other users and then posts them in the 
-[LQPHQ](http://chat.meta.stackexchange.com/rooms/773/low-quality-posts-hq).
+[LQPHQ](https://chat.meta.stackexchange.com/rooms/773/low-quality-posts-hq).
 
 **Queen**  
 Is a bot for reporting duplicates to Gold Hammers so these get closed effectively. 
-Her hive is in the [SOCVFinder](http://chat.stackoverflow.com/rooms/111347/socvfinder). 
+Her hive is in the [SOCVFinder](https://chat.stackoverflow.com/rooms/111347/socvfinder). 
 She also reports very offensive comments for quick deletion.
 
 All bots that post in the room have to be cleared by the Room Owner team. Without 
@@ -400,7 +400,7 @@ their prior approval bots will be kicked as soon as they appear.
 <h2 id="how-can-i-join-in">How can I join in?</h2>
 
 First, check out the 
-[chat room's schedule of events](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers?tab=schedule). 
+[chat room's schedule of events](https://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers?tab=schedule). 
 It's updated by the room owners and shows the weekly meet-ups. There are two time 
 periods to choose from (you can choose both if you are able to) so that people 
 in all time zones can join.
@@ -445,7 +445,7 @@ Members of chat have made some user scripts to help make your life easier (or ju
   speeding up review time.
 * [Pre-baked Comments](https://github.com/SO-Close-Vote-Reviewers/auto-comments) - 
   to be used with 
-  [Auto review Comments](http://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se)
+  [Auto review Comments](https://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se)
 * [Bot Commands Auto-complete](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/BotCommands.user.js) - 
   Auto completes commands for the chat bot.
 * [Stack Exchange Editor Toolkit](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/Magic%E2%84%A2Editor.user.js) - 
@@ -458,21 +458,21 @@ The bot's name is `Closey`; hop in the room and type `@Closey help`.
 
 The following is the Stack Exchange Data Exporter query we use for determining 
 which tags to focus on: 
-[Tags that can be cleared of votes](http://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes).
+[Tags that can be cleared of votes](https://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes).
 
 You can see the day-to-day progress of the size of the close vote 
-[from this neat online graph](http://socvr.azurewebsites.net/). An explanation 
+[from this neat online graph](https://socvr.azurewebsites.net/). An explanation 
 for the drops each day can be found on 
-[this MSO post](http://meta.stackoverflow.com/questions/252584/enough-fuzzying-lets-let-everything-into-the-close-queue-and-age-out-questions).
+[this MSO post](https://meta.stackoverflow.com/questions/252584/enough-fuzzying-lets-let-everything-into-the-close-queue-and-age-out-questions).
 
 ----
 
 1: Paragraph adapted from 
-   [Rene's original chat room FAQ](http://meta.stackoverflow.com/revisions/251956/9). 
+   [Rene's original chat room FAQ](https://meta.stackoverflow.com/revisions/251956/9). 
    Mentioned here for attribution purposes.
 
 <!-- this is the best link I could find, feel free to get a better one -->
 
- [1]: http://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion
+ [1]: https://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion
 
- [2]: http://stackoverflow.com/help/be-nice
+ [2]: https://stackoverflow.com/help/be-nice
