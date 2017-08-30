@@ -93,7 +93,7 @@ reviewing, and clean-up efforts.
 17. <a id="GEfM-moderate-post-not-user"></a>Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
     of the user.
 18. <a id="GEfM-dont-target-users"></a>Do not post multiple successive moderation requests for posts of the same user. It will be 
-    considered as targetting a user which is explicitly forbidden.
+    considered as targeting a user which is explicitly forbidden.
 
 <a id="GEfM-nice-and-professional"></a>Stay nice and professional when on a post:
 
@@ -119,7 +119,7 @@ reviewing, and clean-up efforts.
  1. Is a role model for the kind of participation expected.
  2. Makes the final call in any dispute, unless the RO team decide otherwise.
  3. Pins relevant messages on the starboard
- 4. Keeps the number of pinned items in the starboard to a minimum. It's ok to 
+ 4. Keeps the number of pinned items in the starboard to a minimum. It's OK to
     update and replace an existing if the information is still relevant.
  6. Plans, organizes, and runs periodic room meeting. Also collects and summarizes discussions for 
     public posting.
@@ -153,7 +153,7 @@ to the conversation at hand, fine, but on Stack Overflow, don't say anything unl
 someone directly asks. On MSO, you can give some details about the room if it could 
 be relevant/useful in a discussion.
 
-Make sure you are ok with exerting your power, but understand when it is necessary 
+Make sure you are OK with exerting your power, but understand when it is necessary
 to do so to keep the peace.
 
 We are open for any critic, feedback, and guidance received from the community 
@@ -180,7 +180,7 @@ You create a proper cv-pls as follows:<a id="cv-pls-format"></a>
     [tag:cv-pls] close reason https://stackoverflow/q/12345
 
 The first bit creates a tag layout, the close reason is there so the other 
-members know what you think the correct reason is and finally the complete url 
+members know what you think the correct reason is and finally the complete URL
 so the members can click on it. If you find the typing, copying, and remembering 
 a bit too much you can use the 
 [cv-pls userscript](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js).
@@ -262,10 +262,10 @@ Too make sure people don't abuse the system, we ask that you keep cv-pls'ing to 
 
 <a id="can-i-request-reopen"></a>**Reopen Votes Request** are perfectly welcome. If you see something that you think should be reopened, 
 we're more than happy to look at it. Note: most of the time reopen voting requires domain specific knowledge,
-so there could be no one in the room that truly understand the subject matter enough to make a judgement call.
+so there could be no one in the room that truly understand the subject matter enough to make a judgment call.
 
-<a id="can-i-request-delete"></a>**Delete Vote Requests** are for when you find a post that needs to be absolutly removed from the site. Please use
-this only when absolutly nessessary. We also ask that you have the power to delete vote before you request votes from others.
+<a id="can-i-request-delete"></a>**Delete Vote Requests** are for when you find a post that needs to be absolutely removed from the site. Please use
+this only when absolutely necessary. We also ask that you have the power to delete vote before you request votes from others.
 
 <a id="can-i-request-vlq-naa"></a>**Very Low Quality** (**VLQ**) or **Not an Answer** (**NAA**) flag requests are 
 not allowed here. Multiple of these flags on a single post does not process it faster, so bringing it 
