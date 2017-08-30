@@ -202,6 +202,9 @@ Other `-pls` requests follow the same format:<a id="cv-pls-format-other-requests
 
     [tag:reopen-pls] post has enough info now https://stackoverflow/q/12345
     [tag:del-pls] has no value to stay on site https://stackoverflow/q/12345
+    [tag:undel-pls] Adds value to site https://stackoverflow/q/12345
+    [tag:spam] https://stackoverflow/q/12345
+    [tag:offensive] https://stackoverflow/q/12345
 
 <h2 id="what-is-smoke-detector-and-how-can-i-participate">What is Smoke Detector and how can I participate?</h2>
 
