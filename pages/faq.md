@@ -174,8 +174,8 @@ guidelines for members to follow.
 
 <h2 id="how-and-why-do-i-need-to-format-my-cv-pls-and-other-requests">How and why do I need to format my cv-pls (and other requests)?</h2>
 
-The cv-pls is a commonly used format across different chatrooms on Stack Overflow. 
-You create a proper cv-pls as follows:<a id="cv-pls-format"></a>
+<a id="cv-pls-format"></a>The cv-pls is a commonly used format across different chatrooms on Stack Overflow.
+You create a proper cv-pls as follows:
 
     [tag:cv-pls] close reason https://stackoverflow/q/12345
 
@@ -189,8 +189,8 @@ The format is a bit strict because the room owners run an archiver script to mov
 closed question out of the transcript so they can be monitored for changes by Yam, 
 the GraveRobber bot.
 
-If you are using "duplicate" as a reason, it would be a good idea to include the 
-primary tag of the post with the request.<a id="cv-pls-format-duplicate-with-tag-tag"></a>
+<a id="cv-pls-format-duplicate-with-tag-tag"></a>If you are using "duplicate" as a reason, it would be a good idea to include the
+primary tag of the post with the request.
 
     [tag:cv-pls] [tag:asdf] duplicate https://stackoverflow/q/12345
     
@@ -198,7 +198,7 @@ Because closing as a duplicate requires more domain specific knowledge, informin
 other chat members of the primary tag helps them quickly figure out if they would 
 be effective in reviewing the request.
 
-Other `-pls` requests follow the same format:<a id="cv-pls-format-other-requests"></a>
+<a id="cv-pls-format-other-requests"></a>Other `-pls` requests follow the same format:
 
     [tag:reopen-pls] post has enough info now https://stackoverflow/q/12345
     [tag:del-pls] has no value to stay on site https://stackoverflow/q/12345
@@ -214,10 +214,10 @@ purpose is to find spam, abusive and low-quality posts. In the SOCVR room only
 Stack Overflow posts are reported. You can find detailed info about Smokey and 
 how you can interact with it [here](https://github.com/Charcoal-SE/SmokeDetector/wiki).
 
-To request SD privileges from the SOCVR room ping any of the room owners. They 
-will check your account for the following criteria:<a id="smoke-detector-criteria"></a>
+<a id="smoke-detector-request-privileges"></a>To request SD privileges from the SOCVR room ping any of the room owners. They
+will check your account for the following criteria:
 
-- Lurked for a while so you understand its capabilities.
+- <a id="smoke-detector-criteria"></a>Lurked for a while so you understand its capabilities.
 - Proven to know how to respond to reports.
 - Have a reasonable number of messages.
 - Have at least 1000 reputation.
