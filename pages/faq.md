@@ -120,7 +120,7 @@ reviewing, and clean-up efforts.
  2. Makes the final call in any dispute, unless the RO team decide otherwise.
  3. Pins relevant messages on the starboard
  4. Keeps the number of pinned items in the starboard to a minimum. It's OK to
-    update and replace an existing if the information is still relevant.
+    update and replace an existing pinned item if the information is still relevant.
  6. Plans, organizes, and runs periodic room meeting. Also collects and summarizes discussions for 
     public posting.
  7. Schedules and starts "Close Vote Queue" events.
