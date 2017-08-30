@@ -118,13 +118,14 @@ Understand our relationship with Meta:
 
  1. Is a role model for the kind of participation expected.
  2. Makes the final call in any dispute, unless the RO team decide otherwise.
+ 3. Pins relevant messages on the starboard
  4. Keeps the number of pinned items in the starboard to a minimum. It's ok to 
     update and replace an existing if the information is still relevant.
  6. Plans, organizes, and runs periodic room meeting. Also collects and summarizes discussions for 
     public posting.
  7. Schedules and starts "Close Vote Queue" events.
  8. Reels in conversation if it gets out of hand.
- 9. Moves messages or conversations to trash if necessary.
+ 9. Moves messages or conversations to the Sanitorium if necessary.
 10. Moves handled moderation requests to the 
     [CV Request Graveyard](https://chat.stackoverflow.com/rooms/90230).
 
