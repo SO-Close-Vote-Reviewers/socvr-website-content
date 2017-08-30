@@ -4,12 +4,12 @@ The [SO Close Vote Reviewers Chat Room](https://chat.stackoverflow.com/rooms/415
 is a group of like-minded people who want to make a difference in the CV queue, 
 reviewing, and clean-up efforts.
  
-# Table Of Contents
+# <a id="TOC"></a>Table Of Contents
 
-* [Quick Reference](#quick-reference)
+* <a id="TOC-quick-ref"></a>[Quick Reference](#quick-reference)
   * [General Expectations for Members](#general-expectations-for-members)
   * [Expectations for Room Owners](#expectations-for-room-owners)
-* [Common Questions](#common-questions)
+* <a id="TOC-common-questions"></a>[Common Questions](#common-questions)
   * [What is the SO Close Vote Reviewers Chat Room?](#what-is-the-so-close-vote-reviewers-chat-room-1)
   * [What sort of behavior is expected?](#what-sort-of-behavior-is-expected)
   * [What are the chat room rules?](#what-are-the-chat-room-rules)
@@ -32,84 +32,84 @@ reviewing, and clean-up efforts.
 
 <h2 id="general-expectations-for-members">General Expectations for Members</h2>
 
-Stay nice and professional in chat:
+<a id="GEfM-stay-nice"></a>Stay nice and professional in chat:
 
-1. Keep it professional, keep a high standard.
-2. All discussions are public.
+1. <a id="GEfM-professional"></a>Keep it professional, keep a high standard.
+2. <a id="GEfM-public"></a>All discussions are public.
    Anything you say can and will be used against you on meta. 
    The RO team has an offline/private lounge for sensitive subjects if necessary.
-3. In absence of all room owners, the members lead by example.
-4. De-escalate in case of disagreement.
-5. When chat flags are raised  
+3. <a id="GEfM-lead-by-example"></a>In absence of all room owners, the members lead by example.
+4. <a id="GEfM-de-escalate"></a>De-escalate in case of disagreement.
+5. <a id="GEfM-chat-flags"></a>When chat flags are raised  
    * Take them seriously.
    * Consider whether or not the flagged conversation should continue.
    * [Be Nice](https://stackoverflow.com/help/be-nice), and be sensitive to others' feelings.
 
-Keep the transcript clean:
+<a id="GEfM-clean-transcript"></a>Keep the transcript clean:
 
-6. Keep oneboxed images to a minimum. 
+6. <a id="GEfM-no-oneboxes"></a>Keep oneboxed images to a minimum. 
    We wish to keep the room civil and mostly on topic, but that does not mean you can't have a 
    little tasteful fun too. At any of the room owner's discretion, images may be moved to trash 
    at anytime without warning, such decisions are final. Obviously, offensive and NSFW images 
    are grounds for being kicked and moderator intervention.
-7. Please refrain from using [oneboxes](https://chat.stackoverflow.com/faq#formatting)/noisy formatting. 
+7. <a id="GEfM-not-noisy"></a>Please refrain from using [oneboxes](https://chat.stackoverflow.com/faq#formatting)/noisy formatting. 
    When posting a URL, use link syntax to make the link flow with the text, 
    like `look at [this post](https://www.example.com/)`.
-8. No GIFs or other animated images in chat. They are more distracting than one-boxed messages.
+8. <a id="GEfM-no-GIFs"></a>No GIFs or other animated images in chat. They are more distracting than one-boxed messages.
 
-Know what the room moderates:
+<a id="GEfM-what-room-moderates"></a>Know what the room moderates:
 
-9. We moderate the content of posts on Stack Overflow (closure/edit/review/delete). This means 
+9. <a id="GEfM-moderate-content-NOT-other"></a>We moderate the content of posts on Stack Overflow (closure/edit/review/delete). This means 
    that we *DO NOT* moderate:
    * User accounts (even if they are posting spam)
    * Other chat rooms
    * Meta Stack Overflow
    * Other Stack Exchange sites
 
-Be responsible with moderation requests:
+<a id="GEfM-responsible-moderation-requests"></a>Be responsible with moderation requests:
 
-10. Do not ask for up or down votes on any posts. While Shog9 has allowed organized voting in chat 
+10. <a id="GEfM-no-up-down-vote-requests"></a>Do not ask for up or down votes on any posts. While Shog9 has allowed organized voting in chat 
     rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of 
     support from the community at large, as such we don't want anything in the transcript that 
     could be perceived as us treating people unfairly.
-11. [[cv-pls]](https://meta.stackoverflow.com/a/262359) should **not** be a habit for users. 
+11. <a id="GEfM-cv-pls-not-a-habit"></a>[[cv-pls]](https://meta.stackoverflow.com/a/262359) should **not** be a habit for users. 
    Don't make it an instinct to fast-track every eligible post to the front of the closure system; 
    cv-pls is for posts that:
    -  are _really_ bad (low quality magnets)
    -  are a bad example used to justify other crap
    - have recent activity on the question (Edits, VLQ/NAA answer)
    - don't have enough users in that tag to close the post in time 
-12. Members are not expected to close vote any post you bring up. Furthermore, do not pressure anyone 
+12. <a id="GEfM-cv-pls-not-stab"></a>Members are not expected to close vote any post you bring up. Furthermore, do not pressure anyone 
     into doing so. cv-pls means "close vote please", not "close vote or I'll stab you."
-13. Avoid extended discussion about a cv-pls. We don't have to agree about a close request. We're 
+13. <a id="GEfM-avoid-extended-individual-cv-pls-discussion"></a>Avoid extended discussion about a cv-pls. We don't have to agree about a close request. We're 
     not a democracy. However, users that are posting cv-pls'es that are blatantly wrong will be 
     told so. The final verdict is on the RO team.
-14. Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
-15. Do not request action on a post that you have asked or answered.
-16. Do not request to re-tag a post so you can use your dupe-hammer.
+14. <a id="GEfM-no-boom"></a>Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
+15. <a id="GEfM-no-requests-youre-involved"></a>Do not request action on a post that you have asked or answered.
+16. <a id="GEfM-no-retag-so-can-hammer"></a>Do not request to re-tag a post so you can use your dupe-hammer.
 
-Don't moderate users:
+<a id="GEfM-dont-moderate-users"></a>Don't moderate users:
 
-17. Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
+17. <a id="GEfM-moderate-post-not-user"></a>Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
     of the user.
-18. Do not post multiple successive moderation requests for posts of the same user. It will be 
+18. <a id="GEfM-dont-target-users"></a>Do not post multiple successive moderation requests for posts of the same user. It will be 
     considered as targetting a user which is explicitly forbidden.
 
-Stay nice and professional when on a post:
+<a id="GEfM-nice-and-professional"></a>Stay nice and professional when on a post:
 
-19. Work **with** the OP to get their post into shape. Most content has some value. Save it before
+19. <a id="GEfM-try-to-save-content"></a>Work **with** the OP to get their post into shape. Most content has some value. Save it before
     you try to destroy it.
-20. A post is to be actively handled by **only one** member of the room. We don't need 4 members all 
+20. <a id="GEfM-only-one-member-on-post"></a>A post is to be actively handled by **only one** member of the room. We don't need 4 members all 
     leaving witty statements in the comments or in chat.
-21. If you leave a comment (or custom close reason) be prepared to interact with the OP. In all cases 
+21. <a id="GEfM-if-comment-interact-with-OP"></a>If you leave a comment (or custom close reason) be prepared to interact with the OP. In all cases 
     be nice and helpful.
 
-Understand our relationship with Meta:
+<a id="GEfM-understand-relationship-with-meta"></a>Understand our relationship with Meta:
 
-22. All members are accountable for their actions if/when such accountability is requested on meta.
-23. Don't [jump on the bandwagon](https://en.wiktionary.org/wiki/jump_on_the_bandwagon), specially on 
+22. <a id="GEfM-members-are-accountable"></a>All members are accountable for their actions if/when such accountability is requested on meta.
+23. <a id="GEfM-dont-jump-bandwagon"></a>Don't [jump on the bandwagon](https://en.wiktionary.org/wiki/jump_on_the_bandwagon), specially on 
     meta. The room is scrutinized on meta, not the other way around. 
-24. Tag burnination requests and tag cleanup requests _must_ be backed by an 
+24. <a id="GEfM-burnination-must-meta"></a>Tag burnination requests and tag cleanup requests _must_ be backed by an 
     [MSO](https://meta.stackoverflow.com) post that follows the 
     [tag burning process](https://meta.stackoverflow.com/q/324070).
  
@@ -175,7 +175,7 @@ guidelines for members to follow.
 <h2 id="how-and-why-do-i-need-to-format-my-cv-pls-and-other-requests">How and why do I need to format my cv-pls (and other requests)?</h2>
 
 The cv-pls is a commonly used format across different chatrooms on Stack Overflow. 
-You create a proper cv-pls as follows:
+You create a proper cv-pls as follows:<a id="cv-pls-format"></a>
 
     [tag:cv-pls] close reason https://stackoverflow/q/12345
 
@@ -190,7 +190,7 @@ closed question out of the transcript so they can be monitored for changes by Ya
 the GraveRobber bot.
 
 If you are using "duplicate" as a reason, it would be a good idea to include the 
-primary tag of the post with the request.
+primary tag of the post with the request.<a id="cv-pls-format-duplicate-with-tag-tag"></a>
 
     [tag:cv-pls] [tag:asdf] duplicate https://stackoverflow/q/12345
     
@@ -198,7 +198,7 @@ Because closing as a duplicate requires more domain specific knowledge, informin
 other chat members of the primary tag helps them quickly figure out if they would 
 be effective in reviewing the request.
 
-Other `-pls` requests follow the same format
+Other `-pls` requests follow the same format:<a id="cv-pls-format-other-requests"></a>
 
     [tag:reopen-pls] post has enough info now https://stackoverflow/q/12345
     [tag:del-pls] has no value to stay on site https://stackoverflow/q/12345
@@ -212,7 +212,7 @@ Stack Overflow posts are reported. You can find detailed info about Smokey and
 how you can interact with it [here](https://github.com/Charcoal-SE/SmokeDetector/wiki).
 
 To request SD privileges from the SOCVR room ping any of the room owners. They 
-will check your account for the following criteria:
+will check your account for the following criteria:<a id="smoke-detector-criteria"></a>
 
 - Lurked for a while so you understand its capabilities.
 - Proven to know how to respond to reports.
@@ -233,14 +233,14 @@ If a question is closed following a cv-pls that was posted in the room you can
 hop into the room for an explanation. Expect the following policy to be followed 
 to avoid any unnecessary drama:
 
-**Whoever first answers** (avoid crowding!):
+**<a id="closed-my-Q-first-answerer"></a>Whoever first answers** (avoid crowding!):
  1. Inform the user about what happened.
  2. Explanation of a cv-pls.
  3. How people in the room acted.
  4. What it means to have a question closed.
  5. Explain that from now on, only the author of the cv-pls is going to discuss.
 
-**Author of the cv-pls**:
+**<a id="closed-my-Q-cv-pls-author"></a>Author of the cv-pls**:
  1. Inform the user about the reasons why this happened.
  2. Why the question is off-topic.
  3. If it can be improved and how.
@@ -248,7 +248,7 @@ to avoid any unnecessary drama:
     [meta posts](https://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist), 
     IDYB, etc.).
 
-If the previous has not solved the issue, we will stop the discussion and redirect 
+<a id="closed-my-Q-go-to-meta"></a>If the previous has not solved the issue, we will stop the discussion and redirect 
 you to Meta to have our actions scrutinized by somewhat independent community members.
 
 <h2 id="can-i-request-people-to-vote-or-flag-on-posts-i-find">Can I request people to vote or flag on posts I find?</h2>
@@ -257,31 +257,31 @@ First of all, let us reiterate that you can request people to _look at_ posts yo
 **IN NO WAY REQUIRED** to vote or flag as you suggest. Bringing posts to chat is just a way to
 increase exposure to a post, not to create a mindless voting mob.
 
-**Close Vote Requests** are the most common request you'll find. Please follow the format a few sections above.
+<a id="can-i-request-cv"></a>**Close Vote Requests** are the most common request you'll find. Please follow the format a few sections above.
 Too make sure people don't abuse the system, we ask that you keep cv-pls'ing to a minimum until you have 3k rep for yourself.
 
-**Reopen Votes Request** are perfectly welcome. If you see something that you think should be reopened, 
+<a id="can-i-request-reopen"></a>**Reopen Votes Request** are perfectly welcome. If you see something that you think should be reopened, 
 we're more than happy to look at it. Note: most of the time reopen voting requires domain specific knowledge,
 so there could be no one in the room that truly understand the subject matter enough to make a judgement call.
 
-**Delete Vote Requests** are for when you find a post that needs to be absolutly removed from the site. Please use
+<a id="can-i-request-delete"></a>**Delete Vote Requests** are for when you find a post that needs to be absolutly removed from the site. Please use
 this only when absolutly nessessary. We also ask that you have the power to delete vote before you request votes from others.
 
-**Very Low Quality** (**VLQ**) or **Not an Answer** (**NAA**) flag requests are 
+<a id="can-i-request-vlq-naa"></a>**Very Low Quality** (**VLQ**) or **Not an Answer** (**NAA**) flag requests are 
 not allowed here. Multiple of these flags on a single post does not process it faster, so bringing it 
 to the room only creates noise.
 
-There is one exception to this rule: Requests to *re-flag* a post are allowed; only if the previous flag 
+<a id="can-i-request-re-flag"></a>There is one exception to this rule: Requests to *re-flag* a post are allowed; only if the previous flag 
 was invalidated due to an edit.
 
-**Spam** and **Offensive** flag requests are allowed; if enough of these flags 
+<a id="can-i-request-spam-offensive"></a>**Spam** and **Offensive** flag requests are allowed; if enough of these flags 
 accumulate, the post will be automatically deleted. Please be careful with these requests (by the time you say "spam", it's an accusation). If you are not 100% sure, _please_ consult with the room and wait for at least 2 people to confirm your suspicions.
 
-**Discussions** about whether or not **borderline** answers warrant flags are 
+<a id="can-i-request-borderline"></a>**Discussions** about whether or not **borderline** answers warrant flags are 
 allowed, as long as you are actually interested in a discussion and you aren't 
 trying to coerce users into flagging.
 
-**Comment flags** for rude/abusive comments are OK but **DO NOT** one-box the 
+<a id="can-i-request-comment-flag"></a>**Comment flags** for rude/abusive comments are OK but **DO NOT** one-box the 
 comment in our transcript as that might get chat flags which sort of defeats the 
 goal in the first place.
 
@@ -296,7 +296,7 @@ When you become a Room Owner we believe you are that for life. Even when
 circumstances changes and Room Owners turn down their participation knob we 
 still feel they are part of the team.
 
-The active room owners are:
+<a id="active-room-owners"></a>The active room owners are:
 
 * [rene](https://stackoverflow.com/users/578411)
 * [gunr2171](https://stackoverflow.com/users/1043380)
@@ -306,7 +306,7 @@ The active room owners are:
 * [Tiny Giant](https://stackoverflow.com/users/4639281)
 * [Kyll](https://stackoverflow.com/users/4174897)
 
-The inactive room owners are:
+<a id="inactive-room-owners"></a>The inactive room owners are:
 
 * [Mogsdad](https://stackoverflow.com/users/1677912)
 * [durron597](https://stackoverflow.com/users/1768232/durron597)
@@ -362,7 +362,7 @@ prevent you being invited, sorry.
 To make our live easier we have the support of five bots that you either can 
 interact with or make you aware of posts that might need our attention.
 
-**Smokey (aka Smoke Detector)**  
+<a id="bots-smokey"></a>**Smokey (aka Smoke Detector)**  
 The Smoke Detector is a  headless chatbot that detects spam or offensive content, 
 then posts links to it to chatrooms for review.  It is created and maintained by 
 the [Charcoal team](https://github.com/Charcoal-SE). In the SOCVR room we only get 
@@ -375,22 +375,22 @@ instead use a custom moderator flag and explain what you think the problem is.
 
 This room is about content, not users.
 
-**Closey (aka SOCVR-Chatbot)**  
+<a id="bots-closey"></a>**Closey (aka SOCVR-Chatbot)**  
 The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is 
 designed to track the actions of the members, provide statistics, and perform 
 repetitive tasks that otherwise would have to be done manually.
 
-**Yam (aka GraveRobber)**  
+<a id="bots-yam"></a>**Yam (aka GraveRobber)**  
 [Yam](https://github.com/SO-Close-Vote-Reviewers/GraveRobber) checks [cv-pls]es 
 which are moved to the graveyard to see if any of the posts warrant reopening.
 
-**Zephyr**  
+<a id="bots-zephyr"></a>**Zephyr**  
 [Zephyr](https://github.com/AWegnerGitHub/SE_Zephyr_VoteRequest_bot) is a headless 
 chatbot that monitors our room for vote requests (`cv-pls`, `spam`, `flag-pls`, 
 `del-pls`, etc.) from other users and then posts them in the 
 [LQPHQ](https://chat.meta.stackexchange.com/rooms/773/low-quality-posts-hq).
 
-**Queen**  
+<a id="bots-queen"></a>**Queen**  
 Is a bot for reporting duplicates to Gold Hammers so these get closed effectively. 
 Her hive is in the [SOCVFinder](https://chat.stackoverflow.com/rooms/111347/socvfinder). 
 She also reports very offensive comments for quick deletion.
@@ -424,7 +424,7 @@ please provide feedback.
 It's encouraged to invite users to the chat room to discuss issues involving 
 moderation activities that are coordinated or under discussion there.
 
-**Invitation etiquette**
+<a id="invitation-etiquette"></a>**Invitation etiquette**
 
 - An invitation means "join me, please", not "join me or I'll stab you!"
 - Set context for others in the room; before inviting a user to the room, post a 
