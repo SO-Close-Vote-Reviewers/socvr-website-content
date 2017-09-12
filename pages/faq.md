@@ -26,6 +26,7 @@ reviewing, and clean-up efforts.
   * [How can I join in?](#how-can-i-join-in)
   * [What if I think you made a mistake?](#what-if-i-think-you-made-a-mistake)
   * [Can I invite users here?](#can-i-invite-users-here)
+  * [Where can I continue off-topic discussions?](#where-can-i-continue-off-topic-discussions)
   * [Any resources to help?](#any-resources-to-help)
 
 <h1 id="quick-reference">Quick Reference</h1>
@@ -439,6 +440,14 @@ moderation activities that are coordinated or under discussion there.
 - Remember that the room members present are not your personal posse - everyone 
   is equal in the discussion, including the invitee, and all opinions deserve to 
   be heard and considered.
+
+<h2 id="where-can-i-continue-off-topic-discussions">Where can I continue off-topic discussions?</h2>
+
+When you end-up in an off-topic debate between some regulars that is no longer about the SOCVR or the moderation it entails or you have an urgency to post one-boxes do know that creating chatrooms is free. Anyone with 100 reputation can create them. 
+Please use that option once the discussion is not going to end quickly or if the sillyness would destroy the serious matters that take place at the SOCVR room. 
+
+If creating a room is too much effort to your liking you can use the [The Ministry of Silly Hats](https://chat.stackoverflow.com/rooms/92764) that was a spin-off by some regulars for the earlier mentioned reasons.
+Although that room isn't moderated as strictly as SOCVR, we like to point you to [Toward a philosophy of Chat](https://meta.stackexchange.com/questions/270587/toward-a-philosophy-of-chat) and [If you're gonna talk Politics, you must respect those who disagree](https://meta.stackexchange.com/questions/289398/if-youre-gonna-talk-politics-you-must-respect-those-who-disagree) to prevent any claims that we suggested that was a no rules chatroom. 
 
 <h2 id="any-resources-to-help">Any resources to help?</h2>
 
