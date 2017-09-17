@@ -181,7 +181,7 @@ You create a proper cv-pls as follows:
     [tag:cv-pls] close reason https://stackoverflow/q/12345
 
 The first bit creates a tag layout, the close reason is there so the other 
-members know what you think the correct reason is and finally the complete URL
+members know fwhat you think the correct reason is and finally the complete URL
 so the members can click on it. If you find the typing, copying, and remembering 
 a bit too much you can use the 
 [cv-pls userscript](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js).
@@ -308,7 +308,7 @@ still feel they are part of the team.
 * [Sam](https://stackoverflow.com/users/2246344)
 * [Tunaki](https://stackoverflow.com/users/1743880)
 * [Tiny Giant](https://stackoverflow.com/users/4639281)
-* [Kyll](https://stackoverflow.com/users/4174897)
+* [Paul Stenne](https://stackoverflow.com/users/4174897)
 
 <a id="inactive-room-owners"></a>The inactive room owners are:
 
