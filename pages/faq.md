@@ -88,6 +88,7 @@ reviewing, and clean-up efforts.
 14. <a id="GEfM-no-boom"></a>Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
 15. <a id="GEfM-no-requests-youre-involved"></a>Do not request action on a post that you have asked or answered.
 16. <a id="GEfM-no-retag-so-can-hammer"></a>Do not request to re-tag a post so you can use your dupe-hammer.
+17. <a id="GEfM-no-mod-ping"></a>Do [not ping moderators](https://meta.stackexchange.com/a/126990/158100) to expidate your flags or place requests that should be mod-flags in the first place.
 
 <a id="GEfM-dont-moderate-users"></a>Don't moderate users:
 
