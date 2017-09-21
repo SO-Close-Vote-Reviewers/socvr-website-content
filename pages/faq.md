@@ -92,26 +92,26 @@ reviewing, and clean-up efforts.
 
 <a id="GEfM-dont-moderate-users"></a>Don't moderate users:
 
-17. <a id="GEfM-moderate-post-not-user"></a>Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
+18. <a id="GEfM-moderate-post-not-user"></a>Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
     of the user.
-18. <a id="GEfM-dont-target-users"></a>Do not post multiple successive moderation requests for posts of the same user. It will be 
+19. <a id="GEfM-dont-target-users"></a>Do not post multiple successive moderation requests for posts of the same user. It will be 
     considered as targeting a user which is explicitly forbidden.
 
 <a id="GEfM-nice-and-professional"></a>Stay nice and professional when on a post:
 
-19. <a id="GEfM-try-to-save-content"></a>Work **with** the OP to get their post into shape. Most content has some value. Save it before
+20. <a id="GEfM-try-to-save-content"></a>Work **with** the OP to get their post into shape. Most content has some value. Save it before
     you try to destroy it.
-20. <a id="GEfM-only-one-member-on-post"></a>A post is to be actively handled by **only one** member of the room. We don't need 4 members all 
+21. <a id="GEfM-only-one-member-on-post"></a>A post is to be actively handled by **only one** member of the room. We don't need 4 members all 
     leaving witty statements in the comments or in chat.
-21. <a id="GEfM-if-comment-interact-with-OP"></a>If you leave a comment (or custom close reason) be prepared to interact with the OP. In all cases 
+22. <a id="GEfM-if-comment-interact-with-OP"></a>If you leave a comment (or custom close reason) be prepared to interact with the OP. In all cases 
     be nice and helpful.
 
 <a id="GEfM-understand-relationship-with-meta"></a>Understand our relationship with Meta:
 
-22. <a id="GEfM-members-are-accountable"></a>All members are accountable for their actions if/when such accountability is requested on meta.
-23. <a id="GEfM-dont-jump-bandwagon"></a>Don't [jump on the bandwagon](https://en.wiktionary.org/wiki/jump_on_the_bandwagon), specially on 
+23. <a id="GEfM-members-are-accountable"></a>All members are accountable for their actions if/when such accountability is requested on meta.
+24. <a id="GEfM-dont-jump-bandwagon"></a>Don't [jump on the bandwagon](https://en.wiktionary.org/wiki/jump_on_the_bandwagon), specially on 
     meta. The room is scrutinized on meta, not the other way around. 
-24. <a id="GEfM-burnination-must-meta"></a>Tag burnination requests and tag cleanup requests _must_ be backed by an 
+25. <a id="GEfM-burnination-must-meta"></a>Tag burnination requests and tag cleanup requests _must_ be backed by an 
     [MSO](https://meta.stackoverflow.com) post that follows the 
     [tag burning process](https://meta.stackoverflow.com/q/324070).
  
