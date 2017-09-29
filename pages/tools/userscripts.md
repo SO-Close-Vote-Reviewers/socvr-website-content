@@ -34,3 +34,11 @@ There are a bunch of [useful userscripts for Stack Overflow out there](https://s
    - Review questions in a tag with filtering on multiple criteria, including by close votes and delete votes 
  - [Roomba Forecaster](https://stackapps.com/questions/7239/roomba-forecaster-when-will-the-question-be-roombaed-if-it-wont-why "description and instructions on Stack Apps")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/makyen/StackExchange-userscripts/blob/master/Roomba-Forecaster/RoombaForecaster.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/makyen/StackExchange-userscripts/raw/master/Roomba-Forecaster/RoombaForecaster.user.js))</sub></sup>
    - Tells the user if the question is eligible for being deleted by the [Roomba](http://stackoverflow.com/help/roomba).
+
+### <a id="additional-scripts"></a>Additional Stack Exchange userscripts
+
+- [Charcoal HQ userscripts](https://github.com/Charcoal-SE/userscripts)
+  - scripts to provide feedback to [Smoke Detector](https://github.com/Charcoal-SE/SmokeDetector/wiki), among other things
+  - The ones to provide feedback to Smoke Detector require a [review-approved Metasmoke account](https://github.com/Charcoal-SE/Userscripts/wiki/FDSC#user-content-what-do-i-need-to-use-fdsc), in addition to being [authorized to use Smoke Detector](https://socvr.org/faq#what-is-smoke-detector-and-how-can-i-participate). 
+- [Stack Apps](https://stackapps.com/questions/tagged/script)
+  - wide variety of userscripts/browser extensions for Stack Exchange
