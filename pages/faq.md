@@ -452,8 +452,11 @@ Although that room isn't moderated as strictly as SOCVR, we like to point you to
 
 <h2 id="any-resources-to-help">Any resources to help?</h2>
 
-Members of chat have made some user scripts to help make your life easier (or just more enjoyable).
+Members of chat have [made some user scripts](./tools/userscripts) to help make your life easier (or just more enjoyable).
 
+* [*-pls Request Generator](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js) - Add a button to question pages which will send a *-pls request to a chat room (e.g. SOCVR). 
+* [Magic™ Editor](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/Magic%E2%84%A2Editor.user.js) - Fixes most common grammatical and usage errors with a click
+* [Unclosed Request reviewer](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/UnclosedRequestReview.user.js) - searches all cv-pls requests in SOCVR and shows the ones that are still open.
 * [Shortcut keys](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/CloseVoteShortcuts.user.js) - 
   A script that allows a user to use the number keys to click review buttons, 
   speeding up review time.
@@ -462,8 +465,6 @@ Members of chat have made some user scripts to help make your life easier (or ju
   [Auto review Comments](https://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se)
 * [Bot Commands Auto-complete](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/BotCommands.user.js) - 
   Auto completes commands for the chat bot.
-* [Stack Exchange Editor Toolkit](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/Magic%E2%84%A2Editor.user.js) - 
-  Fixes most common grammatical and usage errors with a click
 * [Other user scripts](https://github.com/SO-Close-Vote-Reviewers/UserScripts)
 
 We have a chat bot that you can play around with and help keep track of our activities. 
