@@ -13,13 +13,13 @@ There are a bunch of [useful userscripts for Stack Overflow out there](https://s
 
 
  - [\*-pls Generator](https://github.com/SO-Close-Vote-Reviewers/UserScripts#so-close-vote-request-generator "instructions in our GitHub repository")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/SECloseVoteRequestGenerator.user.js))</sub></sup>
-   -  This userscript is the primary method of posting `cv-pls` requests to SOCVR. 
-   -  adds a link under each question, so you can send a `cv-pls` to a chatroom (e.g. SOCVR)
+   -  This userscript is the primary method of posting cv-pls requests to SOCVR.
+   -  adds a link under each question, so you can send a cv-pls to a chatroom (e.g. SOCVR)
    -  When you're unable to install userscripts, limited functionality is [available as a bookmarklet](https://github.com/SO-Close-Vote-Reviewers/UserScripts#so-close-vote-request-generator-bookmarklet).
  - [Magic™ Editor](https://github.com/SO-Close-Vote-Reviewers/UserScripts#magic-editor "instructions in our GitHub repository")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/Magic%E2%84%A2Editor.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/Magic%E2%84%A2Editor.user.js))</sub></sup>
    - While you're editing a post, one click fixes the most common spelling and grammar mistakes.
  - Unclosed Request reviewer&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/UnclosedRequestReview.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/UnclosedRequestReview.user.js))</sub></sup>
-   - searches all `cv-pls` requests in SOCVR and shows the ones that are still open.
+   - searches all cv-pls requests in SOCVR and shows the ones that are still open.
  - Review Finder&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/ReviewFinder.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/ReviewFinder.user.js))</sub></sup>
    - finds a post id in the review queue.
  - Close Vote Review Shortcuts&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/CloseVoteShortcuts.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/CloseVoteShortcuts.user.js))</sub></sup>
