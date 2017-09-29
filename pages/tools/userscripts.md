@@ -30,5 +30,7 @@ There are a bunch of [useful userscripts for Stack Overflow out there](https://s
 
  - [AutoReviewComments](http://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se "description and instructions on Stack Apps")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/Benjol/SE-AutoReviewComments))</sub></sup>&nbsp;<sup><sub>([install](https://raw.github.com/Benjol/SE-AutoReviewComments/master/dist/autoreviewcomments.user.js))</sub></sup>
    - You can use [our collection of comments](https://github.com/SO-Close-Vote-Reviewers/auto-comments), or create your own.
+ - Magic™ Tag Review 2&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/Tiny-Giant/myuserscripts/blob/master/MagicTagReview2.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/Tiny-Giant/myuserscripts/raw/master/MagicTagReview2.user.js))</sub></sup>
+   - Review questions in a tag with filtering on multiple criteria, including by close votes and delete votes 
  - [Roomba Forecaster](https://stackapps.com/questions/7239/roomba-forecaster-when-will-the-question-be-roombaed-if-it-wont-why "description and instructions on Stack Apps")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/makyen/StackExchange-userscripts/blob/master/Roomba-Forecaster/RoombaForecaster.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/makyen/StackExchange-userscripts/raw/master/Roomba-Forecaster/RoombaForecaster.user.js))</sub></sup>
    - Tells the user if the question is eligible for being deleted by the [Roomba](http://stackoverflow.com/help/roomba).
