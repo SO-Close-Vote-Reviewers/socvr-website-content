@@ -182,7 +182,7 @@ You create a proper cv-pls as follows:
     [tag:cv-pls] close reason https://stackoverflow/q/12345
 
 The first bit creates a tag layout, the close reason is there so the other 
-members know fwhat you think the correct reason is and finally the complete URL
+members know what you think the correct reason is and finally the complete URL
 so the members can click on it. If you find the typing, copying, and remembering 
 a bit too much you can use the 
 [cv-pls userscript](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js).
@@ -205,6 +205,8 @@ be effective in reviewing the request.
     [tag:reopen-pls] post has enough info now https://stackoverflow/q/12345
     [tag:del-pls] has no value to stay on site https://stackoverflow/q/12345
     [tag:undel-pls] Adds value to site https://stackoverflow/q/12345
+    [tag:approve-pls] Important edit w/ reject https://stackoverflow.com/review/suggested-edits/12345
+    [tag:reject-pls] Plagiarism from [link]() https://stackoverflow.com/review/suggested-edits/12345
     [tag:spam] https://stackoverflow/q/12345
     [tag:offensive] https://stackoverflow/q/12345
 
@@ -289,6 +291,8 @@ trying to coerce users into flagging.
 <a id="can-i-request-comment-flag"></a>**Comment flags** for rude/abusive comments are OK but **DO NOT** one-box the 
 comment in our transcript as that might get chat flags which sort of defeats the 
 goal in the first place.
+
+<a id="can-i-request-approve-reject"></a>**Approve** and **reject** requests for suggested edit reviews are permitted. As with most requests, these should be used sparingly, usually only when it looks like the outcome you believe correct is unlikely without additional attention and you can't make it happen yourself. As with all requests, you should avoid posting requests about something you're involved with (i.e. your own edits). However, if you're removing existing plagiarism from tag-wikis/tag-excerpts, it's acceptable to post an approve-pls about your own edit.
 
 <h2 id="what-about-docs">What about Docs?</h2>
 
