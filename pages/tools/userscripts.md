@@ -1,28 +1,34 @@
 # Userscripts
 
-There are a bunch of useful userscripts for Stack Overflow out there. Userscripts add functionality to the site by running scripts in your browser. All major browsers support userscripts by installing a plugin, for example [Tamper Monkey](https://tampermonkey.net/) or [Grease Monkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+There are a bunch of [useful userscripts for Stack Overflow out there](https://stackapps.com/questions/tagged/script "userscripts and browser extensions on Stack Apps"). Userscripts add functionality to the site by running scripts in your browser. All major browsers support userscripts by installing a userscript manager extension, for example [Tampermonkey](https://tampermonkey.net/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
 
-[How to install a userscript?](https://greasyfork.org/en/help/installing-user-scripts)
+- [How to install a userscript?](https://greasyfork.org/en/help/installing-user-scripts)
+ - With Tampermonkey or Greasemonkey installed, from a GitHub userscript page you can [click the "Raw" button](https://i.stack.imgur.com/75kID.gif "GIF showing what happens in Tampermonkey when you click the 'Raw' button").</dd>
 
-### Our own scripts
+### <a id="our-scripts"></a>Our own scripts
 
-Find the full list [here](https://github.com/SO-Close-Vote-Reviewers/UserScripts)!
+##### See [our GitHub userscript repository](https://github.com/SO-Close-Vote-Reviewers/UserScripts) with the full list of our scripts!
 
- - [\*-pls Generator](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js)
-   -  adds a link under a question so you can send a cv-pls to a chatroom  
- - [Magic™ Editor](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/Magic%E2%84%A2Editor.user.js)
-   - fixes the most common found spelling and grammar mistakes in posts with one-click while editing a post   
- - [Unclosed Request reviewer](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/UnclosedRequestReview.user.js)
-   - searches all CV-PLS in the room and show the ones that are still open.   
- - [Review Finder](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/ReviewFinder.user.js)
-   - Finds a post id in the review queue.  
- - [Close Vote Review Shortcuts](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/CloseVoteShortcuts.user.js)
-   - adds keyboard shortcuts in the /review/close view and close dialog so your hands have never leave the keyboard   
+##### <a id="our-commonly-used-scripts"></a>Our most commonly used scripts
 
 
-### Endorsed scripts
+ - [\*-pls Generator](https://github.com/SO-Close-Vote-Reviewers/UserScripts#so-close-vote-request-generator "instructions in our GitHub repository")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/SECloseVoteRequestGenerator.user.js))</sub></sup>
+   -  This userscript is the primary method of posting `cv-pls` requests to SOCVR. 
+   -  adds a link under each question, so you can send a `cv-pls` to a chatroom (e.g. SOCVR)
+   -  When you're unable to install userscripts, limited functionality is [available as a bookmarklet](https://github.com/SO-Close-Vote-Reviewers/UserScripts#so-close-vote-request-generator-bookmarklet).
+ - [Magic™ Editor](https://github.com/SO-Close-Vote-Reviewers/UserScripts#magic-editor "instructions in our GitHub repository")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/Magic%E2%84%A2Editor.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/Magic%E2%84%A2Editor.user.js))</sub></sup>
+   - While you're editing a post, one click fixes the most common spelling and grammar mistakes.
+ - Unclosed Request reviewer&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/UnclosedRequestReview.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/UnclosedRequestReview.user.js))</sub></sup>
+   - searches all `cv-pls` requests in SOCVR and shows the ones that are still open.
+ - Review Finder&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/ReviewFinder.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/ReviewFinder.user.js))</sub></sup>
+   - finds a post id in the review queue.
+ - Close Vote Review Shortcuts&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/CloseVoteShortcuts.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/CloseVoteShortcuts.user.js))</sub></sup>
+   - adds keyboard shortcuts in the close-vote review-queue and close dialog, so your hands never have to leave the keyboard
 
- - [AutoReviewComments](http://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se)
-   - for use with our collection of [comments](https://github.com/SO-Close-Vote-Reviewers/auto-comments)
- - [Roomba Forecaster](https://github.com/makyen/StackExchange-userscripts/tree/master/Roomba-Forecaster) 
+
+### <a id="endorsed-scripts"></a>Endorsed scripts
+
+ - [AutoReviewComments](http://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se "description and instructions on Stack Apps")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/Benjol/SE-AutoReviewComments))</sub></sup>&nbsp;<sup><sub>([install](https://raw.github.com/Benjol/SE-AutoReviewComments/master/dist/autoreviewcomments.user.js))</sub></sup>
+   - You can use [our collection of comments](https://github.com/SO-Close-Vote-Reviewers/auto-comments), or create your own.
+ - [Roomba Forecaster](https://stackapps.com/questions/7239/roomba-forecaster-when-will-the-question-be-roombaed-if-it-wont-why "description and instructions on Stack Apps")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/makyen/StackExchange-userscripts/blob/master/Roomba-Forecaster/RoombaForecaster.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/makyen/StackExchange-userscripts/raw/master/Roomba-Forecaster/RoombaForecaster.user.js))</sub></sup>
    - Tells the user if the question is eligible for being deleted by the [Roomba](http://stackoverflow.com/help/roomba).
