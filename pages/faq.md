@@ -179,7 +179,7 @@ guidelines for members to follow.
 <a id="cv-pls-format"></a>The cv-pls is a commonly used format across different chatrooms on Stack Overflow.
 You create a proper cv-pls as follows:
 
-    [tag:cv-pls] close reason https://stackoverflow/q/12345
+    [tag:cv-pls] close reason https://stackoverflow.com/q/12345
 
 The first bit creates a tag layout, the close reason is there so the other 
 members know fwhat you think the correct reason is and finally the complete URL
@@ -194,7 +194,7 @@ the GraveRobber bot.
 <a id="cv-pls-format-duplicate-with-tag-tag"></a>If you are using "duplicate" as a reason, it would be a good idea to include the
 primary tag of the post with the request.
 
-    [tag:cv-pls] [tag:asdf] duplicate https://stackoverflow/q/12345
+    [tag:cv-pls] [tag:asdf] duplicate https://stackoverflow.com/q/12345
     
 Because closing as a duplicate requires more domain specific knowledge, informing 
 other chat members of the primary tag helps them quickly figure out if they would 
@@ -202,11 +202,11 @@ be effective in reviewing the request.
 
 <a id="cv-pls-format-other-requests"></a>Other `-pls` requests follow the same format:
 
-    [tag:reopen-pls] post has enough info now https://stackoverflow/q/12345
-    [tag:del-pls] has no value to stay on site https://stackoverflow/q/12345
-    [tag:undel-pls] Adds value to site https://stackoverflow/q/12345
-    [tag:spam] https://stackoverflow/q/12345
-    [tag:offensive] https://stackoverflow/q/12345
+    [tag:reopen-pls] post has enough info now https://stackoverflow.com/q/12345
+    [tag:del-pls] has no value to stay on site https://stackoverflow.com/q/12345
+    [tag:undel-pls] Adds value to site https://stackoverflow.com/q/12345
+    [tag:spam] https://stackoverflow.com/q/12345
+    [tag:offensive] https://stackoverflow.com/q/12345
 
 <h2 id="what-is-smoke-detector-and-how-can-i-participate">What is Smoke Detector and how can I participate?</h2>
 
