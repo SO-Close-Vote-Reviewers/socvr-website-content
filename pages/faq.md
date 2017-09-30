@@ -179,7 +179,7 @@ guidelines for members to follow.
 <a id="cv-pls-format"></a>The cv-pls is a commonly used format across different chatrooms on Stack Overflow.
 You create a proper cv-pls as follows:
 
-    [tag:cv-pls] close reason https://stackoverflow/q/12345
+    [tag:cv-pls] close reason https://stackoverflow.com/q/12345
 
 The first bit creates a tag layout, the close reason is there so the other 
 members know what you think the correct reason is and finally the complete URL
@@ -194,7 +194,7 @@ the GraveRobber bot.
 <a id="cv-pls-format-duplicate-with-tag-tag"></a>If you are using "duplicate" as a reason, it would be a good idea to include the
 primary tag of the post with the request.
 
-    [tag:cv-pls] [tag:asdf] duplicate https://stackoverflow/q/12345
+    [tag:cv-pls] [tag:asdf] duplicate https://stackoverflow.com/q/12345
     
 Because closing as a duplicate requires more domain specific knowledge, informing 
 other chat members of the primary tag helps them quickly figure out if they would 
@@ -202,13 +202,13 @@ be effective in reviewing the request.
 
 <a id="cv-pls-format-other-requests"></a>Other `-pls` requests follow the same format:
 
-    [tag:reopen-pls] post has enough info now https://stackoverflow/q/12345
-    [tag:del-pls] has no value to stay on site https://stackoverflow/q/12345
-    [tag:undel-pls] Adds value to site https://stackoverflow/q/12345
+    [tag:reopen-pls] post has enough info now https://stackoverflow.com/q/12345
+    [tag:del-pls] has no value to stay on site https://stackoverflow.com/q/12345
+    [tag:undel-pls] Adds value to site https://stackoverflow.com/q/12345
     [tag:approve-pls] Removes plagiarism, has reject vote https://stackoverflow.com/review/suggested-edits/12345
     [tag:reject-pls] Plagiarism from [link]() https://stackoverflow.com/review/suggested-edits/12345
-    [tag:spam] https://stackoverflow/q/12345
-    [tag:offensive] https://stackoverflow/q/12345
+    [tag:spam] https://stackoverflow.com/q/12345
+    [tag:offensive] https://stackoverflow.com/q/12345
 
 <h2 id="what-is-smoke-detector-and-how-can-i-participate">What is Smoke Detector and how can I participate?</h2>
 
@@ -456,8 +456,11 @@ Although that room isn't moderated as strictly as SOCVR, we like to point you to
 
 <h2 id="any-resources-to-help">Any resources to help?</h2>
 
-Members of chat have made some user scripts to help make your life easier (or just more enjoyable).
+Members of chat have [made some user scripts](./tools/userscripts) to help make your life easier (or just more enjoyable).
 
+* [*-pls Request Generator](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js) - Add a button to question pages which will send a *-pls request to a chat room (e.g. SOCVR). 
+* [Magic™ Editor](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/Magic%E2%84%A2Editor.user.js) - Fixes most common grammatical and usage errors with a click
+* [Unclosed Request reviewer](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/UnclosedRequestReview.user.js) - searches all cv-pls requests in SOCVR and shows the ones that are still open.
 * [Shortcut keys](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/CloseVoteShortcuts.user.js) - 
   A script that allows a user to use the number keys to click review buttons, 
   speeding up review time.
@@ -466,8 +469,6 @@ Members of chat have made some user scripts to help make your life easier (or ju
   [Auto review Comments](https://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se)
 * [Bot Commands Auto-complete](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/BotCommands.user.js) - 
   Auto completes commands for the chat bot.
-* [Stack Exchange Editor Toolkit](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/Magic%E2%84%A2Editor.user.js) - 
-  Fixes most common grammatical and usage errors with a click
 * [Other user scripts](https://github.com/SO-Close-Vote-Reviewers/UserScripts)
 
 We have a chat bot that you can play around with and help keep track of our activities. 
