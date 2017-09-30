@@ -205,7 +205,7 @@ be effective in reviewing the request.
     [tag:reopen-pls] post has enough info now https://stackoverflow/q/12345
     [tag:del-pls] has no value to stay on site https://stackoverflow/q/12345
     [tag:undel-pls] Adds value to site https://stackoverflow/q/12345
-    [tag:approve-pls] Important edit w/ reject https://stackoverflow.com/review/suggested-edits/12345
+    [tag:approve-pls] Removes plagiarism, has reject vote https://stackoverflow.com/review/suggested-edits/12345
     [tag:reject-pls] Plagiarism from [link]() https://stackoverflow.com/review/suggested-edits/12345
     [tag:spam] https://stackoverflow/q/12345
     [tag:offensive] https://stackoverflow/q/12345
