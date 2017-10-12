@@ -311,12 +311,12 @@ still feel they are part of the team.
 * [gunr2171](https://stackoverflow.com/users/1043380)
 * [NathanOliver](https://stackoverflow.com/users/4342498)
 * [Sam](https://stackoverflow.com/users/2246344)
-* [Tunaki](https://stackoverflow.com/users/1743880)
 * [Tiny Giant](https://stackoverflow.com/users/4639281)
 * [Paul Stenne](https://stackoverflow.com/users/4174897)
 
 <a id="inactive-room-owners"></a>The inactive room owners are:
 
+* [Tunaki](https://stackoverflow.com/users/1743880)
 * [Mogsdad](https://stackoverflow.com/users/1677912)
 * [durron597](https://stackoverflow.com/users/1768232/durron597)
 * [Andrew Cheong](https://stackoverflow.com/users/925913/andrew-cheong) - The original 
