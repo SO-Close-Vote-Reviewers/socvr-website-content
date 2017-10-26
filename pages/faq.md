@@ -76,10 +76,10 @@ reviewing, and clean-up efforts.
 11. <a id="GEfM-cv-pls-not-a-habit"></a>[[cv-pls]](https://meta.stackoverflow.com/a/262359) should **not** be a habit for users. 
    Don't make it an instinct to fast-track every eligible post to the front of the closure system; 
    cv-pls is for posts that:
-   -  are _really_ bad (low quality magnets)
-   -  are a bad example used to justify other crap
-   - have recent activity on the question (Edits, VLQ/NAA answer)
-   - don't have enough users in that tag to close the post in time 
+    - are _really_ bad (low quality magnets)
+    - are a bad example used to justify other crap
+    - have recent activity on the question (Edits, VLQ/NAA answer)
+    - don't have enough users in that tag to close the post in time
 12. <a id="GEfM-cv-pls-not-stab"></a>Members are not expected to close vote any post you bring up. Furthermore, do not pressure anyone 
     into doing so. cv-pls means "close vote please", not "close vote or I'll stab you."
 13. <a id="GEfM-avoid-extended-individual-cv-pls-discussion"></a>Avoid extended discussion about a cv-pls. We don't have to agree about a close request. We're 
