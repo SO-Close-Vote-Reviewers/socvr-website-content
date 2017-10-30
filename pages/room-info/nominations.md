@@ -14,8 +14,7 @@ This page contains links to the different nominations to join the Room Owner tea
 [Humorous example nomination](https://gist.github.com/CloseyV1/bfc36ae0c8e58153b067).
 
 ## November 2017
-
-<!-- add people here in nomination order, remove this when one is added -->
+- [Petter Friberg](https://gist.github.com/jdd-software/5f6e6dc8f1e4a17c537945c684c62221)
 
 ## October 2016
 - [Kyll](https://gist.github.com/Aralun/b9dc9e32c02ab26ffeae806a276d1276)
