@@ -15,6 +15,7 @@ This page contains links to the different nominations to join the Room Owner tea
 
 ## November 2017
 - [Petter Friberg](https://gist.github.com/jdd-software/5f6e6dc8f1e4a17c537945c684c62221)
+- [Machavity](https://gist.github.com/machavity/ea0cf9346eb20ee37305dd86f8e8ce23)
 
 ## October 2016
 - [Kyll](https://gist.github.com/Aralun/b9dc9e32c02ab26ffeae806a276d1276)
