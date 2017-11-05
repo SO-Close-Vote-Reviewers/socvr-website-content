@@ -218,6 +218,8 @@ purpose is to find spam, abusive and low-quality posts. In the SOCVR room only
 Stack Overflow posts are reported. You can find detailed info about Smokey and 
 how you can interact with it [here](https://github.com/Charcoal-SE/SmokeDetector/wiki).
 
+Because SOCVR does not moderate users, the SD commands `!!/allspam` and `!!/reportuser` are not permitted in SOCVR.
+
 <a id="smoke-detector-request-privileges"></a>To request SD privileges from the SOCVR room ping any of the room owners. They
 will check your account for the following criteria:
 
