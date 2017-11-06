@@ -27,3 +27,4 @@ Here you'll find  the resolutions and transcript of previous meetings:
 
 * [January](2017-01)
 * [May](2017-05)
+* [November](2017-11)
