@@ -84,7 +84,6 @@ reviewing, and clean-up efforts.
     "If there's something really bad and it has to go, then get it gone - otherwise, don't sweat the small stuff, it'll end up gone eventually - and if no one's seeing it - who cares?" <sup>[source](https://chat.stackoverflow.com/transcript/108179?m=39907227#39907227)</sup>   
     del-pls is for posts that:
       - are _really_ bad, but which don't quite make it to abusive/spam (use flags for those)
-      - is generating a lot of off-topic comments and the OP is getting agitated
 12. <a id="GEfM-cv-pls-not-stab"></a>Members are not expected to close vote any post you bring up. Furthermore, do not pressure anyone 
     into doing so. cv-pls means "close vote please", not "close vote or I'll stab you." This applies to all types of requests.
 13. <a id="GEfM-avoid-extended-individual-cv-pls-discussion"></a>Avoid extended discussion about a cv-pls. We don't have to agree about a close request. We're 
@@ -93,7 +92,7 @@ reviewing, and clean-up efforts.
 14. <a id="GEfM-no-boom"></a>Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
 15. <a id="GEfM-no-requests-youre-involved"></a>Do not request action on a post that you have asked or answered, or for an edit which you have made.
 16. <a id="GEfM-no-retag-so-can-hammer"></a>Do not request to re-tag a post so you can use your dupe-hammer.
-17. <a id="GEfM-no-mod-ping"></a>Do [not ping moderators](https://meta.stackexchange.com/a/126990/158100) to expedite your flags or place requests that should be mod-flags in the first place. Pinging mods already engaged in general conversation is acceptable, you're just addressing them. Pinging mods for anything that could be handled with a flag is not acceptable. Ask the room about how to handle non-flag moderation problems. `@`ing a moderator to fix your problem is not fine - that's what flags are for. It's not acceptable for you to change the topic of conversation with the mod to being about your problem. It is fine to *continue* a discussion topic introduced by the moderator, even if you beginning that discussion would otherwise not be permitted. 
+17. <a id="GEfM-no-mod-ping"></a>[Pinging moderators](https://meta.stackexchange.com/a/126990/158100) for anything that could be handled with a flag is not acceptable, nor is changing the topic of conversation with a moderator to be about a flaggable issue. It is fine to *continue* a discussion topic introduced by a moderator, even if you beginning that discussion would otherwise not be permitted. 
 
 <a id="GEfM-dont-moderate-users"></a>Don't moderate users:
 
