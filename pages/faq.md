@@ -69,26 +69,30 @@ reviewing, and clean-up efforts.
 
 <a id="GEfM-responsible-moderation-requests"></a>Be responsible with moderation requests:
 
-10. <a id="GEfM-no-up-down-vote-requests"></a>Do not ask for up or down votes on any posts. While Shog9 has allowed organized voting in chat 
+10. <a id="GEfM-no-up-down-vote-requests"></a>Do not ask for up- or down-votes on any posts. While Shog9 has allowed organized voting in chat 
     rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of 
     support from the community at large, as such we don't want anything in the transcript that 
     could be perceived as us treating people unfairly.
-11. <a id="GEfM-cv-pls-not-a-habit"></a>[[cv-pls]](https://meta.stackoverflow.com/a/262359) should **not** be a habit for users. 
-   Don't make it an instinct to fast-track every eligible post to the front of the closure system; 
-   cv-pls is for posts that:
-    - are _really_ bad (low quality magnets)
-    - are a bad example used to justify other crap
-    - have recent activity on the question (Edits, VLQ/NAA answer)
-    - don't have enough users in that tag to close the post in time
+11. <a id="GEfM-cv-pls-not-a-habit"></a>Moderation requests (e.g. [[cv-pls]](https://meta.stackoverflow.com/a/262359), [del-pls], etc.) should **not** be a habit for users. 
+    - `cv-pls`: Don't make it an instinct to fast-track every eligible post to the front of the closure system;  
+   cv-pls is for questions that:
+      - are _really_ bad (low quality magnets)
+      - are a bad example used to justify other crap
+      - have recent activity on the question (Edits, VLQ/NAA answer)
+      - don't have enough users in that tag to close the question in time
+    - `del-pls`: Unless there's a good reason, it doesn't have to be *now* (i.e. unless there's a good reason, wait to post the del-pls until the post is actually eligible for deletion-votes).  
+    "If there's something really bad and it has to go, then get it gone - otherwise, don't sweat the small stuff, it'll end up gone eventually - and if no one's seeing it - who cares?" <sup>[source](https://chat.stackoverflow.com/transcript/108179?m=39907227#39907227)</sup>   
+    del-pls is for posts that:
+      - are _really_ bad, but which don't quite make it to abusive/spam (use flags for those)
 12. <a id="GEfM-cv-pls-not-stab"></a>Members are not expected to close vote any post you bring up. Furthermore, do not pressure anyone 
-    into doing so. cv-pls means "close vote please", not "close vote or I'll stab you."
+    into doing so. cv-pls means "close vote please", not "close vote or I'll stab you." This applies to all types of requests.
 13. <a id="GEfM-avoid-extended-individual-cv-pls-discussion"></a>Avoid extended discussion about a cv-pls. We don't have to agree about a close request. We're 
     not a democracy. However, users that are posting cv-pls'es that are blatantly wrong will be 
     told so. The final verdict is on the RO team.
 14. <a id="GEfM-no-boom"></a>Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
-15. <a id="GEfM-no-requests-youre-involved"></a>Do not request action on a post that you have asked or answered.
+15. <a id="GEfM-no-requests-youre-involved"></a>Do not request action on a post that you have asked or answered, or for an edit which you have made.
 16. <a id="GEfM-no-retag-so-can-hammer"></a>Do not request to re-tag a post so you can use your dupe-hammer.
-17. <a id="GEfM-no-mod-ping"></a>Do [not ping moderators](https://meta.stackexchange.com/a/126990/158100) to expidate your flags or place requests that should be mod-flags in the first place.
+17. <a id="GEfM-no-mod-ping"></a>[Pinging moderators](https://meta.stackexchange.com/a/126990/158100) for anything that could be handled with a flag is not acceptable, nor is changing the topic of conversation with a moderator to be about a flaggable issue. It is fine to *continue* a discussion topic introduced by a moderator, even if you beginning that discussion would otherwise not be permitted. 
 
 <a id="GEfM-dont-moderate-users"></a>Don't moderate users:
 
@@ -294,7 +298,7 @@ trying to coerce users into flagging.
 comment in our transcript as that might get chat flags which sort of defeats the 
 goal in the first place.
 
-<a id="can-i-request-approve-reject"></a>**Approve** and **reject** requests for suggested edit reviews are permitted. As with most requests, these should be used sparingly, usually only when it looks like the outcome you believe correct is unlikely without additional attention and you can't make it happen yourself. As with all requests, you should avoid posting requests about something you're involved with (i.e. your own edits). However, if you're removing existing plagiarism from tag-wikis/tag-excerpts, it's acceptable to post an approve-pls about your own edit.
+<a id="can-i-request-approve-reject"></a>**Approve** and **reject** requests for suggested edit reviews are permitted. As with most requests, these should be used sparingly, usually only when it looks like the outcome you believe correct is unlikely without additional attention and you can't make it happen yourself. As with all requests, requests about something you're involved with (i.e. your own edits) are not permitted.
 
 <h2 id="what-about-docs">What about Docs?</h2>
 
