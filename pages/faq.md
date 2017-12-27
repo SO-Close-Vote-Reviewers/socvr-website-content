@@ -319,6 +319,7 @@ still feel they are part of the team.
 * [Sam](https://stackoverflow.com/users/2246344)
 * [Tiny Giant](https://stackoverflow.com/users/4639281)
 * [Paul Stenne](https://stackoverflow.com/users/4174897)
+* [Makyen](https://stackoverflow.com/users/3773011)
 
 <a id="inactive-room-owners"></a>The inactive room owners are:
 
