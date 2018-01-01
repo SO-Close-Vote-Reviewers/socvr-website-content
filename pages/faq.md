@@ -220,7 +220,7 @@ The Smoke Detector (aka Smokey, or SD) is a chat-bot operated by the
 [Charcoal team](https://charcoal-se.org/) and its 
 purpose is to find spam, abusive and low-quality posts. In the SOCVR room only 
 Stack Overflow posts are reported. You can find detailed info about Smokey and 
-how you can interact with it [here](https://github.com/Charcoal-SE/SmokeDetector/wiki).
+how you can interact with it [here](https://charcoal-se.org/smokey/).
 
 Because SOCVR does not moderate users, the SD commands `!!/allspam` and `!!/reportuser` are not permitted in SOCVR.
 
