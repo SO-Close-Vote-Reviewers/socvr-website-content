@@ -37,8 +37,8 @@ There are a bunch of [useful userscripts for Stack Overflow out there](https://s
 
 ### <a id="additional-scripts"></a>Additional Stack Exchange userscripts
 
-- [Charcoal HQ userscripts](https://github.com/Charcoal-SE/userscripts)
-  - scripts to provide feedback to [Smoke Detector](https://github.com/Charcoal-SE/SmokeDetector/wiki), among other things
+- [Charcoal HQ userscripts](https://charcoal-se.org/scripts)
+  - scripts to provide feedback to [Smoke Detector](https://charcoal-se.org/#whats-smokey), among other things
   - The ones to provide feedback to Smoke Detector require a [review-approved Metasmoke account](https://github.com/Charcoal-SE/Userscripts/wiki/FDSC#user-content-what-do-i-need-to-use-fdsc), in addition to being [authorized to use Smoke Detector](https://socvr.org/faq#what-is-smoke-detector-and-how-can-i-participate). 
 - [Stack Apps](https://stackapps.com/questions/tagged/script)
   - wide variety of userscripts/browser extensions for Stack Exchange
