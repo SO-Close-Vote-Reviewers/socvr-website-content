@@ -272,21 +272,22 @@ First of all, let us reiterate that you can request people to _look at_ posts yo
 **IN NO WAY REQUIRED** to vote or flag as you suggest. Bringing posts to chat is just a way to
 increase exposure to a post, not to create a mindless voting mob.
 
+Too make sure people don't abuse the system, requests for actions which you can not perform should be kept to a minimum.
+
 <a id="can-i-request-cv"></a>**Close Vote Requests** are the most common request you'll find. Please follow the format a few sections above.
-Too make sure people don't abuse the system, we ask that you keep cv-pls'ing to a minimum until you have 3k rep for yourself.
 
 <a id="can-i-request-reopen"></a>**Reopen Votes Request** are perfectly welcome. If you see something that you think should be reopened, 
-we're more than happy to look at it. Note: most of the time reopen voting requires domain specific knowledge,
+we're more than happy to look at it. Note: most of the time reopen-voting requires domain specific knowledge,
 so there could be no one in the room that truly understand the subject matter enough to make a judgment call.
 
 <a id="can-i-request-delete"></a>**Delete Vote Requests** are for when you find a post that needs to be absolutely removed from the site. Please use
-this only when absolutely necessary. We also ask that you have the power to delete vote before you request votes from others.
+this only when absolutely necessary.
 
 <a id="can-i-request-vlq-naa"></a>**Very Low Quality** (**VLQ**) or **Not an Answer** (**NAA**) flag requests are 
 not allowed here. Multiple of these flags on a single post does not process it faster, so bringing it 
 to the room only creates noise.
 
-<a id="can-i-request-re-flag"></a>There is one exception to this rule: Requests to *re-flag* a post are allowed; only if the previous flag 
+<a id="can-i-request-re-flag"></a>There is one exception to this rule: Requests to *re-flag* a post are allowed, but only if the previous flag 
 was invalidated due to an edit.
 
 <a id="can-i-request-spam-offensive"></a>**Spam** and **Offensive** flag requests are allowed; if enough of these flags 
