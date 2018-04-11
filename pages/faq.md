@@ -373,13 +373,18 @@ prevent you being invited, sorry.
 
 <h2 id="what-are-all-those-bots-doing-there">What are all those bots doing there?</h2>
 
-To make our live easier we have the support of five bots that you either can 
-interact with or make you aware of posts that might need our attention.
+To make our lives easier, we have the support of six bots that either you can
+interact with or which make you aware of posts that might need our attention.
+
+All bots that post in the room have to be cleared by the Room Owner team. Without
+their prior approval, bots will be kicked from the room as soon as they appear.
+
+If you are interested in bots and/or bot development, you might want to visit [SOBotics](https://chat.stackoverflow.com/rooms/111347/).
 
 <a id="bots-smokey"></a>**Smokey (aka Smoke Detector)**  
-The Smoke Detector is a  headless chatbot that detects spam or offensive content, 
+SmokeDetector is a  headless chatbot that detects spam or offensive content,
 then posts links to it to chatrooms for review.  It is created and maintained by 
-the [Charcoal team](https://github.com/Charcoal-SE). In the SOCVR room we only get 
+the [Charcoal team](https://github.com/Charcoal-SE). In SOCVR, we only get 
 reports for Stack Overflow.
 
 Smokey is for tracking spam, and offensive content. It is **not** for stalking 
@@ -389,28 +394,34 @@ instead use a custom moderator flag and explain what you think the problem is.
 
 This room is about content, not users.
 
-<a id="bots-closey"></a>**Closey (aka SOCVR-Chatbot)**  
-The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is 
-designed to track the actions of the members, provide statistics, and perform 
+<a id="bots-closey"></a>**Closey (aka SOCVR-Chatbot)** (currently inactive)  
+The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is
+designed to track the actions of the members, provide statistics, and perform
 repetitive tasks that otherwise would have to be done manually.
 
-<a id="bots-yam"></a>**Yam (aka GraveRobber)**  
-[Yam](https://github.com/SO-Close-Vote-Reviewers/GraveRobber) checks [cv-pls]es 
-which are moved to the graveyard to see if any of the posts warrant reopening.
-
-<a id="bots-zephyr"></a>**Zephyr**  
-[Zephyr](https://github.com/AWegnerGitHub/SE_Zephyr_VoteRequest_bot) is a headless 
-chatbot that monitors our room for vote requests (`cv-pls`, `spam`, `flag-pls`, 
-`del-pls`, etc.) from other users and then posts them in the 
-[LQPHQ](https://chat.meta.stackexchange.com/rooms/773/low-quality-posts-hq).
+<a id="bots-FireAlarm"></a>**FireAlarm**  
+This bot reports questions which are likely to be off-topic. If you feel a question
+reported by FireAlarm is worth of a `cv-pls`, then please post a completely separate
+`cv-pls` request. Those reported to SOCVR are a subset of all those identified by FireAlarm.
+FireAlarm reports more questions in [SOBotics](https://chat.stackoverflow.com/rooms/111347/sobotics) and [FireAlarm Development](https://chat.stackoverflow.com/rooms/123602/firealarm-development).
 
 <a id="bots-queen"></a>**Queen**  
-Is a bot for reporting duplicates to Gold Hammers so these get closed effectively. 
-Her hive is in the [SOCVFinder](https://chat.stackoverflow.com/rooms/111347/socvfinder). 
-She also reports very offensive comments for quick deletion.
+Is a bot for reporting duplicates to Gold Hammers so these get closed effectively.
+Potential duplicates are reported into tag-specific rooms, not SOCVR.
+Her hive is in the [SOCVFinder](https://chat.stackoverflow.com/rooms/111347/socvfinder).
+Queen also reports offensive comments for quick deletion. Queen primarily reports to [SOBotics](https://chat.stackoverflow.com/rooms/111347/sobotics),
+but does, occasionally, report offensive comments to SOCVR when additional rude/abusive flags
+are needed to delete the comment.
 
-All bots that post in the room have to be cleared by the Room Owner team. Without 
-their prior approval bots will be kicked as soon as they appear.
+<a id="bots-yam"></a>**Yam (aka GraveRobber)**  
+[Yam](https://github.com/SO-Close-Vote-Reviewers/GraveRobber) checks [cv-pls]es
+to see if the question warrants reopening/rescinding the `cv-pls` due to an edit.
+It will post a report in SOCVR and ping the person who posted a `cv-pls` request when
+the question has been edited with changes beyond Yam's configured threshold.
+
+<a id="bots-zephyr"></a>**Zephyr** (currently inactive)  
+[Zephyr](https://github.com/AWegnerGitHub/SE_Zephyr_VoteRequest_bot) is a headless chatbot that monitors our room for vote requests
+(`cv-pls`, `spam`, `flag-pls`, `del-pls`, etc.) from other users and then posts them in the [LQPHQ](https://chat.meta.stackexchange.com/rooms/773/low-quality-posts-hq).
 
 <h2 id="how-can-i-join-in">How can I join in?</h2>
 
