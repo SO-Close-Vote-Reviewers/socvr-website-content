@@ -131,7 +131,7 @@ reviewing, and clean-up efforts.
     public posting.
  7. Schedules and starts "Close Vote Queue" events.
  8. Reels in conversation if it gets out of hand.
- 9. Moves messages or conversations to the Sanitorium if necessary.
+ 9. Moves messages or conversations to the Sanitarium if necessary.
 10. Moves handled moderation requests to the 
     [CV Request Graveyard](https://chat.stackoverflow.com/rooms/90230).
 
@@ -453,7 +453,7 @@ moderation activities that are coordinated or under discussion there.
 <h2 id="where-can-i-continue-off-topic-discussions">Where can I continue off-topic discussions?</h2>
 
 When you end-up in an off-topic debate between some regulars that is no longer about the SOCVR or the moderation it entails or you have an urgency to post one-boxes do know that creating chatrooms is free. Anyone with 100 reputation can create them. 
-Please use that option once the discussion is not going to end quickly or if the sillyness would destroy the serious matters that take place at the SOCVR room. 
+Please use that option once the discussion is not going to end quickly or if the silliness would destroy the serious matters that take place at the SOCVR room. 
 
 If creating a room is too much effort to your liking you can use the [The Ministry of Silly Hats](https://chat.stackoverflow.com/rooms/92764) that was a spin-off by some regulars for the earlier mentioned reasons.
 Although that room isn't moderated as strictly as SOCVR, we like to point you to [Toward a philosophy of Chat](https://meta.stackexchange.com/questions/270587/toward-a-philosophy-of-chat) and [If you're gonna talk Politics, you must respect those who disagree](https://meta.stackexchange.com/questions/289398/if-youre-gonna-talk-politics-you-must-respect-those-who-disagree) to prevent any claims that we suggested that was a no rules chatroom. 
