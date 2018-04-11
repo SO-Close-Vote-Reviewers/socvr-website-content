@@ -46,9 +46,9 @@ reviewing, and clean-up efforts.
    * Consider whether or not the flagged conversation should continue.
    * [Be Nice](https://stackoverflow.com/help/be-nice), and be sensitive to others' feelings.
 
-<a id="cleanTrans"></a><a id="GEfM-clean-transcript"></a>Keep the transcript clean:
+<a id="GEfM-clean-transcript"></a><a id="cleanTrans"></a>Keep the transcript clean:
 
-6. <a id="noBoxes"></a><a id="GEfM-no-oneboxes"></a>Keep oneboxed images to a minimum. 
+6. <a id="GEfM-no-oneboxes"></a><a id="noBoxes"></a>Keep oneboxed images to a minimum. 
    We wish to keep the room civil and mostly on topic, but that does not mean you can't have a 
    little tasteful fun too. At any of the room owner's discretion, images may be moved to trash 
    at anytime without warning, such decisions are final. Obviously, offensive and NSFW images 
@@ -60,20 +60,20 @@ reviewing, and clean-up efforts.
 
 <a id="GEfM-what-room-moderates"></a>Know what the room moderates:
 
-9. <a id="modCont"></a><a id="GEfM-moderate-content-NOT-other"></a>We moderate the content of posts on Stack Overflow (closure/edit/review/delete). This means 
+9. <a id="GEfM-moderate-content-NOT-other"></a><a id="modCont"></a>We moderate the content of posts on Stack Overflow (closure/edit/review/delete). This means 
    that we *DO NOT* moderate:
    * User accounts (even if they are posting spam)
    * Other chat rooms
    * Meta Stack Overflow
    * Other Stack Exchange sites
 
-<a id="respModReq"></a><a id="GEfM-responsible-moderation-requests"></a>Be responsible with moderation requests:
+<a id="GEfM-responsible-moderation-requests"></a><a id="respModReq"></a>Be responsible with moderation requests:
 
-10. <a id="noUDVReq"></a><a id="GEfM-no-up-down-vote-requests"></a>Do not ask for up- or down-votes on any posts. While Shog9 has allowed organized voting in chat 
+10. <a id="GEfM-no-up-down-vote-requests"></a><a id="noUDVReq"></a>Do not ask for up- or down-votes on any posts. While Shog9 has allowed organized voting in chat 
     rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of 
     support from the community at large, as such we don't want anything in the transcript that 
     could be perceived as us treating people unfairly.
-11. <a id="not-habit"></a><a id="GEfM-cv-pls-not-a-habit"></a>Moderation requests (e.g. [[cv-pls]](https://meta.stackoverflow.com/a/262359), [del-pls], etc.) should **not** be a habit for users. 
+11. <a id="GEfM-cv-pls-not-a-habit"></a><a id="not-habit"></a>Moderation requests (e.g. [[cv-pls]](https://meta.stackoverflow.com/a/262359), [del-pls], etc.) should **not** be a habit for users. 
     - `cv-pls`: Don't make it an instinct to fast-track every eligible post to the front of the closure system;  
    cv-pls is for questions that:
       - are _really_ bad (low quality magnets)
@@ -84,38 +84,38 @@ reviewing, and clean-up efforts.
     "If there's something really bad and it has to go, then get it gone - otherwise, don't sweat the small stuff, it'll end up gone eventually - and if no one's seeing it - who cares?" <sup>[source](https://chat.stackoverflow.com/transcript/108179?m=39907227#39907227)</sup>   
     del-pls is for posts that:
       - are _really_ bad, but which don't quite make it to abusive/spam (use flags for those)
-12. <a id="notStab"></a><a id="GEfM-cv-pls-not-stab"></a>Members are not expected to close vote any post you bring up. Furthermore, do not pressure anyone 
+12. <a id="GEfM-cv-pls-not-stab"></a><a id="notStab"></a>Members are not expected to close vote any post you bring up. Furthermore, do not pressure anyone 
     into doing so. cv-pls means "close vote please", not "close vote or I'll stab you." This applies to all types of requests.
-13. <a id="limitReqDis"></a><a id="GEfM-avoid-extended-individual-cv-pls-discussion"></a>Avoid extended discussion about a cv-pls. We don't have to agree about a close request. We're 
+13. <a id="GEfM-avoid-extended-individual-cv-pls-discussion"></a><a id="limitReqDis"></a>Avoid extended discussion about a cv-pls. We don't have to agree about a close request. We're 
     not a democracy. However, users that are posting cv-pls'es that are blatantly wrong will be 
     told so. The final verdict is on the RO team.
-14. <a id="no-boom"></a><a id="GEfM-no-boom"></a>Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
-15. <a id="noSelf"></a><a id="GEfM-no-requests-youre-involved"></a>Do not request action on a post that you have asked or answered, or for an edit which you have made.
-16. <a id="noRetagHammer"></a><a id="GEfM-no-retag-so-can-hammer"></a>Do not request to re-tag a post so you can use your dupe-hammer.
+14. <a id="GEfM-no-boom"></a><a id="no-boom"></a>Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
+15. <a id="GEfM-no-requests-youre-involved"></a><a id="noSelf"></a>Do not request action on a post that you have asked or answered, or for an edit which you have made.
+16. <a id="GEfM-no-retag-so-can-hammer"></a><a id="noRetagHammer"></a>Do not request to re-tag a post so you can use your dupe-hammer.
 17. <a id="GEfM-no-mod-ping"></a>[Pinging moderators](https://meta.stackexchange.com/a/126990/158100) for anything that could be handled with a flag is not acceptable, nor is changing the topic of conversation with a moderator to be about a flaggable issue. It is fine to *continue* a discussion topic introduced by a moderator, even if you beginning that discussion would otherwise not be permitted. 
 
-<a id="noModUsers"></a><a id="GEfM-dont-moderate-users"></a>Don't moderate users:
+<a id="GEfM-dont-moderate-users"></a><a id="noModUsers"></a>Don't moderate users:
 
-18. <a id="modPost"></a><a id="GEfM-moderate-post-not-user"></a>Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
+18. <a id="GEfM-moderate-post-not-user"></a><a id="modPost"></a>Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
     of the user.
-19. <a id="no-tar-users"></a><a id="GEfM-dont-target-users"></a>Do not post multiple successive moderation requests for posts of the same user. It will be 
+19. <a id="GEfM-dont-target-users"></a><a id="no-tar-users"></a>Do not post multiple successive moderation requests for posts of the same user. It will be 
     considered as targeting a user which is explicitly forbidden.
 
-<a id="prof"></a><a id="GEfM-nice-and-professional"></a>Stay nice and professional when on a post:
+<a id="GEfM-nice-and-professional"></a><a id="prof"></a>Stay nice and professional when on a post:
 
-20. <a id="saveCont"></a><a id="GEfM-try-to-save-content"></a>Work **with** the OP to get their post into shape. Most content has some value. Save it before
+20. <a id="GEfM-try-to-save-content"></a><a id="saveCont"></a>Work **with** the OP to get their post into shape. Most content has some value. Save it before
     you try to destroy it.
-21. <a id="oneMember"></a><a id="GEfM-only-one-member-on-post"></a>A post is to be actively handled by **only one** member of the room. We don't need 4 members all 
+21. <a id="GEfM-only-one-member-on-post"></a><a id="oneMember"></a>A post is to be actively handled by **only one** member of the room. We don't need 4 members all 
     leaving witty statements in the comments or in chat.
-22. <a id="commentWOP"></a><a id="GEfM-if-comment-interact-with-OP"></a>If you leave a comment (or custom close reason) be prepared to interact with the OP. In all cases 
+22. <a id="GEfM-if-comment-interact-with-OP"></a><a id="commentWOP"></a>If you leave a comment (or custom close reason) be prepared to interact with the OP. In all cases 
     be nice and helpful.
 
-<a id="relMeta"></a><a id="GEfM-understand-relationship-with-meta"></a>Understand our relationship with Meta:
+<a id="GEfM-understand-relationship-with-meta"></a><a id="relMeta"></a>Understand our relationship with Meta:
 
-23. <a id="accountable"></a><a id="GEfM-members-are-accountable"></a>All members are accountable for their actions if/when such accountability is requested on meta.
-24. <a id="noBandwagon"></a><a id="GEfM-dont-jump-bandwagon"></a>Don't [jump on the bandwagon](https://en.wiktionary.org/wiki/jump_on_the_bandwagon), specially on 
+23. <a id="GEfM-members-are-accountable"></a><a id="accountable"></a>All members are accountable for their actions if/when such accountability is requested on meta.
+24. <a id="GEfM-dont-jump-bandwagon"></a><a id="noBandwagon"></a>Don't [jump on the bandwagon](https://en.wiktionary.org/wiki/jump_on_the_bandwagon), specially on 
     meta. The room is scrutinized on meta, not the other way around. 
-25. <a id="toBurnMustMeta"></a><a id="GEfM-burnination-must-meta"></a>Tag burnination requests and tag cleanup requests _must_ be backed by an 
+25. <a id="GEfM-burnination-must-meta"></a><a id="toBurnMustMeta"></a>Tag burnination requests and tag cleanup requests _must_ be backed by an 
     [MSO](https://meta.stackoverflow.com) post that follows the 
     [tag burning process](https://meta.stackoverflow.com/q/324070).
  
@@ -195,7 +195,7 @@ The format is a bit strict because the room owners run an archiver script to mov
 closed question out of the transcript so they can be monitored for changes by Yam, 
 the GraveRobber bot.
 
-<a id="dupFormat"></a><a id="cv-pls-format-duplicate-with-tag-tag"></a>If you are using "duplicate" as a reason, it would be a good idea to include the
+<a id="cv-pls-format-duplicate-with-tag-tag"></a><a id="dupFormat"></a>If you are using "duplicate" as a reason, it would be a good idea to include the
 primary tag of the post with the request.
 
     [tag:cv-pls] [tag:asdf] duplicate https://stackoverflow.com/q/12345
@@ -204,7 +204,7 @@ Because closing as a duplicate requires more domain specific knowledge, informin
 other chat members of the primary tag helps them quickly figure out if they would 
 be effective in reviewing the request.
 
-<a id="otherFormats"></a><a id="cv-pls-format-other-requests"></a>Other `-pls` requests follow the same format:
+<a id="cv-pls-format-other-requests"></a><a id="otherFormats"></a>Other `-pls` requests follow the same format:
 
     [tag:reopen-pls] post has enough info now https://stackoverflow.com/q/12345
     [tag:del-pls] has no value to stay on site https://stackoverflow.com/q/12345
@@ -248,14 +248,14 @@ If a question is closed following a cv-pls that was posted in the room you can
 hop into the room for an explanation. Expect the following policy to be followed 
 to avoid any unnecessary drama:
 
-**<a id="firstAnsrResp"></a><a id="closed-my-Q-first-answerer"></a>Whoever first answers** (avoid crowding!):
+**<a id="closed-my-Q-first-answerer"></a><a id="firstAnsrResp"></a>Whoever first answers** (avoid crowding!):
  1. Inform the user about what happened.
  2. Explanation of a cv-pls.
  3. How people in the room acted.
  4. What it means to have a question closed.
  5. Explain that from now on, only the author of the cv-pls is going to discuss.
 
-**<a id="reqAuthResp"></a><a id="closed-my-Q-cv-pls-author"></a>Author of the cv-pls**:
+**<a id="closed-my-Q-cv-pls-author"></a><a id="reqAuthResp"></a>Author of the cv-pls**:
  1. Inform the user about the reasons why this happened.
  2. Why the question is off-topic.
  3. If it can be improved and how.
@@ -263,7 +263,7 @@ to avoid any unnecessary drama:
     [meta posts](https://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist), 
     IDYB, etc.).
 
-<a id="cQGoToMeta"></a><a id="closed-my-Q-go-to-meta"></a>If the previous has not solved the issue, we will stop the discussion and redirect 
+</a><a id="closed-my-Q-go-to-meta"></a><a id="cQGoToMeta">If the previous has not solved the issue, we will stop the discussion and redirect 
 you to Meta to have our actions scrutinized by somewhat independent community members.
 
 <h2 id="can-i-request-people-to-vote-or-flag-on-posts-i-find"><a id="reqFoundPost"></a>Can I request people to vote or flag on posts I find?</h2>
