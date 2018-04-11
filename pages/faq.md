@@ -302,11 +302,6 @@ goal in the first place.
 
 <a id="can-i-request-approve-reject"></a>**Approve** and **reject** requests for suggested edit reviews are permitted. As with most requests, these should be used sparingly, usually only when it looks like the outcome you believe correct is unlikely without additional attention and you can't make it happen yourself. As with all requests, requests about something you're involved with (i.e. your own edits) are not permitted.
 
-<h2 id="what-about-docs">What about Docs?</h2>
-
-We will only moderate Docs for rude, abusive, spam and plagiarism. There won't 
-be any moderation of low-quality, off-topic or otherwise incorrect examples.
-
 <h2 id="who-are-the-room-owners">Who are the room owners?</h2>
 
 When you become a Room Owner we believe you are that for life. Even when 
