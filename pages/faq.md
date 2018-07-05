@@ -17,7 +17,6 @@ reviewing, and clean-up efforts.
   * [What is Smoke Detector and how can I participate?](#what-is-smoke-detector-and-how-can-i-participate)
   * [You closed my question!](#you-closed-my-question)
   * [Can I request people to vote or flag on posts I find?](#can-i-request-people-to-vote-or-flag-on-posts-i-find)
-  * [What about Docs?](#what-about-docs)
   * [Who are the room owners?](#who-are-the-room-owners)
   * [Why do we need room owners?](#why-do-we-need-room-owners)
   * [How does the room work?](#how-does-the-room-work)
