@@ -24,7 +24,7 @@ Take a few minutes to familiarize yourself with the [Frequently Asked Questions 
 
 _Curation_ means many things, but a significant portion of SOCVR efforts are related to _The Queue_.
 
-When members refer to _The Queue_, they mean the [Close Vote Reviews tool](https://stackoverflow.com/review/close), sometimes referred to as the Close Vote Queue (CVQ). Users who have earned the privilege to [Cast Close And Reopen Votes](https://stackoverflow.com/help/privileges/close-questions) get access to queues of questions they can filter to review. Where appropriate, they can agree or disagree with the propsed action.
+When members refer to _The Queue_, they mean the [Close Vote Reviews tool](https://stackoverflow.com/review/close), sometimes referred to as the Close Vote Queue (CVQ). Users who have earned the privilege to [Cast Close And Reopen Votes](https://stackoverflow.com/help/privileges/close-questions) get access to queues of questions they can filter to review. Where appropriate, they can agree or disagree with the proposed action.
 
 Initially, SOCVR was created to improve effectiveness of the queue, having observed that the vast majority of questions that started the close review process never completed it.
 For that reason, there are frequent [room events](https://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers?tab=schedule) during which team members filter their reviews to focus on specific tags. By doing this, both during events and at other times, SOCVR ensures that enough reviewers look at a cross-section of questions to complete the review process for them. 
