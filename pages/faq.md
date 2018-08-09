@@ -47,10 +47,10 @@ reviewing, and clean-up efforts.
 
 <a id="GEfM-clean-transcript"></a><a id="cleanTrans"></a>Keep the transcript clean:
 
-6. <a id="GEfM-no-oneboxes"></a><a id="noBoxes"></a>Keep oneboxed images to a minimum. 
+6. <a id="GEfM-no-oneboxes"></a><a id="noBoxes"></a>Keep oneboxed images out of our transcript. 
    We wish to keep the room civil and mostly on topic, but that does not mean you can't have a 
-   little tasteful fun too. At any of the room owner's discretion, images may be moved to trash 
-   at anytime without warning, such decisions are final. Obviously, offensive and NSFW images 
+   little tasteful fun too by linking to an image. At any of the room owner's discretion, accidently one-boxed images may be moved to trash 
+   at anytime without warning, such decisions are final. Obviously, (linking to) offensive and NSFW images 
    are grounds for being kicked and moderator intervention.
 7. <a id="GEfM-not-noisy"></a>Please refrain from using [oneboxes](https://chat.stackoverflow.com/faq#formatting)/noisy formatting. 
    When posting a URL, use link syntax to make the link flow with the text, 
