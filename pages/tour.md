@@ -16,7 +16,7 @@ The chat room is public; all conversations are in the open, and any Stack Overfl
 Members are happy to help with questions about curation of Stack Overflow posts. Not sure what to do with a question or answer? Post a link and the team will take a look at it, and offer advice.
 
 The conversation stays mainly on-topic, but is casual and quirky.
-Don't fear, though - the [**be nice**](https://stackoverflow.com/help/be-nice) policy still applies!
+Don't fear, though - the [**Code of Conduct**](https://stackoverflow.com/conduct) still applies!
 
 Take a few minutes to familiarize yourself with the [Frequently Asked Questions (FAQ)](/faq) so you know what chat behaviors are expected.
 
