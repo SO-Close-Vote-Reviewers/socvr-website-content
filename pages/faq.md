@@ -20,7 +20,7 @@ reviewing, and clean-up efforts.
   * [Who are the room owners?](#who-are-the-room-owners)
   * [Why do we need room owners?](#why-do-we-need-room-owners)
   * [How does the room work?](#how-does-the-room-work)
-  * [Why did you invite me to the CV Request Graveyard room?](#why-do-you-invite-me-to-the-cv-request-graveyard-room)
+  * [Why did you invite me to the SOCVR Request Graveyard room?](#why-do-you-invite-me-to-the-cv-request-graveyard-room)
   * [What are all those bots doing there?](#what-are-all-those-bots-doing-there)
   * [How can I join in?](#how-can-i-join-in)
   * [What if I think you made a mistake?](#what-if-i-think-you-made-a-mistake)
@@ -357,19 +357,20 @@ appropriate. Concentrating attention on a question in the context of whether or
 not to close a question, severely biases attention toward closing the question.
 <sup>1</sup>
 
-<h2 id="why-do-you-invite-me-to-the-cv-request-graveyard-room">Why did you invite me to the CV Request Graveyard room?</h2>
+<h2 id="why-do-you-invite-me-to-the-cv-request-graveyard-room">Why did you invite me to the SOCVR Request Graveyard room?</h2>
 
-The room owners run a script on a regular basis to clean up the room transcript. 
-Any cv-pls message that links to a question which is: closed/deleted, or has no 
-close votes after 3 days will be moved to the 
-[CV Request Graveyard](https://chat.stackoverflow.com/rooms/90230/cv-request-graveyard).
-In that process, if one of the cv-pls you posted gets moved, you get invited to 
-that room. We're sorry about that, but we will not talk there or meet you there. 
-That room is only meant to be the list of handled cv-pls messages.
+The room owners run a script on a regular basis to cleanup the room transcript. 
+Requests (e.g. `cv-pls`, `del-pls`, etc.), and many bot messages
+(e.g. SD reports and responses to those reports), are routinely moved to the
+[SOCVR Request Graveyard](https://chat.stackoverflow.com/rooms/90230/cv-request-graveyard)
+(i.e. they're archived) when they are "complete" or have expired. In that process, when one of the requests
+you posted gets moved, you get invited to that room.
+We're sorry about that, but we will not talk there or meet you there.
+That room is meant to be only an archive of handled requests.
 
-So don't be alarmed or feel left out if the invite to the graveyard room doesn't 
-result in any response from us. It is a byproduct of our moving action and we can't 
-prevent you being invited, sorry.
+So, don't be alarmed or feel left out if the invite to the SOCVR Request Graveyard doesn't 
+result in any response from us. It's a byproduct of our archiving those messages. We can't 
+prevent the SE chat system from inviting you to the room, sorry.
 
 <h2 id="what-are-all-those-bots-doing-there">What are all those bots doing there?</h2>
 
