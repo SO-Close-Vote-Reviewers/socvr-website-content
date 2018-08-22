@@ -13,6 +13,9 @@ This page contains links to the different nominations to join the Room Owner tea
 
 [Humorous example nomination](https://gist.github.com/CloseyV1/bfc36ae0c8e58153b067).
 
+## August 2018
+- [Machavity](https://gist.github.com/machavity/90be270bc1d154d4b1d5cd9cd08d5747)
+
 ## November 2017
 - [Petter Friberg](https://gist.github.com/jdd-software/5f6e6dc8f1e4a17c537945c684c62221)
 - [Machavity](https://gist.github.com/machavity/ea0cf9346eb20ee37305dd86f8e8ce23)
