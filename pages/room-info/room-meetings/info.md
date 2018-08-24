@@ -12,10 +12,13 @@ During the meeting one of the RO's will chair the meeting. After we reached a co
 
 Here you'll find  the resolutions and transcript of previous meetings:
 
-## 2015
 
-* [November](2015-11)
-* [December](2015-12)
+
+## 2017
+
+* [January](2017-01)
+* [May](2017-05)
+* [November](2017-11)
 
 ## 2016
 
@@ -23,8 +26,7 @@ Here you'll find  the resolutions and transcript of previous meetings:
 * [August](2016-08)
 * [October](2016-10)
 
-## 2017
+## 2015
 
-* [January](2017-01)
-* [May](2017-05)
-* [November](2017-11)
+* [November](2015-11)
+* [December](2015-12)
