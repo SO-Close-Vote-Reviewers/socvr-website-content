@@ -1,32 +1,46 @@
 # Room Meetings
 
-Periodically SOCVR will have room-wide meetings where we discuss room policies and behavior. 
+Periodically SOCVR has room-wide meetings where we discuss room policies and behavior.
 
-Anyone can propose new topics to be discussed by creating an issue in the GitHub repository [here](https://github.com/SO-Close-Vote-Reviewers/room-meeting-topics). The issues will be labeled with `suggested-topic`. 
+Anyone can propose new topics to be discussed by creating an issue in the [GitHub SOCVR Room Meeting Topics repository](https://github.com/SO-Close-Vote-Reviewers/room-meeting-topics). The issues will be labeled with `suggested-topic`. Anyone interested is invited to comment and vote on the topics. Doing so helps everyone prepare for the meeting, and allows people to share and discuss their views over a longer period of time than is available in the actual meeting.
 
-When there are enough topics the RO team will announce a new date for a room meeting. The topics that will be on the agenda get labelled with the actual room meeting like `room-meeting-2017-01`. The regulars are then invited to vote and comment on the topics so anyone can prepare for the meeting.
+When there are enough topics, the Room Owner (RO) team will announce a new date for a room meeting. The topics that will be on the agenda get labeled with the actual room meeting, like `room-meeting-2017-01`.
 
-The meeting will be held in the room [SOCVR Room Meetings](https://chat.stackoverflow.com/rooms/108179/socvr-room-meetings). Do notice that this room will be unlocked 30 minutes before the start of the meeting. You don't need (and we urge you to not try it either) to request access.
+The meeting will be held in the room [SOCVR Room Meetings](https://chat.stackoverflow.com/rooms/108179/socvr-room-meetings). That room will be unlocked 30 minutes before the start of the meeting. You do *not* need to request access. Please don't request access, as doing so will just annoy all the ROs, all of whom all notified for each access request.
 
-During the meeting one of the RO's will chair the meeting. After we reached a conclusion on a topic, the resolution is documented and after the meeting published.
+Meetings are scheduled to last one hour. That time is split between all topics, with a each topic given an equal maximum amount of time for discussion. If resolution is reached on a topic prior to the maximum time, then we will move on to the next topic.
 
-Here you'll find  the resolutions and transcript of previous meetings:
+#### During the meeting
+* One of the RO's will chair the meeting.
+* Please keep the conversation on topic.
+* The no one-box rule applies.
+* Please use stars sparingly.
+* RO's will clear stars after the end of each topic. If you want a record of the stars, you will need to take a screenshot.
+* The room will be in timeout for 1 minute at the start of each topic. You can use this time to write-up/organize any longer messages you wish to post.
+
+#### After the meeting
+After the meeting, the discussion on each topic is summarized, including any conclusions. The summary and conclusions are published on a page linked below, which is identified by the year and month in which the meeting took place.
 
 
+## Resolutions and transcripts from previous meetings:
 
-## 2017
+### 2018
+
+* [August](2018-08)
+
+### 2017
 
 * [January](2017-01)
 * [May](2017-05)
 * [November](2017-11)
 
-## 2016
+### 2016
 
 * [April](2016-04)
 * [August](2016-08)
 * [October](2016-10)
 
-## 2015
+### 2015
 
 * [November](2015-11)
 * [December](2015-12)
