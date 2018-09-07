@@ -91,12 +91,12 @@ reviewing, and clean-up efforts.
     told so. The final verdict is on the RO team.
 14. <a id="GEfM-no-boom"></a><a id="no-boom"></a>Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
 15. <a id="GEfM-no-requests-youre-involved"></a><a id="noSelf"></a>Do not request action on posts or edits where you are involved or have a conflict of interest.
- * For questions and answers: You are "involved" in the question and all answers to the question if you are the author of the question or the author of any non-deleted, non-community-wiki answer on the question.
- * For requests about edits, you are involved if you are the author of the post or the author of the edit.
- * Being the author of a proposed duplicate-target question or an answer on the duplicate-target does not, by itself, make you "involved" in a question which you are requesting be closed as a duplicate (i.e. you can request duplicate-closure with a question you asked or answered as the duplicate-target, if that's your only involvement).
- * You may initiate discussions about posts/edits you are involved with, as long as those discussions are really seeking input and are not just disguised requests.
- * If you make a request and later desire to become involved in the post, you must `@` ping at least one active RO to ask to have your request removed. Pinging the RO(s) for your request to be removed should happen before you become involved in the post (e.g. You post a `cv-pls` request and later decide to answer the question, then before you post your answer you should `@` ping at least one active RO requesting your `cv-pls` be removed).
- * New users and users new to SOCVR have considerably more latitude. They are still not permitted to make actual requests about posts/edits they are involved with, but everyone should interact with the user with the goal of providing education both about Stack Overflow and SOCVR, and providing an explanation for their question/answer/edit/etc., it's status, ways to improve it, etc.
+    * For questions and answers: You are "involved" in the question and all answers to the question if you are the author of the question or the author of any non-deleted, non-community-wiki answer on the question.
+    * For requests about edits, you are involved if you are the author of the post or the author of the edit.
+    * Being the author of a proposed duplicate-target question or an answer on the duplicate-target does not, by itself, make you "involved" in a question which you are requesting be closed as a duplicate (i.e. you can request duplicate-closure with a question you asked or answered as the duplicate-target, if that's your only involvement).
+    * You may initiate discussions about posts/edits you are involved with, as long as those discussions are really seeking input and are not just disguised requests.
+    * If you make a request and later desire to become involved in the post, you must `@` ping at least one active RO to ask to have your request removed. Pinging the RO(s) for your request to be removed should happen before you become involved in the post (e.g. You post a `cv-pls` request and later decide to answer the question, then before you post your answer you should `@` ping at least one active RO requesting your `cv-pls` be removed).
+    * New users and users new to SOCVR have considerably more latitude. They are still not permitted to make actual requests about posts/edits they are involved with, but everyone should interact with the user with the goal of providing education both about Stack Overflow and SOCVR, and providing an explanation for their question/answer/edit/etc., it's status, ways to improve it, etc.
      * SOCVR regulars
        * Don't jump in saying that such requests are not permitted.
        * Treat such messages from new users that appear to be requests about a post the new user is involved with as if the request was just asking for explanation, information, and/or suggestions for how to improve the user's question, answer, or edit.
@@ -116,8 +116,8 @@ reviewing, and clean-up efforts.
   Keep in mind that we are concerned about both not actually targeting users, and not having the  *appearance* of targeting users. Thus, what's considered acceptable is conservative.
   What observable behavior actually constitutes user targeting is left up to the discretion of the ROs. Possible user targeting is detected automatically (some types), by the ROs going through requests, through reports by other users, etc. An RO will investigate suspected user targeting. Under most conditions, this will normally include asking you what's going on.
   Some examples of behavior that is considered targeting a user [The examples below are *not* all inclusive.]:
- * Posting multiple successive moderation requests for questions/answers/edits by the same user. There are some *very limited* cases where more than one request about posts by the same user in a short time are acceptable (e.g. where the user has posted a duplicate of their own off-topic question).
- * Posting multiple successive moderation requests for questions which a specific user has answered.
+    * Posting multiple successive moderation requests for questions/answers/edits by the same user. There are some *very limited* cases where more than one request about posts by the same user in a short time are acceptable (e.g. where the user has posted a duplicate of their own off-topic question).
+    * Posting multiple successive moderation requests for questions which a specific user has answered.
 
 <a id="GEfM-nice-and-professional"></a><a id="prof"></a>Stay nice and professional when on a post:
 
@@ -141,8 +141,8 @@ reviewing, and clean-up efforts.
 
 26. <a id="GEfM-no-sneaky-manipulative"></a><a id="noSneak"></a>Don't do sneaky or manipulative actions to get around the rules.
  While you might get away with something once or twice, people in the room *will* notice and be upset/frustrated by it. Examples of such actions include:
- * Edit an old question that's not currently "active" to qualify it, under [FAQ #11](#GEfM-cv-pls-not-a-habit), as active, thus allowing you to make a `cv-pls` request for an old question.
- * Deleting your answer, making a `cv-pls` request for the question, and then undeleting your answer after the question is closed.
+    * Edit an old question that's not currently "active" to qualify it, under [FAQ #11](#GEfM-cv-pls-not-a-habit), as active, thus allowing you to make a `cv-pls` request for an old question.
+    * Deleting your answer, making a `cv-pls` request for the question, and then undeleting your answer after the question is closed.
 27. <a id="GEfM-limit-your-requests"></a><a id="ReqLimits"></a>Limit the number of requests you make, particularly `cv-pls` requests, to "reasonable" numbers and rates of posting. The exact limits are *not specific*.
  As to posting them too fast, or too many in a row: People in the room start to notice that you're posting a lot of requests if it's more than about 5 in a row. It is suggested that you space out your requests over time.
  As to limiting the overall number that you post: Posting a `cv-pls` request is, basically, asking 4 other people to review and vote-to-close (VtC) the question. As such, the process of having `cv-pls` requests in SOCVR *can't work* unless people VtC on about 4 times as many `cv-pls` from other people than they post themselves, which means reviewing more than that number of questions, on average, as you won't necessarily VtC each question you review.
