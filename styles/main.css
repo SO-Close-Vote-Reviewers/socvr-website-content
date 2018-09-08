@@ -85,6 +85,10 @@ pre > code {
   white-space: pre;
 }
 
+li > br {
+	margin-bottom: 8px;
+}
+
 /* Use similar sizes for headings as GitHub .md preview/display.
     This makes editing in the GitHub editor look closer to what shows up on socvr.org.
 */
