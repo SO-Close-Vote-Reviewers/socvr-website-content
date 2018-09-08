@@ -14,7 +14,7 @@ reviewing, and clean-up efforts.
   * [What sort of behavior is expected?](#what-sort-of-behavior-is-expected)
   * [What are the chat room rules?](#what-are-the-chat-room-rules)
   * [How and why do I need to format my cv-pls (and other requests)?](#how-and-why-do-i-need-to-format-my-cv-pls-and-other-requests)
-    * [What Should Request Reasons Contain?](what-should-request-reasons-contain)
+    * [What Should Request Reasons Contain?](#what-should-request-reasons-contain)
   * [What is Smoke Detector and how can I participate?](#what-is-smoke-detector-and-how-can-i-participate)
   * [You closed my question!](#you-closed-my-question)
   * [Can I request people to vote or flag on posts I find?](#can-i-request-people-to-vote-or-flag-on-posts-i-find)
@@ -254,8 +254,8 @@ For request reasons, we have the following guidelines:
 
 * **Be Nice.** The [Stack Overflow Code of Conduct](https://stackoverflow.com/conduct) (CoC) applies to all chat messages, including requests.
 * If you see a request, or any message, that isn't within the CoC:
- * If within the 2 minute edit window, feel free to give the user who posted the request a *friendly* reminder, asking them to edit/delete; and/or:
- * Anytime: ping an RO for removal, to handle repeat occurrences, etc.
+  * If within the 2 minute edit window, feel free to give the user who posted the request a *friendly* reminder, asking them to edit/delete; and/or:
+  * Anytime: ping an RO for removal, to handle repeat occurrences, etc.
 * Beyond the CoC, requests should be business-like/professional.
 * For `cv-pls` requests: **Including an actual close reason is highly recommended**, even if that's your custom reason (e.g. "Custom: Homework without attempt"). Including an actual close reason significantly increases the likelihood that your request will be acted upon by other users.
 * For `del-pls` requests: Indicate why the post should be deleted, which is commonly also the reason it was closed. If the post can only be delete-voted by users with >20k reputation (e.g. any answer), then it's helpful to indicate that (commonly with a `20k+` tag). It's also helpful to briefly indicate if the Roomba will, or will not, delete the question. The fact that the Roomba won't delete a question is a contributing factor to needing delete-votes. [Generally, unless it's urgent to delete a question, it's normal to allow the Roomba to delete the question rather than post a `del-pls` for it, if the Roomba will delete it in the relatively near future.]
