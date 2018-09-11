@@ -123,7 +123,7 @@ reviewing, and clean-up efforts.
     From time-to-time, a moderator may ask the room for assistance in a task that targets a user. When this is done *at the request and direction of a moderator*, it is likely to be acceptable. Moderators are the people specifically entrusted to deal with users. If they are asking for our help, then it's very likely we will help. While the ROs reserve the right to object, it's unlikely that a moderator will make an inappropriate request. The most common request, which we've done a few/several times, has been for us to search through a specific user's posts for plagiarism and flag those that we find. Don't go beyond what has been specifically requested.  
     Some examples of behaviors that are considered targeting a user, which are thus forbidden [The examples below are *not* all inclusive.]:
     * Posting multiple successive moderation requests for questions/answers/edits by the same user. There are some *very limited* cases where more than one request about posts by the same user in a short time are acceptable (e.g. where the user has posted a duplicate of their own off-topic question).
-    * Posting successive moderation requests for questions which a specific user has answered.
+    * Posting multiple moderation requests for questions which a specific user has answered.
 
 <a id="GEfM-nice-and-professional"></a><a id="prof"></a>Stay nice and professional when on a post:
 
