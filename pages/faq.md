@@ -77,7 +77,7 @@ reviewing, and clean-up efforts.
     - `cv-pls`: Don't make it an instinct to fast-track every eligible post to the front of the closure system;  
    cv-pls is for questions that:
       - are _really_ bad (low quality magnets)
-      - are a bad example used to justify other crap
+      - are a bad example used to justify other posts that are off-topic and/or low-quality
       - have recent activity on the question (Edits, VLQ/NAA answer)
       - don't have enough users in that tag to close the question in time
     - `del-pls`: Unless there's a good reason, it doesn't have to be *now* (i.e. unless there's a good reason, wait to post the del-pls until the post is actually eligible for deletion-votes).  
@@ -176,7 +176,7 @@ editing, coaching/commenting, delete voting, undelete voting, and feeding the [r
 
 <h2 id="what-sort-of-behavior-is-expected"><a id="whatBehavior"></a>What sort of behavior is expected?</h2>
 
-We love this community. Our goal is to get rid of the "crap" so the good content 
+We love this community. Our goal is to get rid of the low-quality and/or off-topic content so the good content
 can be found with greater ease. As room owners we are sensitive for the needs of 
 the community on Stack Overflow and encourage our members to help us create a 
 guidance toolkit that enables all of us to fulfill those needs.
