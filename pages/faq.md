@@ -506,6 +506,7 @@ moderation activities that are coordinated or under discussion there.
 
 <a id="invitation-etiquette"></a>**Invitation etiquette**
 
+- Do not make unsolicited invitations on SO for users to join SOCVR in order to moderate other posts. You should only invite people into the room to discuss the current moderation activity of the post.
 - An invitation means "join me, please", not "join me or I'll stab you!"
 - Set context for others in the room; before inviting a user to the room, post a 
   message explaining _who_ you've invited and _why_, as well as any relevant 
