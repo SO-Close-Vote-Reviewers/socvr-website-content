@@ -12,11 +12,11 @@ There are a bunch of [useful userscripts for Stack Overflow out there](https://s
 ##### <a id="our-commonly-used-scripts"></a>Our most commonly used scripts
 
 
- - [\*-pls Request Generator](https://github.com/SO-Close-Vote-Reviewers/UserScripts#so-close-vote-request-generator "instructions in our GitHub repository")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/SECloseVoteRequestGenerator.user.js))</sub></sup>
+ - [\*-pls Request Generator](https://github.com/SO-Close-Vote-Reviewers/UserScripts#user-content-so-close-vote-request-generator "instructions in our GitHub repository")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/SECloseVoteRequestGenerator.user.js))</sub></sup>
    -  This userscript is the primary method of posting cv-pls requests to SOCVR.
    -  adds a link under each question, so you can send a cv-pls to a chatroom (e.g. SOCVR)
-   -  When you're unable to install userscripts, limited functionality is [available as a bookmarklet](https://github.com/SO-Close-Vote-Reviewers/UserScripts#so-close-vote-request-generator-bookmarklet).
- - [Magic™ Editor](https://github.com/SO-Close-Vote-Reviewers/UserScripts#magic-editor "instructions in our GitHub repository")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/Magic%E2%84%A2Editor.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/Magic%E2%84%A2Editor.user.js))</sub></sup>
+   -  When you're unable to install userscripts, limited functionality is [available as a bookmarklet](https://github.com/SO-Close-Vote-Reviewers/UserScripts#user-content-creating-the-bookmarklet).
+ - [Magic™ Editor](https://github.com/SO-Close-Vote-Reviewers/UserScripts#user-content-magic-editor "instructions in our GitHub repository")&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/Magic%E2%84%A2Editor.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/Magic%E2%84%A2Editor.user.js))</sub></sup>
    - While you're editing a post, one click fixes the most common spelling and grammar mistakes.
  - Unclosed Request Review Script&nbsp;&nbsp;<sup><sub>([GitHub](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/UnclosedRequestReview.user.js))</sub></sup>&nbsp;<sup><sub>([install](https://github.com/SO-Close-Vote-Reviewers/UserScripts/raw/master/UnclosedRequestReview.user.js))</sub></sup>
    - searches all cv-pls requests in SOCVR and shows the ones that are still open.
