@@ -172,13 +172,13 @@ a.hover-visible::before {
 	position: absolute;
 	left: 0;
     top: 0;
-	content: '\\01f517\\0000a0';
+	content: '\01f517\0000a0';
 }
 h3 a.hover-visible::before,
 h5 a.hover-visible::before,
 li a.hover-visible::before {
-	content: '\\01f517\\0000a0\\0000a0\\0000a0';
+	content: '\01f517\0000a0\0000a0\0000a0';
 }
 h1 a.hover-visible::before {
-	content: '\\01f517\\0000a0\\0000a0';
+	content: '\01f517\0000a0\0000a0';
 }
