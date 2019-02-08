@@ -365,13 +365,13 @@ still feel they are part of the team.
 <a id="active-room-owners" href="#active-room-owners" class="hover-visible"></a>The active room owners are:
 
 * [rene](https://stackoverflow.com/users/578411)
-* [gunr2171](https://stackoverflow.com/users/1043380)
 * [NathanOliver](https://stackoverflow.com/users/4342498)
 * [Makyen](https://stackoverflow.com/users/3773011)
 * [Machavity](https://stackoverflow.com/users/2370483)
 
 <a id="inactive-room-owners" href="#inactive-room-owners" class="hover-visible"></a>The inactive room owners are:
 
+* [gunr2171](https://stackoverflow.com/users/1043380)
 * [Sam](https://stackoverflow.com/users/2246344)
 * [Tiny Giant](https://stackoverflow.com/users/4639281)
 * [Paul Stenne](https://stackoverflow.com/users/4174897)
