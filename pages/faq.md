@@ -494,9 +494,7 @@ help us fight the queue (times change by day and member availability).
 
 We are all humans and have different backgrounds, but also solid reputations in 
 a wide range of tags. If you feel we misjudged a gem, closed for the wrong reason, 
-or blindly followed advice from our peers, feel free to ask for an explanation or 
-to reopen. Based on your feedback, we'll learn, improve your question and help in 
-getting it re-opened by casting re-open votes. This will improve our actions, so 
+or blindly followed advice from our peers, feel free to ask for an explanation. Based on your feedback, we'll learn, improve your question and help in getting it re-opened by casting re-open votes if it qualifies for those. This will improve our actions, so 
 please provide feedback.
 
 <h2 id="can-i-invite-users-here"><a href="#can-i-invite-users-here" class="hover-visible"></a>Can I invite users here?</h2>
