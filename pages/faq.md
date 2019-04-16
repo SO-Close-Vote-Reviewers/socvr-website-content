@@ -323,7 +323,7 @@ First of all, let us reiterate that you can request people to _look at_ posts yo
 **IN NO WAY REQUIRED** to vote or flag as you suggest. Bringing posts to chat is just a way to
 increase exposure to a post, not to create a mindless voting mob.
 
-Too make sure people don't abuse the system, requests for actions which you can not perform should be kept to a minimum.
+To make sure people don't abuse the system, requests for actions which you can not perform should be kept to a minimum.
 
 <a id="can-i-request-cv" href="#can-i-request-cv" class="hover-visible"></a>**Close Vote Requests** are the most common request you'll find. Please follow the format a few sections above.
 
