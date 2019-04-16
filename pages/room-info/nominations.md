@@ -13,6 +13,9 @@ This page contains links to the different nominations to join the Room Owner tea
 
 [Humorous example nomination](https://gist.github.com/CloseyV1/bfc36ae0c8e58153b067).
 
+## April 2019
+- [TylerH](https://gist.github.com/Tyler-H/3835541aa664f739c9b1c030729f0d12)
+
 ## August 2018
 - [Machavity](https://gist.github.com/machavity/90be270bc1d154d4b1d5cd9cd08d5747)
 
