@@ -1,6 +1,6 @@
 # Room Owner Nominations
 
-Our chat room periodicly looks for new Room Owners.
+Our chat room periodically looks for new Room Owners.
 
 We use an "application/interview" style for new Room Owners. The workflow works like this:
 
