@@ -15,6 +15,7 @@ This page contains links to the different nominations to join the Room Owner tea
 
 ## April 2019
 - [TylerH](https://gist.github.com/Tyler-H/3835541aa664f739c9b1c030729f0d12)
+- [Stephen Kennedy](https://gist.github.com/kingboyk/6a2286f188d71e6102ab519e76d4fd26)
 
 ## August 2018
 - [Machavity](https://gist.github.com/machavity/90be270bc1d154d4b1d5cd9cd08d5747)
