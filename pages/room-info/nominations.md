@@ -18,15 +18,15 @@ This page contains links to the different nominations to join the Room Owner tea
 - [Stephen Kennedy](https://gist.github.com/kingboyk/6a2286f188d71e6102ab519e76d4fd26)
 
 ## August 2018
-- [Machavity](https://gist.github.com/machavity/90be270bc1d154d4b1d5cd9cd08d5747)
+- [Machavity](https://gist.github.com/machavity/90be270bc1d154d4b1d5cd9cd08d5747) (elected)
 
 ## November 2017
 - [Petter Friberg](https://gist.github.com/jdd-software/5f6e6dc8f1e4a17c537945c684c62221)
 - [Machavity](https://gist.github.com/machavity/ea0cf9346eb20ee37305dd86f8e8ce23)
-- [Makyen](https://gist.github.com/makyen/1aba029d8cc493de300ff293d77d5bf2)
+- [Makyen](https://gist.github.com/makyen/1aba029d8cc493de300ff293d77d5bf2) (elected)
 
 ## October 2016
-- [Kyll](https://gist.github.com/Aralun/b9dc9e32c02ab26ffeae806a276d1276)
+- [Kyll](https://gist.github.com/Aralun/b9dc9e32c02ab26ffeae806a276d1276) (elected)
 - [FirstStep](https://gist.github.com/KhalilLTU/d1d76d0a8c91b46397883d1b4a3b4f94)
 - [Ryanyuyu](https://gist.github.com/ryanyuyu/d97ac3f0271763daf7c988bc331a7954)
 - [Magisch](https://gist.github.com/magisch/fb524864f23dcfb8fe6910e92bb7a8db)
@@ -34,21 +34,21 @@ This page contains links to the different nominations to join the Room Owner tea
 - [Petter Friberg](https://gist.github.com/jdd-software/f55537155b95a3d0695fde767c0ef669)
 
 ## March 2016
-- [Mogsdad](https://gist.github.com/mogsdad/c22cbb03cb7de02838cb)
-- [Tunaki](https://gist.github.com/Tunaki/d9e140f6ef7c64997ead)
+- [Mogsdad](https://gist.github.com/mogsdad/c22cbb03cb7de02838cb) (elected)
+- [Tunaki](https://gist.github.com/Tunaki/d9e140f6ef7c64997ead) (elected)
 - [Kevin Guan](https://gist.github.com/K-Guan/d5b3b26b708a9ad94c35)
 - [Ferrybig](https://gist.github.com/ferrybig/f54a1f66f02924f54b0e)
 - [MsYvette](https://gist.github.com/yvettec/dc2e0f5882b8500e212b)
 
 ## January 2016
-- [Sam](https://gist.github.com/ArcticEcho/117b70de67dadd532980)
+- [Sam](https://gist.github.com/ArcticEcho/117b70de67dadd532980) (elected)
 
 
 ## December 2015
 
-- [Sam](https://gist.github.com/ArcticEcho/b5f51feff9ce4567e0dd)
+- [Sam](https://gist.github.com/ArcticEcho/b5f51feff9ce4567e0dd)  
 - [Jeremy Banks](https://gist.github.com/anonymous/9a970ee7e22b3f62beb1)
-- [Tiny Giant](https://gist.github.com/Tiny-Giant/43b6bf1e2660bfd9de25)
+- [Tiny Giant](https://gist.github.com/Tiny-Giant/43b6bf1e2660bfd9de25) (elected)
 
 <!-- put bullet point entries here in the form:
 
