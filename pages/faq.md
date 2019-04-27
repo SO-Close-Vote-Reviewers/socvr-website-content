@@ -368,6 +368,8 @@ still feel they are part of the team.
 * [NathanOliver](https://stackoverflow.com/users/4342498)
 * [Makyen](https://stackoverflow.com/users/3773011)
 * [Machavity](https://stackoverflow.com/users/2370483)
+* [Stephen Kennedy](https://chat.stackoverflow.com/users/397817)
+* [TylerH](https://chat.stackoverflow.com/users/2756409)
 
 <a id="inactive-room-owners" href="#inactive-room-owners" class="hover-visible"></a>The inactive room owners are:
 
