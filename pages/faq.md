@@ -69,7 +69,7 @@ reviewing, and clean-up efforts.
 
 <a id="GEfM-responsible-moderation-requests" href="#GEfM-responsible-moderation-requests" class="hover-visible"></a><a id="respModReq"></a>Be responsible with moderation requests:
 
-10. <a id="GEfM-no-up-down-vote-requests" href="#GEfM-no-up-down-vote-requests" class="hover-visible"></a><a id="noUDVReq"></a>Do not ask for up- or down-votes on any posts. While Shog9 has allowed organized voting in chat 
+10. <a id="GEfM-no-up-down-vote-requests" href="#GEfM-no-up-down-vote-requests" class="hover-visible"></a><a id="noUDVReq"></a>Do not ask for up- or down-votes on any posts. While [Shog9](https://meta.stackexchange.com/users/811/shog9) has allowed organized voting in chat 
     rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of 
     support from the community at large. As such, we don't want anything in the transcript that 
     could be perceived as us treating people unfairly.
@@ -78,7 +78,7 @@ reviewing, and clean-up efforts.
    cv-pls is for questions that:
       - are _really_ bad (low quality magnets)
       - are a bad example used to justify other posts that are off-topic and/or low-quality
-      - have recent activity on the question (Edits, VLQ/NAA answer)
+      - have recent activity on the question (recent answers, edits not made by you, or suggested edits)
       - don't have enough users in that tag to close the question in time
     - `del-pls`: Unless there's a good reason, it doesn't have to be *now* (i.e. unless there's a good reason, wait to post the del-pls until the post is actually eligible for deletion-votes).  
     "If there's something really bad and it has to go, then get it gone - otherwise, don't sweat the small stuff, it'll end up gone eventually - and if no one's seeing it - who cares?" <sup>[source](https://chat.stackoverflow.com/transcript/108179?m=39907227#39907227)</sup>   
@@ -89,6 +89,7 @@ reviewing, and clean-up efforts.
     As to limiting the overall number that you post: Posting a `cv-pls` request is, basically, asking 4 other people to review and vote-to-close (VtC) the question. As such, the process of having `cv-pls` requests in SOCVR *can't work* unless people VtC on about 4 times as many `cv-pls` from other people than they post themselves, which means reviewing more than that number of questions, on average, as you won't necessarily VtC each question you review.  
     As a result, this means that *if* you are routinely spending all 50 of your daily close-votes on questions which have been `cv-pls`ed (your own and others), then, *on average*, you should not post more than 10 `cv-pls` requests per day (e.g. You VtC on your 10 `cv-pls` requests and 40 `cv-pls` requests from other people, consuming all 50 of your close-votes for the day). It's relatively rare that someone routinely uses all of their close-votes only on `cv-pls` requests. So, an average of 10 `cv-pls` requests per day is just the maximum which is possibly maintainable, if the user is putting the same number of close-votes into `cv-pls` requests as they are asking from other people by the `cv-pls` requests that they post.  
     Any `cv-pls` requests you post which are for questions reported to the room by the various bots (e.g. FireAlarm & SmokeDetector) are not counted when considering the above limits. Please indicate in the request reason that the source was one of the bots (e.g. with something similar to "(FireAlarm)" or "(SD report)" added to the request reason). Evaluating such questions and determining if a `cv-pls is appropriate is considered a service that is beneficial to the room.
+    While we do not actively track all CVs, we do request you not report any CV more than once. We do offer userscripts for users to find older CVs not on the chat page, so if your previous CV was not successful, it was not likely due to a lack of visibility. ROs may, at their discretion, bin repeated attempts to CV a particular question.
 13. <a id="GEfM-cv-pls-not-stab" href="#GEfM-cv-pls-not-stab" class="hover-visible"></a><a id="notStab"></a>Members are not required to close-vote any particular post you bring up. Furthermore, do not pressure anyone 
     into doing so. `cv-pls` means "close-vote please", not "close-vote or I'll stab you." This applies to all types of requests.
 14. <a id="GEfM-avoid-extended-individual-cv-pls-discussion" href="#GEfM-avoid-extended-individual-cv-pls-discussion" class="hover-visible"></a><a id="limitReqDis"></a>Avoid extended discussion about requests. We don't have to agree about a close/delete request. We're 
@@ -100,6 +101,7 @@ reviewing, and clean-up efforts.
     * Being the author of a proposed duplicate-target question or an answer on the duplicate-target does not, by itself, make you "involved" in a question which you are requesting be closed as a duplicate (i.e. you can request duplicate-closure with a question you asked or answered as the duplicate-target, if that's your only involvement).
     * You may initiate discussions about posts/edits you are involved with, as long as those discussions are really seeking input and are not just disguised requests.
     * If you make a request and later desire to become involved in the post, you must `@` ping at least one active RO to ask to have your request removed. Pinging the RO(s) for your request to be removed should happen before you become involved in the post (i.e. If you post a `cv-pls` request and later decide to answer the question, then, before you post your answer, you should `@` ping at least one active RO requesting your `cv-pls` be removed).
+    * If you know a question is under discussion on Meta, that question is off-limits since [Meta effect](https://meta.stackoverflow.com/questions/269349/what-is-the-meta-effect) is in play and we are not above Meta. While we do not expect every user to know all discussions on Meta, we also do not want willful involvement of the room to try and resolve what should be resolved through discussions on Meta.
     * New users and users new to SOCVR have considerably more latitude. They are still not permitted to make actual requests about posts/edits they are involved with, but everyone should interact with the user with the goal of providing education both about Stack Overflow and SOCVR, and providing an explanation for their question/answer/edit/etc., it's status, ways to improve it, etc.
      * SOCVR regulars
        * Don't jump in saying that such requests are not permitted.
@@ -149,6 +151,10 @@ reviewing, and clean-up efforts.
     While you might get away with something once or twice, people in the room *will* notice and be upset/frustrated by it. Examples of such actions include:
     * Edit an old question that's not currently "active" to qualify it, under [FAQ #11](#GEfM-cv-pls-not-a-habit), as active, thus allowing you to make a `cv-pls` request for an old question.
     * Deleting your answer, making a `cv-pls` request for the question, and then undeleting your answer after the question is closed.
+28. <a id="GEfM-force-bin" href="#GEfM-force-bin" class="hover-visible"></a><a id="ro-force-bin"></a>If a CV is posted that the room has an issue with, it can be binned by an RO without the approval of the poster itself. General rules for this are:
+    * At least three members disagree with the CV
+    * At least one attempt to reach the poster of the CV(via chat ping in SOCVR itself) has been made
+    * An RO agrees with the room reasoning. As always, ROs have the final say
 
 <h2 id="expectations-for-room-owners"><a href="#expectations-for-room-owners" class="hover-visible"></a>Expectations for Room Owners</h2>
 
