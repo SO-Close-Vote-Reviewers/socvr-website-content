@@ -40,7 +40,7 @@ reviewing, and clean-up efforts.
 1. <a id="GEfM-professional" href="#GEfM-professional" class="hover-visible"></a>Keep it professional, keep a high standard.
 2. <a id="GEfM-public" href="#GEfM-public" class="hover-visible"></a>All discussions are public.
    Anything you say can and will be used against you on meta. 
-   The [RO team](](#who-are-the-room-owners) has an offline/private lounge for sensitive subjects if necessary.
+   The [RO team](#who-are-the-room-owners) has an offline/private lounge for sensitive subjects if necessary.
 3. <a id="GEfM-lead-by-example" href="#GEfM-lead-by-example" class="hover-visible"></a>In absence of all room owners, the members lead by example.
 4. <a id="GEfM-de-escalate" href="#GEfM-de-escalate" class="hover-visible"></a>De-escalate in case of disagreement.
 5. <a id="GEfM-chat-flags" href="#GEfM-chat-flags" class="hover-visible"></a>When chat flags are raised  
