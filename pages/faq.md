@@ -153,9 +153,9 @@ reviewing, and clean-up efforts.
     While you might get away with something once or twice, people in the room *will* notice and be upset/frustrated by it. Examples of such actions include:
     * Edit an old question that's not currently "active" to qualify it, under [FAQ #11](#GEfM-cv-pls-not-a-habit), as active, thus allowing you to make a `cv-pls` request for an old question.
     * Deleting your answer, making a `cv-pls` request for the question, and then undeleting your answer after the question is closed.
-28. <a id="GEfM-force-bin" href="#GEfM-force-bin" class="hover-visible"></a><a id="ro-force-bin"></a>If a CV is posted that the room has an issue with, it can be binned by an RO without the approval of the poster itself. General rules for this are:
-    * At least three members disagree with the CV
-    * At least one attempt to reach the poster of the CV(via chat ping in SOCVR itself) has been made
+28. <a id="GEfM-force-bin" href="#GEfM-force-bin" class="hover-visible"></a><a id="ro-force-bin"></a>If a request is posted that the room has an issue with, it can be binned by an RO without the approval of the poster itself. General rules for this are:
+    * At least three members disagree with the request
+    * At least one attempt to reach the poster of the request (via chat ping in SOCVR itself) has been made
     * An RO agrees with the room reasoning. As always, ROs have the final say
 
 <h2 id="expectations-for-room-owners"><a href="#expectations-for-room-owners" class="hover-visible"></a>Expectations for Room Owners</h2>
