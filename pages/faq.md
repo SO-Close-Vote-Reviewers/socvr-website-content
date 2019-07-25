@@ -52,12 +52,14 @@ reviewing, and clean-up efforts.
 
 6. <a id="GEfM-no-oneboxes" href="#GEfM-no-oneboxes" class="hover-visible"></a><a id="noBoxes"></a>Keep oneboxed images out of our transcript. 
    We wish to keep the room civil and mostly on topic, but that does not mean you can't have a 
-   little tasteful fun too by linking to an image. At any of the room owner's discretion, accidently one-boxed images may be moved to trash 
+   little tasteful fun too by linking to an image. At any of the room owner's discretion, oneboxed images may be moved to trash 
    at anytime without warning, such decisions are final. Obviously, (linking to) offensive and NSFW images 
-   are grounds for being kicked and moderator intervention.
-7. <a id="GEfM-not-noisy" href="#GEfM-not-noisy" class="hover-visible"></a>Please refrain from using [oneboxes](https://chat.stackoverflow.com/faq#formatting)/noisy formatting. 
+   are grounds for being kicked and moderator intervention.  
+   An image is oneboxed if the image is actually being displayed inline in chat. This happens automatically if you send a message that contains *only* the URL for an image. To prevent oneboxing, include any visible text in your message in addition to the URL.
+7. <a id="GEfM-not-noisy" href="#GEfM-not-noisy" class="hover-visible"></a>Please refrain from using [oneboxes](https://i.stack.imgur.com/t6vHq.png)/noisy formatting. 
    When posting a URL, use link syntax to make the link flow with the text, 
-   like `look at [this post](https://www.example.com/)`.
+   like `look at [this post](https://www.example.com/)`.  
+   The source for the image linked above explaining oneboxes is [this SO Chat FAQ page](https://chat.stackoverflow.com/faq), but you have to manually expand the "How do I format my messages?" section by clicking "show more" under that section. Unfortunately, there's a bug on that page which doesn't permit direct linking in some browsers.
 8. <a id="GEfM-no-GIFs" href="#GEfM-no-GIFs" class="hover-visible"></a>No GIFs or other animated images in chat. They are more distracting than one-boxed messages.
 
 <a id="GEfM-what-room-moderates" href="#GEfM-what-room-moderates" class="hover-visible"></a>Know what the room moderates:
