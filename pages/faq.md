@@ -59,7 +59,7 @@ reviewing, and clean-up efforts.
 7. <a id="GEfM-not-noisy" href="#GEfM-not-noisy" class="hover-visible"></a>Please refrain from using [oneboxes](https://i.stack.imgur.com/t6vHq.png)/noisy formatting. 
    When posting a URL, use link syntax to make the link flow with the text, 
    like `look at [this post](https://www.example.com/)`.  
-   The source for the image linked above explaining oneboxes is [this SO Chat FAQ page](https://chat.stackoverflow.com/faq), but you have to manually expand the "How do I format my messages?" section by clicking "show more" under that section. Unfortunately, there's a bug on that page which doesn't permit direct linking in some browsers.
+   The source for the image linked above which explains oneboxes is [this SO Chat FAQ page](https://chat.stackoverflow.com/faq), but you have to manually expand the "How do I format my messages?" section by clicking "show more" under that section. Unfortunately, there's a bug on that page which doesn't permit direct linking in some browsers.
 8. <a id="GEfM-no-GIFs" href="#GEfM-no-GIFs" class="hover-visible"></a>No GIFs or other animated images in chat. They are more distracting than one-boxed messages.
 
 <a id="GEfM-what-room-moderates" href="#GEfM-what-room-moderates" class="hover-visible"></a>Know what the room moderates:
