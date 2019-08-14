@@ -385,7 +385,6 @@ still feel they are part of the team.
 
 * [gunr2171](https://stackoverflow.com/users/1043380)
 * [Sam](https://stackoverflow.com/users/2246344)
-* [Tiny Giant](https://stackoverflow.com/users/4639281)
 * [Paul Stenne](https://stackoverflow.com/users/4174897)
 * [Tunaki](https://stackoverflow.com/users/1743880)
 * [Mogsdad](https://stackoverflow.com/users/1677912)
@@ -393,6 +392,7 @@ still feel they are part of the team.
 * [Andrew Cheong](https://stackoverflow.com/users/925913/andrew-cheong) - The original 
   room owner and creator of the room.
 * [Dukeling](https://stackoverflow.com/users/1711796/dukeling)
+* Tiny Giant
 
 <h2 id="why-do-we-need-room-owners"><a href="#why-do-we-need-room-owners" class="hover-visible"></a>Why do we need room owners?</h2>
 
