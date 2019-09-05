@@ -100,7 +100,7 @@ reviewing, and clean-up efforts.
     not a democracy. However, users posting requests that are blatantly wrong will be 
     told so. The final verdict is on the RO team.
 15. <a id="GEfM-no-requests-youre-involved" href="#GEfM-no-requests-youre-involved" class="hover-visible"></a><a id="noSelf"></a>Do not request action on posts or edits where you are involved or where you have a conflict of interest.
-    * For questions and answers: You are "involved" in the question and all answers to the question if you are the author of the question or the author of any non-deleted, non-community-wiki answer on the question.
+    * For questions and answers: You are "involved" in the question and all answers to the question if you are the author of the question or the author of any non-deleted, non-community-wiki answer on the question. For `undel-pls` requests, you are also involved if a non-community-wiki answer you authored was deleted at the same time as the question. 
     * For requests about edits, you are involved if you are the author of the post or the author of the edit.
     * Being the author of a proposed duplicate-target question or an answer on the duplicate-target does not, by itself, make you "involved" in a question which you are requesting be closed as a duplicate (i.e. you can request duplicate-closure with a question you asked or answered as the duplicate-target, if that's your only involvement).
     * You may initiate discussions about posts/edits you are involved with, as long as those discussions are really seeking input and are not just disguised requests.
