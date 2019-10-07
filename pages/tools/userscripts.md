@@ -1,9 +1,9 @@
 # Userscripts
 
-There are a bunch of [useful userscripts for Stack Overflow out there](https://stackapps.com/questions/tagged/script "userscripts and browser extensions on Stack Apps"). Userscripts add functionality to the site by running scripts in your browser. All major browsers support userscripts by installing a userscript manager extension, for example [Tampermonkey](https://tampermonkey.net/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
+There are a bunch of [useful userscripts for Stack Overflow out there](https://stackapps.com/questions/tagged/script "userscripts and browser extensions on Stack Apps"). Userscripts add functionality to the site by running scripts in your browser. All major browsers support userscripts by installing a userscript manager extension, for example [Tampermonkey](https://tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
 
 - [How to install a userscript?](https://greasyfork.org/en/help/installing-user-scripts)
- - With [Tampermonkey](https://www.tampermonkey.net/), [Violentmonkey](), or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) installed, from a GitHub userscript page you can [click the "Raw" button](https://i.stack.imgur.com/75kID.gif "GIF showing what happens in Tampermonkey when you click the 'Raw' button").</dd>
+ - With [Tampermonkey](https://www.tampermonkey.net/), [Violentmonkey](https://violentmonkey.github.io/), or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (only advised for die hards) installed, from a GitHub userscript page you can [click the "Raw" button](https://i.stack.imgur.com/75kID.gif "GIF showing what happens in Tampermonkey when you click the 'Raw' button").</dd>
 
 ### <a id="our-scripts" href="#our-scripts" class="hover-visible"></a>Our own scripts
 
