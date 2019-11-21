@@ -84,7 +84,7 @@ reviewing, and clean-up efforts.
       - are a bad example used to justify other posts that are off-topic and/or low-quality
       - have recent activity on the question (recent answers, edits not made by you, or suggested edits)
       - don't have enough users in that tag to close the question in time
-    - `del-pls`: Unless there's a good reason, it doesn't have to be *now* (i.e. unless there's a good reason, wait to post the del-pls until the post is actually eligible for deletion-votes).  
+    - `del-pls`: Unless there's a good reason, it doesn't have to be *now* (i.e. unless there's a good reason, wait to post the del-pls until the post is actually eligible for deletion-votes (_[You must wait for a question to be closed for 2 days before you can vote for deletion. This restriction is removed for trusted users when a post scores -3 or lower](https://stackoverflow.com/help/privileges/moderator-tools)_)).  
     "If there's something really bad and it has to go, then get it gone - otherwise, don't sweat the small stuff, it'll end up gone eventually - and if no one's seeing it - who cares?" <sup>[source](https://chat.stackoverflow.com/transcript/108179?m=39907227#39907227)</sup>   
     del-pls is for posts that:
       - are _really_ bad, but which don't quite make it to abusive/spam (use flags for those)
