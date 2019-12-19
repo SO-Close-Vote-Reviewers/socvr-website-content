@@ -96,9 +96,9 @@ reviewing, and clean-up efforts.
     While we do not actively track all CVs, we do request you not report any CV more than once. We do offer userscripts for users to find older CVs not on the chat page, so if your previous CV was not successful, it was not likely due to a lack of visibility. ROs may, at their discretion, bin repeated attempts to CV a particular question.
 13. <a id="GEfM-cv-pls-not-stab" href="#GEfM-cv-pls-not-stab" class="hover-visible"></a><a id="notStab"></a>Members are not required to close-vote any particular post you bring up. Furthermore, do not pressure anyone 
     into doing so. `cv-pls` means "close-vote please", not "close-vote or I'll stab you." This applies to all types of requests.
-14. <a id="GEfM-avoid-extended-individual-cv-pls-discussion" href="#GEfM-avoid-extended-individual-cv-pls-discussion" class="hover-visible"></a><a id="limitReqDis"></a>Avoid extended discussion about requests. We don't have to agree about a close/delete request. We're 
+14. <a id="GEfM-avoid-extended-individual-cv-pls-discussion" href="#GEfM-avoid-extended-individual-cv-pls-discussion" class="hover-visible"></a><a id="limitReqDis"></a>Avoid extended discussion about requests, but be prepared to provide reasoning if asked to do so. We don't have to agree about a close/delete request. We're 
     not a democracy. However, users posting requests that are blatantly wrong will be 
-    told so. The final verdict is on the RO team.
+    told so. The final verdict is up to the RO team.
 15. <a id="GEfM-no-requests-youre-involved" href="#GEfM-no-requests-youre-involved" class="hover-visible"></a><a id="noSelf"></a>Do not request action on posts or edits where you are involved or where you have a conflict of interest.
     * For questions and answers: You are "involved" in the question and all answers to the question if you are the author of the question or the author of any non-deleted, non-community-wiki answer on the question. For `undel-pls` requests, you are also involved if a non-community-wiki answer you authored was deleted at the same time as the question. 
     * For requests about edits, you are involved if you are the author of the post or the author of the edit.
