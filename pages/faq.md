@@ -227,7 +227,7 @@ You create a proper cv-pls as follows:
 
 The first bit creates a tag layout, the close reason is there so the other 
 members know what you think the correct reason is and finally the complete URL
-so the members can click on it. If you find the typing, copying, and remembering 
+so the members can click on it. Keep in mind this all needs to be on **one** line. Adding a line break will cause the tag to not be rendered but just shown as is. If you find the typing, copying, and remembering 
 a bit too much you can use the 
 [cv-pls userscript](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js).
 
@@ -244,7 +244,7 @@ Because closing as a duplicate requires more domain specific knowledge, informin
 other chat members of the primary tag helps them quickly figure out if they would 
 be effective in reviewing the request.
 
-<a id="cv-pls-format-other-requests" href="#cv-pls-format-other-requests" class="hover-visible"></a><a id="otherFormats"></a>Other `-pls` requests follow the same format:
+<a id="cv-pls-format-other-requests" href="#cv-pls-format-other-requests" class="hover-visible"></a><a id="otherFormats"></a>Other `-pls` requests follow the same format (again: keep it on one single line, do not add linebreaks!):
 
     [tag:reopen-pls] post has enough info now https://stackoverflow.com/q/12345
     [tag:del-pls] has no value to stay on site https://stackoverflow.com/q/12345
