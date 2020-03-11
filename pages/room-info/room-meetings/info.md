@@ -24,6 +24,10 @@ After the meeting, the discussion on each topic is summarized, including any con
 
 ## Resolutions and transcripts from previous meetings:
 
+### 2020
+
+* [Feb](2020-02)
+
 ### 2019
 
 * [April](2019-04)
