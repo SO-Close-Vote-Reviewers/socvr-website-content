@@ -73,7 +73,7 @@ reviewing, and clean-up efforts.
 
 <a id="GEfM-responsible-moderation-requests" href="#GEfM-responsible-moderation-requests" class="hover-visible"></a><a id="respModReq"></a>Be responsible with moderation requests:
 
-10. <a id="GEfM-no-up-down-vote-requests" href="#GEfM-no-up-down-vote-requests" class="hover-visible"></a><a id="noUDVReq"></a>Do not ask for up- or down-votes on any posts. Vote consciously on posts you wouldn't normally encounter beyond being linked to from this room.  
+10. <a id="GEfM-no-up-down-vote-requests" href="#GEfM-no-up-down-vote-requests" class="hover-visible"></a><a id="noUDVReq"></a>Do not ask for up- or down-votes on any posts. Vote conscientiously on posts you wouldn't normally encounter beyond being linked to from this room.  
 While [Shog9](https://meta.stackexchange.com/users/811/shog9) has allowed organized voting in chat 
     rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of 
     support from the community at large. As such, we don't want anything in the transcript that 
