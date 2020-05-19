@@ -83,7 +83,7 @@ While [Shog9](https://meta.stackexchange.com/users/811/shog9) has allowed organi
    cv-pls is for questions that:
       - are _really_ bad (low quality magnets)
       - are a bad example used to justify other posts that are off-topic and/or low-quality
-      - have recent activity on the question (recent answers, edits not made by you, or suggested edits)
+      - have recent activity on the question (recent answers, edits not made by you, or suggested edits) [As used here, "recent activity" is considered to be activity within the last 6 months. Note that the "recent activity" criteria applies *only* to `cv-pls` requests.]
       - don't have enough users in that tag to close the question in time
     - `del-pls`: Unless there's a good reason, it doesn't have to be *now* (i.e. unless there's a good reason, wait to post the del-pls until the post is actually eligible for deletion-votes (_[You must wait for a question to be closed for 2 days before you can vote for deletion. This restriction is removed for trusted users when a post scores -3 or lower](https://stackoverflow.com/help/privileges/moderator-tools)_)).  
     "If there's something really bad and it has to go, then get it gone - otherwise, don't sweat the small stuff, it'll end up gone eventually - and if no one's seeing it - who cares?" <sup>[source](https://chat.stackoverflow.com/transcript/108179?m=39907227#39907227)</sup>   
