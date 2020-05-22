@@ -304,6 +304,16 @@ to SOCVR, and has different criteria for granting privileges in that room. If yo
 account doesn't fit the criteria SOCVR looks for, you may be able to get involved with
 SmokeDetector in that room.
 
+<h2 id="luncheonmeat"><a href="#luncheonmeat" class="hover-visible"></a><a id="lm1"></a>Where can I get the recipe for the luncheon meat?</h2>
+
+The Charcoal team is known for its fine dining rituals (think Asterix and Obelix) and have therefor invented the best next thing to Spam!. 
+
+The reality is that the specific reason got added during a priod where we got a flood of very low quality targetted posts. It took a few iterations to get that detection method right and as those often didn't really contain spam in the classical sense, it was needed that potential flaggers paid extra attention and hinted to use a red flag if they confirmed the post was part of the flood. 
+
+The down side of that specific check is that it has a relatively high false positive rate under normal conditions. We're sorry for that.
+
+More backstpry is found [here](https://meta.stackexchange.com/questions/332475/what-is-luncheon-meat-detected-in-smoke-detector-on-chat/332476)
+
 <h2 id="you-closed-my-question"><a href="#you-closed-my-question" class="hover-visible"></a>You closed my question!</h2>
 
 If a question is closed following a cv-pls that was posted in the room you can 
