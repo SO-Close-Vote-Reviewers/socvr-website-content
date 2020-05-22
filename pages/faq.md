@@ -308,7 +308,7 @@ SmokeDetector in that room.
 
 The Charcoal team is known for its fine dining rituals (think Asterix and Obelix) and have therefor invented the best next thing to Spam!. 
 
-The reality is that the specific reason got added during a priod where we got a flood of very low quality targetted posts. It took a few iterations to get that detection method right and as those often didn't really contain spam in the classical sense, it was needed that potential flaggers paid extra attention and hinted to use a red flag if they confirmed the post was part of the flood. 
+The reality is that the specific reason got added during a period where we got a flood of very low quality targetted posts. It took a few iterations to get that detection method right and as those often didn't really contain spam in the classical sense, it was needed that potential flaggers paid extra attention and hinted to use a red flag if they confirmed the post was part of the flood. 
 
 The down side of that specific check is that it has a relatively high false positive rate under normal conditions. We're sorry for that.
 
