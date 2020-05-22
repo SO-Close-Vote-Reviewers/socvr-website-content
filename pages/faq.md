@@ -312,7 +312,7 @@ The reality is that the specific reason got added during a priod where we got a 
 
 The down side of that specific check is that it has a relatively high false positive rate under normal conditions. We're sorry for that.
 
-More backstpry is found [here](https://meta.stackexchange.com/questions/332475/what-is-luncheon-meat-detected-in-smoke-detector-on-chat/332476)
+More backstory is found [here](https://meta.stackexchange.com/questions/332475/what-is-luncheon-meat-detected-in-smoke-detector-on-chat/332476)
 
 <h2 id="you-closed-my-question"><a href="#you-closed-my-question" class="hover-visible"></a>You closed my question!</h2>
 
