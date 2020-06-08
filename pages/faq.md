@@ -160,7 +160,7 @@ While [Shog9](https://meta.stackexchange.com/users/811/shog9) has allowed organi
     * At least three members disagree with the request
     * At least one attempt to reach the poster of the request (via chat ping in SOCVR itself) has been made
     * An RO agrees with the room reasoning. As always, ROs have the final say
-29. <a id="GEfM-no-mod-flag" href="#GEfM-no-mod-flag" class="hover-visible"></a><a id="ro-no-mod-flag"></a> If you want your request removed from the transcript prior to it being finalized, ping an Room Owner with a link to your message and a short reason. Do not flag your message for moderator attention to have it removed. It gets very confusing for a moderator when your message does get moved between flagging and handling. For obvious reasons do not flag your request as rude/abusive either. That might get it deleted sooner but it attracts users from acrosd other rooms and also gets you chat banned when everyone agrees with the flag. 
+29. <a id="GEfM-no-mod-flag" href="#GEfM-no-mod-flag" class="hover-visible"></a><a id="ro-no-mod-flag"></a> If you want your request removed from the transcript prior to it being finalized, ping an Room Owner with a link to your message and a short reason. Do not flag your message for moderator attention to have it removed. It gets very confusing for a moderator when your message does get moved between flagging and handling. For obvious reasons do not flag your request as rude/abusive either. That might get it deleted sooner but it attracts users from across other rooms and also gets you chat banned when everyone agrees with the flag. 
 
 <h2 id="expectations-for-room-owners"><a href="#expectations-for-room-owners" class="hover-visible"></a>Expectations for Room Owners</h2>
 
