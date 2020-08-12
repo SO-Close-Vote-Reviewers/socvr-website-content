@@ -248,7 +248,7 @@ Because closing as a duplicate requires more domain specific knowledge, informin
 other chat members of the primary tag helps them quickly figure out if they would 
 be effective in reviewing the request.
 
-If you also provide a duplicate target (for example because you found a better one) include the duplicate link first so that the question that needs to be closed comes last. An example is
+For closure as a duplicate, it's preferred that you do not include the duplicate target in your cv-pls, but rather include it as a comment on the question you feel should be closed (as is automatically done when you flag or vote to close as a duplicate). If you do provide a duplicate target in your cv-pls (e.g. because you found a better, or additional, one), then include the link to the duplicate target first, so that the question which you feel should be be closed comes last. An example is:
 
     [tag:cv-pls] [tag:asdf] duplicate: A better target is https://stackoverflow.com/q/42 for https://stackoverflow.com/q/12345
 
