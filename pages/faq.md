@@ -248,6 +248,10 @@ Because closing as a duplicate requires more domain specific knowledge, informin
 other chat members of the primary tag helps them quickly figure out if they would 
 be effective in reviewing the request.
 
+If you also provide a duplicate target (for example because you found a better one) include the duplicate link first so that the question that needs to be closed comes last. An example is
+
+    [tag:cv-pls] [tag:asdf] duplicate: A better target is https://stackoverflow.com/q/42 for https://stackoverflow.com/q/12345
+
 <a id="cv-pls-format-other-requests" href="#cv-pls-format-other-requests" class="hover-visible"></a><a id="otherFormats"></a>Other `-pls` requests follow the same format (again: keep it on one single line, do not add linebreaks!):
 
     [tag:reopen-pls] post has enough info now https://stackoverflow.com/q/12345
