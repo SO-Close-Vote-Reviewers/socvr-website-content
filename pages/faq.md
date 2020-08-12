@@ -198,7 +198,7 @@ guidance toolkit that enables all of us to fulfill those needs.
 **No matter what is asked from us, we moderate the post and educate the user, 
 the [be nice policy][2] is our bible.**
 
-Do not advertise or make a reference the room out of the blue. If it is relevant 
+Do not advertise or make a reference to the room out of the blue. If SOCVR is relevant
 to the conversation at hand, fine, but on Stack Overflow, don't say anything unless 
 someone directly asks. On MSO, you can give some details about the room if it could 
 be relevant/useful in a discussion.
