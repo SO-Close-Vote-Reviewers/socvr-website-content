@@ -264,15 +264,16 @@ For closure as a duplicate, it's preferred that you do not include the duplicate
 
 <a id="cv-pls-format-other-requests" href="#cv-pls-format-other-requests" class="hover-visible"></a><a id="otherFormats"></a>Other `-pls` requests follow the same format (again: keep it on one single line, do not add linebreaks!):
 
-    [tag:reopen-pls] post has enough info now https://stackoverflow.com/q/12345
-    [tag:del-pls] adds no value by staying on site https://stackoverflow.com/q/12345
-    [tag:delv-pls] <alternate format to del-pls>
-    [tag:undel-pls] Adds value to site https://stackoverflow.com/q/12345
+    [tag:reopen-pls] post now has enough info https://stackoverflow.com/q/12345
+    [tag:del-pls] <explain why it should be deleted now> https://stackoverflow.com/q/12345
+    [tag:delv-pls] <alternate request name to del-pls; other than that, use the del-pls format>
+    [tag:undel-pls] <explain why should it be undeleted> https://stackoverflow.com/q/12345
     [tag:review-pls] Removes plagiarism, has reject vote https://stackoverflow.com/review/suggested-edits/12345
     [tag:spam] https://stackoverflow.com/q/12345
     [tag:offensive] https://stackoverflow.com/q/12345
-    [tag:flag-pls] https://stackoverflow.com/q/12345
-    [tag:reflag-pls] https://stackoverflow.com/q/12345
+    [tag:flag-pls] <state the flag type and why> https://stackoverflow.com/q/12345
+    [tag:reflag-pls] <state the flag type and why> https://stackoverflow.com/q/12345
+The above are intended as examples of the format used for the various requests. The text used for request reasons in the examples are just placeholders, which are here just for the examples and shouldn't be the exact text you use. Your request reasons should be specific to the reasons you're making the request you are posting. There are some guidelines in the next section for what should be in a request reason.
 
 <h3 id="what-should-request-reasons-contain"><a href="#what-should-request-reasons-contain" class="hover-visible"></a><a id="reqReasons"></a>What Should Request Reasons Contain?</h3>
 
