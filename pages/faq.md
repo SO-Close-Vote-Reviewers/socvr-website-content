@@ -407,7 +407,6 @@ still feel they are part of the team.
 * [NathanOliver](https://stackoverflow.com/users/4342498)
 * [Makyen](https://stackoverflow.com/users/3773011)
 * [Machavity](https://stackoverflow.com/users/2370483)
-* [Stephen Kennedy](https://chat.stackoverflow.com/users/397817)
 * [TylerH](https://chat.stackoverflow.com/users/2756409)
 
 <a id="inactive-room-owners" href="#inactive-room-owners" class="hover-visible"></a>The inactive room owners are:
@@ -422,6 +421,7 @@ still feel they are part of the team.
   room owner and creator of the room.
 * [Dukeling](https://stackoverflow.com/users/1711796/dukeling)
 * Tiny Giant
+* [Stephen Kennedy](https://chat.stackoverflow.com/users/397817)
 
 <h2 id="why-do-we-need-room-owners"><a href="#why-do-we-need-room-owners" class="hover-visible"></a>Why do we need room owners?</h2>
 
