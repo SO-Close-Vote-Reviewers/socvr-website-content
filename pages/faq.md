@@ -428,13 +428,13 @@ still feel they are part of the team.
 
 <h2 id="why-do-we-need-room-owners"><a href="#why-do-we-need-room-owners" class="hover-visible"></a>Why do we need room owners?</h2>
 
-We really shouldn't need room owners, but because we do we need to establish some 
-guidelines. Room owners are here to slow down the enthusiastic crowd and to make 
+In an ideal world, we really shouldn't need room owners, but they are needed in unusual cases to keep the chat in SOCVR within the
+guidelines and rules. Room owners are here to slow down the enthusiastic crowd and to make
 sure we focus on posts and their quality and not on users.
 
-The CV chat room has quite a bit of power. In the extreme cases we can insta-close 
+The SOCVR chat room has quite a bit of power. In the extreme cases we can insta-close
 any question, and this gives us moderator-like powers with very little external 
-oversight. We lead by example to prevent the room from becoming a mob.
+oversight. Room Owners lead by example to prevent the room from becoming a mob.
 
 <h2 id="how-does-the-room-work"><a href="#how-does-the-room-work" class="hover-visible"></a>How does the room work?</h2>
 
