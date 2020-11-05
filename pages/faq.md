@@ -462,13 +462,17 @@ Requests (e.g. `cv-pls`, `del-pls`, etc.), and many bot messages
 (e.g. SD reports and responses to those reports), are routinely moved to the
 [SOCVR Request Graveyard](https://chat.stackoverflow.com/rooms/90230/cv-request-graveyard)
 (i.e. they're archived) when they are "complete" or have expired. In that process, when one of the requests
-you posted gets moved, you get invited to that room.
-We're sorry about that, but we will not talk there or meet you there.
-That room is meant to be only an archive of handled requests.
+you posted gets moved, you receive an invitation to join that room. A similar invitation will be made if one of your messages is moved to [SOCVR /dev/null](https://chat.stackoverflow.com/rooms/126195/socvr-dev-null).
 
-So, don't be alarmed or feel left out if the invite to the SOCVR Request Graveyard doesn't 
-result in any response from us. It's a byproduct of our archiving those messages. We can't 
+We're sorry about those invitations, but there's nothing we can do to prevent the system from sending them. You can ignore the invitations. We will not talk in those rooms or meet you there.
+The Graveyard is meant to be only an archive of handled requests.
+
+So, don't be alarmed or feel left out if the invite to the SOCVR Request Graveyard or SOCVR /dev/null doesn't
+result in any response from us. It's a byproduct of our moving those messages. We can't
 prevent the SE chat system from inviting you to the room, sorry.
+
+These invitations will only happen once per user per room (i.e. you'll only get one such invitation for SOCVR Request Graveyard and one for SOCVR /dev/null). The system doesn't reissue these invitations unless you enter the room you're invited into and are able to talk in that room. This means that after an RO or moderator has entered either of the above rooms, they will receive an additional such invitation the next time one of their messages is moved by another RO or moderator into the room they entered. ROs and moderators can avoid additional invitations by not actually entering SOCVR Request Graveyard and SOCVR /dev/null (e.g. by always viewing the room's transcript, rather than entering the room). 
+
 
 <h2 id="what-are-all-those-bots-doing-there"><a href="#what-are-all-those-bots-doing-there" class="hover-visible"></a>What are all those bots doing there?</h2>
 
