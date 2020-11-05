@@ -364,21 +364,24 @@ increase exposure to a post, not to create a mindless voting mob.
 
 To make sure people don't abuse the system, requests for actions which you can not perform should be kept to a minimum.
 
-<a id="can-i-request-cv" href="#can-i-request-cv" class="hover-visible"></a>**Close Vote Requests** are the most common request you'll find. Please follow the format a few sections above.
+<a id="can-i-request-cv" href="#can-i-request-cv" class="hover-visible"></a>**Close Vote Requests** are the most common request you'll find. Please follow the format in [How and why do I need to format my cv-pls (and other requests)?](#how-and-why-do-i-need-to-format-my-cv-pls-and-other-requests).
 
-<a id="can-i-request-reopen" href="#can-i-request-reopen" class="hover-visible"></a>**Reopen Votes Request** are perfectly welcome. If you see something that you think should be reopened, 
+<a id="can-i-request-reopen" href="#can-i-request-reopen" class="hover-visible"></a>**Reopen Vote Request** are perfectly welcome. If you see something that you think should be reopened, 
 we're more than happy to look at it. Note: most of the time reopen-voting requires domain specific knowledge,
-so there could be no one in the room that truly understand the subject matter enough to make a judgment call.
+so there could be no one in the room that truly understands the subject matter enough to make a judgment call.
 
-<a id="can-i-request-delete" href="#can-i-request-delete" class="hover-visible"></a>**Delete Vote Requests** are for when you find a post that needs to be absolutely removed from the site. Please use
-this only when absolutely necessary.
+<a id="can-i-request-delete" href="#can-i-request-delete" class="hover-visible"></a>**Delete Vote Requests** are for when you find a post that needs to be absolutely removed from the site. Please make
+these requests only when absolutely necessary.
 
 <a id="can-i-request-vlq-naa" href="#can-i-request-vlq-naa" class="hover-visible"></a>**Very Low Quality** (**VLQ**) or **Not an Answer** (**NAA**) flag requests are 
-not allowed here. Multiple of these flags on a single post does not process it faster, so bringing it 
-to the room only creates noise.
+not allowed here. Multiple people raising these flags on a single post does not process the post faster, so requesting the room to add *additional* flags only creates noise.
 
-<a id="can-i-request-re-flag" href="#can-i-request-re-flag" class="hover-visible"></a>There is one exception to this rule: Requests to *re-flag* a post are allowed, but only if the previous flag 
-was invalidated due to an edit.
+<a id="can-i-request-re-flag" href="#can-i-request-re-flag" class="hover-visible"></a>For answers, there are two exceptions to this rule:
+- Requests to *re-flag* an answer are allowed, but only if your previously raised flag on the answer
+was invalidated (invalidation is usually due to an edit to the answer).
+- Requests to *flag* an answer are allowed, but only if you've run out of flags.
+
+The exceptions only apply to answers, because the VLQ flag on questions just delegates the decision of what kind of moderation action should be taken with respect to question to users in the review queue. In such case, you should just ask the room what should be done with the question, so the appropriate action is taken (e.g. vote/flag for closure, other flags, or community edit).
 
 <a id="can-i-request-spam-offensive" href="#can-i-request-spam-offensive" class="hover-visible"></a>**Spam** and **Offensive** flag requests are allowed; if enough of these flags 
 accumulate, the post will be automatically deleted. Please be careful with these requests (by the time you say "spam", it's an accusation). If you are not 100% sure, _please_ consult with the room and wait for at least 2 people to confirm your suspicions.
