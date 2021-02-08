@@ -21,6 +21,7 @@ reviewing, and clean-up efforts.
   * [Who are the room owners?](#who-are-the-room-owners)
   * [Why do we need room owners?](#why-do-we-need-room-owners)
   * [How does the room work?](#how-does-the-room-work)
+  * [What is the Graveyard room?](#what-is-graveyard)
   * [Why did you invite me to the SOCVR Request Graveyard room?](#why-do-you-invite-me-to-the-cv-request-graveyard-room)
   * [What are all those bots doing there?](#what-are-all-those-bots-doing-there)
   * [How can I join in?](#how-can-i-join-in)
@@ -454,6 +455,21 @@ based on their own opinion/knowledge, choosing leave open, close, edit or skip w
 appropriate. Concentrating attention on a question in the context of whether or 
 not to close a question, severely biases attention toward closing the question.
 <sup>1</sup>
+
+<h2 id="what-is-graveyard"><a href="#what-is-graveyard"> class="hover-visible"></a>What is the Graveyard room?</h2>
+
+In order to keep the chat transcript reasonably clear,
+old requests are moved out of the way.
+The room owners periodically run a script which moves e.g.
+`cv-pls` requests for questions which have already been closed
+to a separate room, called [SOCVR Request Graveyard.][4]
+Requests which have lingered without action for a long time will
+also eventually be moved there; we call these requests "expired".
+Occasionally, off-topic or otherwise problematic messages are
+moved to other rooms, too
+(there is one called `/dev/null` for invalid requests, for example).
+
+ [4]: https://chat.stackoverflow.com/rooms/90230/socvr-request-graveyard
 
 <h2 id="why-do-you-invite-me-to-the-cv-request-graveyard-room"><a href="#why-do-you-invite-me-to-the-cv-request-graveyard-room" class="hover-visible"></a>Why did you invite me to the SOCVR Request Graveyard room?</h2>
 
