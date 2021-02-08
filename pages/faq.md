@@ -1,15 +1,20 @@
 # What is the SO Close Vote Reviewers Chat Room?
 
-The [SO Close Vote Reviewers Chat Room](https://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) 
-is a group of like-minded people who want to make a difference in the CV queue, 
+The [SO Close Vote Reviewers Chat Room][1]
+is a group of like-minded people who want to make a difference in the CV queue,
 reviewing, and clean-up efforts.
- 
+
+ [1]: https://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers
+
 # <a id="TOC" href="#TOC" class="hover-visible"></a>Table Of Contents
 
-* <a id="TOC-quick-ref" href="#TOC-quick-ref" class="hover-visible"></a>[Quick Reference](#quick-reference)
+* <a id="TOC-quick-ref" href="#TOC-quick-ref" class="hover-visible"></a>
+  [Quick Reference](#quick-reference)
   * [General Expectations for Members](#general-expectations-for-members)
   * [Expectations for Room Owners](#expectations-for-room-owners)
-* <a id="TOC-common-questions" href="#TOC-common-questions" class="hover-visible"></a>[Common Questions](#common-questions)
+
+* <a id="TOC-common-questions" href="#TOC-common-questions" class="hover-visible"></a>
+  [Common Questions](#common-questions)
   * [What is the SO Close Vote Reviewers Chat Room?](#what-is-the-so-close-vote-reviewers-chat-room-1)
   * [What sort of behavior is expected?](#what-sort-of-behavior-is-expected)
   * [What are the chat room rules?](#what-are-the-chat-room-rules)
@@ -32,7 +37,8 @@ reviewing, and clean-up efforts.
 
 <h1 id="quick-reference"><a href="#quick-reference" class="hover-visible"></a>Quick Reference</h1>
 
-<i>In this text you'll find the abbreviation RO, RO's or RO Team. That is short for [Room Owners](#who-are-the-room-owners).</i>
+<i>In this text you'll find the abbreviation RO, RO's or RO Team.
+That is short for [Room Owners](#who-are-the-room-owners).</i>
 
 <h2 id="general-expectations-for-members"><a href="#general-expectations-for-members" class="hover-visible"></a>General Expectations for Members</h2>
 
@@ -41,27 +47,46 @@ reviewing, and clean-up efforts.
 1. <a id="GEfM-professional" href="#GEfM-professional" class="hover-visible"></a>Keep it professional, keep a high standard.
 2. <a id="GEfM-public" href="#GEfM-public" class="hover-visible"></a>All discussions are public.
    Anything you say can and will be used against you on meta. 
-   The [RO team](#who-are-the-room-owners) has an offline/private lounge for sensitive subjects if necessary.
+   The [RO team](#who-are-the-room-owners) has an offline/private lounge for
+   sensitive subjects if necessary.
 3. <a id="GEfM-lead-by-example" href="#GEfM-lead-by-example" class="hover-visible"></a>In absence of all room owners, the members lead by example.
 4. <a id="GEfM-de-escalate" href="#GEfM-de-escalate" class="hover-visible"></a>De-escalate in case of disagreement.
 5. <a id="GEfM-chat-flags" href="#GEfM-chat-flags" class="hover-visible"></a>When chat flags are raised  
    * Take them seriously.
    * Consider whether or not the flagged conversation should continue.
-   * Be Nice; follow the [Stack Exchange Code of Conduct](https://stackoverflow.com/conduct), and be sensitive to others' feelings.
+   * Be Nice; follow the [Stack Exchange Code of Conduct][2],
+   and be sensitive to others' feelings.
+
+ [2]: https://stackoverflow.com/conduct
 
 <a id="GEfM-clean-transcript" href="#GEfM-clean-transcript" class="hover-visible"></a><a id="cleanTrans"></a>Keep the transcript clean:
 
 6. <a id="GEfM-no-oneboxes" href="#GEfM-no-oneboxes" class="hover-visible"></a><a id="noBoxes"></a>Keep oneboxed images out of our transcript. 
-   We wish to keep the room civil and mostly on topic, but that does not mean you can't have a 
-   little tasteful fun too by linking to an image. At any of the room owner's discretion, oneboxed images may be moved to trash 
-   at anytime without warning, such decisions are final. Obviously, (linking to) offensive and NSFW images 
-   are grounds for being kicked and moderator intervention.  
-   An image is oneboxed if the image is actually being displayed inline in chat. This happens automatically if you send a message that contains *only* the URL for an image. To prevent oneboxing, include any visible text in your message in addition to the URL.
-7. <a id="GEfM-not-noisy" href="#GEfM-not-noisy" class="hover-visible"></a>Please refrain from using [oneboxes](https://i.stack.imgur.com/t6vHq.png)/noisy formatting. 
+   We wish to keep the room civil and mostly on topic, but that does not mean
+   you can't have a little tasteful fun too by linking to an image.
+   At any of the room owner's discretion, oneboxed images may be
+   moved to trash at any time without warning, such decisions are final.
+   Obviously, (linking to) offensive and NSFW images 
+   are grounds for being kicked and moderator intervention.
+
+   An image is oneboxed if the image is actually being
+   displayed inline in chat.
+   This happens automatically if you send a message that contains
+   *only* the URL for an image.
+   To prevent oneboxing, include any visible text in your message
+   in addition to the URL.
+
+7. <a id="GEfM-not-noisy" href="#GEfM-not-noisy" class="hover-visible"></a>Please refrain from using [oneboxes][3]/noisy formatting.
    When posting a URL, use link syntax to make the link flow with the text, 
    like `look at [this post](https://www.example.com/)`.  
    The source for the image linked above which explains oneboxes is [this SO Chat FAQ page](https://chat.stackoverflow.com/faq), but you have to manually expand the "How do I format my messages?" section by clicking "show more" under that section. Unfortunately, there's a bug on that page which doesn't permit direct linking in some browsers.
-8. <a id="GEfM-no-GIFs" href="#GEfM-no-GIFs" class="hover-visible"></a>No GIFs or other animated images in chat. They are more distracting than one-boxed messages.
+
+ [3]: https://i.stack.imgur.com/t6vHq.png
+
+8. <a id="GEfM-no-GIFs" href="#GEfM-no-GIFs" class="hover-visible"></a>
+   No GIFs or other animated images in chat.
+   They are more distracting than one-boxed messages.
+
 
 <a id="GEfM-what-room-moderates" href="#GEfM-what-room-moderates" class="hover-visible"></a>Know what the room moderates:
 
@@ -456,7 +481,7 @@ appropriate. Concentrating attention on a question in the context of whether or
 not to close a question, severely biases attention toward closing the question.
 <sup>1</sup>
 
-<h2 id="what-is-graveyard"><a href="#what-is-graveyard"> class="hover-visible"></a>What is the Graveyard room?</h2>
+<h2 id="what-is-graveyard"><a href="#what-is-graveyard" class="hover-visible"></a>What is the Graveyard room?</h2>
 
 In order to keep the chat transcript reasonably clear,
 old requests are moved out of the way.
