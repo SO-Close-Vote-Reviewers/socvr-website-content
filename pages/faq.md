@@ -604,6 +604,9 @@ for the drops each day can be found on
 
 ----
 
+This FAQ is [hosted on GitHub.][3]
+PRs welcome.
+
 1: Paragraph adapted from 
    [Rene's original chat room FAQ](https://meta.stackoverflow.com/revisions/251956/9). 
    Mentioned here for attribution purposes.
@@ -613,3 +616,5 @@ for the drops each day can be found on
  [1]: https://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion
 
  [2]: https://stackoverflow.com/conduct
+
+ [3]: https://github.com/SO-Close-Vote-Reviewers/socvr-website-content
