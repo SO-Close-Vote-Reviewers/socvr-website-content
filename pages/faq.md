@@ -456,7 +456,7 @@ appropriate. Concentrating attention on a question in the context of whether or
 not to close a question, severely biases attention toward closing the question.
 <sup>1</sup>
 
-<h2 id="what-is-graveyard"><a href="#what-is-graveyard"> class="hover-visible"></a>What is the Graveyard room?</h2>
+<h2 id="what-is-graveyard"><a href="#what-is-graveyard" class="hover-visible"></a>What is the Graveyard room?</h2>
 
 In order to keep the chat transcript reasonably clear,
 old requests are moved out of the way.
