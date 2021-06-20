@@ -87,7 +87,7 @@ While [Shog9](https://meta.stackexchange.com/users/811/shog9) has allowed organi
       - have recent activity on the question (recent answers, edits not made by you, or suggested edits) [As used here, "recent activity" is considered to be activity within the last 6 months. Note that the "recent activity" criteria applies *only* to `cv-pls` requests.]
       - don't have enough users in that tag to close the question in time
     - `del-pls`: Unless there's a good reason, it doesn't have to be *now* (i.e. unless there's a good reason, wait to post the del-pls until the post is actually eligible for deletion-votes).  
-    "If there's something really bad and it has to go, then get it gone - otherwise, don't sweat the small stuff, it'll end up gone eventually - and if no one's seeing it - who cares?" <sup>[source](https://chat.stackoverflow.com/transcript/108179?m=39907227#39907227)</sup>   
+    "If there's something really bad and it has to go, then get it gone - otherwise, don't sweat the small stuff, it'll end up gone eventually - and if no one's seeing it - who cares?" <sup>credit: [Jon Clements](https://chat.stackoverflow.com/users/1252759/jon-clements); [source](https://chat.stackoverflow.com/transcript/108179?m=39907227#39907227)</sup>   
     del-pls is for posts that:
       - are _really_ bad, but which don't quite make it to abusive/spam (use flags for those)
       - are within 1 downvote of being eligible for delete-votes (see [Shog9's answer to "Downvote in order to be able to vote to delete. Is it acceptable?"](https://meta.stackoverflow.com/questions/351969/downvote-in-order-to-be-able-to-vote-to-delete-is-it-acceptable/351971#351971))  
