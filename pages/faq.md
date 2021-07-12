@@ -81,14 +81,14 @@ While [Shog9](https://meta.stackexchange.com/users/811/shog9) has allowed organi
     could be perceived as us treating people unfairly.
 11. <a id="GEfM-cv-pls-not-a-habit" href="#GEfM-cv-pls-not-a-habit" class="hover-visible"></a><a id="not-habit"></a>Moderation requests (e.g. [`cv-pls`](https://meta.stackoverflow.com/a/262359), `del-pls`, etc.) should **not** be a habit for users. 
     - `cv-pls`: Don't make it an instinct to fast-track every eligible post to the front of the closure system;  
-   cv-pls is for questions that:
+   cv-pls is for questions that meet one or more of the following critera:
       - are _really_ bad (low quality magnets)
       - are a bad example used to justify other posts that are off-topic and/or low-quality
       - have recent activity on the question (recent answers, edits not made by you, or suggested edits) [As used here, "recent activity" is considered to be activity within the last 6 months. Note that the "recent activity" criteria applies *only* to `cv-pls` requests.]
       - don't have enough users in that tag to close the question in time
     - `del-pls`: Unless there's a good reason, it doesn't have to be *now* (i.e. unless there's a good reason, wait to post the del-pls until the post is actually eligible for deletion-votes).  
     "If there's something really bad and it has to go, then get it gone - otherwise, don't sweat the small stuff, it'll end up gone eventually - and if no one's seeing it - who cares?" <sup>credit: [Jon Clements](https://chat.stackoverflow.com/users/1252759/jon-clements); [source](https://chat.stackoverflow.com/transcript/108179?m=39907227#39907227)</sup>   
-    del-pls is for posts that:
+    del-pls is for posts that meet one or more of the following criteria:
       - are _really_ bad, but which don't quite make it to abusive/spam (use flags for those)
       - are within 1 downvote of being eligible for delete-votes (see [Shog9's answer to "Downvote in order to be able to vote to delete. Is it acceptable?"](https://meta.stackoverflow.com/questions/351969/downvote-in-order-to-be-able-to-vote-to-delete-is-it-acceptable/351971#351971))  
   That means `del-pls` requests are permitted for closed questions which have been closed for more than 2 days, or which have a score less than or equal to -2; or answers which have a score less than or equal to 0. `del-pls` requests for posts which don't meet those criteria are not permitted, because the request can either not be actioned, or imply a request for downvotes.
