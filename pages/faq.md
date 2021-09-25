@@ -80,13 +80,13 @@ While [Shog9](https://meta.stackexchange.com/users/811/shog9) has allowed organi
     support from the community at large. As such, we don't want anything in the transcript that 
     could be perceived as us treating people unfairly.
 11. <a id="GEfM-cv-pls-not-a-habit" href="#GEfM-cv-pls-not-a-habit" class="hover-visible"></a><a id="not-habit"></a>Moderation requests (e.g. [`cv-pls`](https://meta.stackoverflow.com/a/262359), `del-pls`, etc.) should **not** be a habit for users. 
-    - `cv-pls`: Don't make it an instinct to fast-track every eligible post to the front of the closure system;  
+    - <a id="GEfM-not-habit-cv-pls" href="#GEfM-not-habit-cv-pls" class="hover-visible"></a>`cv-pls`: Don't make it an instinct to fast-track every eligible post to the front of the closure system;  
    cv-pls is for questions that meet one or more of the following critera:
       - are _really_ bad (low quality magnets)
       - are a bad example used to justify other posts that are off-topic and/or low-quality
       - have recent activity on the question (recent answers, edits not made by you, or suggested edits) [As used here, "recent activity" is considered to be activity within the last 6 months. Note that the "recent activity" criteria applies *only* to `cv-pls` requests.]
       - don't have enough users in that tag to close the question in time
-    - `del-pls`: Unless there's a good reason, it doesn't have to be *now* (i.e. unless there's a good reason, wait to post the del-pls until the post is actually eligible for deletion-votes).  
+    - <a id="GEfM-not-habit-del-pls" href="#GEfM-not-habit-del-pls" class="hover-visible"></a>`del-pls`: Unless there's a good reason, it doesn't have to be *now* (i.e. unless there's a good reason, wait to post the del-pls until the post is actually eligible for deletion-votes).  
     "If there's something really bad and it has to go, then get it gone - otherwise, don't sweat the small stuff, it'll end up gone eventually - and if no one's seeing it - who cares?" <sup>credit: [Jon Clements](https://chat.stackoverflow.com/users/1252759/jon-clements); [source](https://chat.stackoverflow.com/transcript/108179?m=39907227#39907227)</sup>   
     del-pls is for posts that meet one or more of the following criteria:
       - are _really_ bad, but which don't quite make it to abusive/spam (use flags for those)
