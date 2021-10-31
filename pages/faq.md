@@ -245,7 +245,7 @@ The first bit creates a tag layout, the close reason is there so the other
 members know what you think the correct reason is and finally the complete URL
 so the members can click on it. Keep in mind this all needs to be on **one** line. Adding a line break will cause the tag to not be rendered but just shown as is. If you find the typing, copying, and remembering 
 a bit too much you can use the 
-[cv-pls userscript](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/CVRG-Mak-new-version/SECloseVoteRequestGenerator.user.js).
+[cv-pls userscript](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js).
 
 The format is a bit strict because the room owners run an archiver script to move 
 closed question out of the transcript so they can be monitored for changes by Yam, 
@@ -593,7 +593,7 @@ Although that room isn't moderated as strictly as SOCVR, we like to point you to
 
 Members of chat have [made some user scripts](./tools/userscripts) to help make your life easier (or just more enjoyable).
 
-* [*-pls Request Generator](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/CVRG-Mak-new-version/SECloseVoteRequestGenerator.user.js) - Add a button to question pages which will send a *-pls request to a chat room (e.g. SOCVR). 
+* [*-pls Request Generator](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/SECloseVoteRequestGenerator.user.js) - Add a button to question pages which will send a *-pls request to a chat room (e.g. SOCVR). 
 * [Magic™ Editor](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/Magic%E2%84%A2Editor.user.js) - Fixes most common grammatical and usage errors with a click
 * [Unclosed Request Review Script (URRS)](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/UnclosedRequestReview.user.js) - [Shows semi-realtime request status in chat](//i.stack.imgur.com/gA36H.gif); [buttons to search for incomplete requests](//i.stack.imgur.com/99H4m.png),  and an improved UI in search which lets you [sort and filter the incomplete requests](//i.stack.imgur.com/VWwUN.gif).
 * [Shortcut keys](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/CloseVoteShortcuts.user.js) - 
