@@ -411,25 +411,27 @@ still feel they are part of the team.
 
 <a id="active-room-owners" href="#active-room-owners" class="hover-visible"></a>The active room owners are:
 
+* [Dharman](https://stackoverflow.com/users/1839439/)
 * [rene](https://stackoverflow.com/users/578411)
+* [Ryan M](https://stackoverflow.com/users/208273/)
+* [Machavity](https://stackoverflow.com/users/2370483/)
+* [Makyen](https://stackoverflow.com/users/3773011/)
 * [NathanOliver](https://stackoverflow.com/users/4342498)
-* [Makyen](https://stackoverflow.com/users/3773011)
-* [Machavity](https://stackoverflow.com/users/2370483)
-* [TylerH](https://chat.stackoverflow.com/users/2756409)
+* [Tyler H](https://stackoverflow.com/users/2756409/)
 
 <a id="inactive-room-owners" href="#inactive-room-owners" class="hover-visible"></a>The inactive room owners are:
 
-* [gunr2171](https://stackoverflow.com/users/1043380)
-* [Sam](https://stackoverflow.com/users/2246344)
-* [Paul Stenne](https://stackoverflow.com/users/4174897)
-* [Tunaki](https://stackoverflow.com/users/1743880)
-* [Mogsdad](https://stackoverflow.com/users/1677912)
-* [durron597](https://stackoverflow.com/users/1768232/durron597)
-* [Andrew Cheong](https://stackoverflow.com/users/925913/andrew-cheong) - The original 
+* [Andrew Cheong](https://stackoverflow.com/users/925913/) - The original 
   room owner and creator of the room.
-* [Dukeling](https://stackoverflow.com/users/1711796/dukeling)
+* [Dukeling](https://stackoverflow.com/users/1711796/)
+* [durron597](https://stackoverflow.com/users/1768232/)
+* [gunr2171](https://stackoverflow.com/users/1043380)
+* [Mogsdad](https://stackoverflow.com/users/1677912)
+* [Paul Stenne](https://stackoverflow.com/users/4174897)
+* [Sam](https://stackoverflow.com/users/2246344)
+* [Stephen Kennedy](https://stackoverflow.com/users/397817/)
 * Tiny Giant
-* [Stephen Kennedy](https://chat.stackoverflow.com/users/397817)
+* [Tunaki](https://stackoverflow.com/users/1743880)
 
 <h2 id="why-do-we-need-room-owners"><a href="#why-do-we-need-room-owners" class="hover-visible"></a>Why do we need room owners?</h2>
 
