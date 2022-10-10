@@ -327,10 +327,19 @@ to SOCVR, and has different criteria for granting privileges in that room. If yo
 account doesn't fit the criteria SOCVR looks for, you may be able to get involved with
 SmokeDetector in that room.
 
+Generally, Charcoal is welcoming towards regular SOCVR participants,
+and encourage you to register as a metasmoke user and to explore their
+other activities.
+If you want to go ahead and engage with them, feel free to point to
+your track record in SOCVR as proof of your interest in curating the site
+and your ability to identify and take action against poor content.
+
 <h2 id="luncheonmeat"><a href="#luncheonmeat" class="hover-visible"></a><a id="lm1"></a>Where can I get the recipe for the luncheon meat?</h2>
 
-The Charcoal team is known for its fine dining rituals (think Asterix and Obelix) and have therefore invented the next best thing to Spam!
+The Charcoal team is known for its fine dining rituals (think Asterix and Obelix)
+and have therefore invented the next best thing to spam!
 
+Actually, this is just an obscurely named detection name in Smoke Detector.
 The reality is that this specific reason got added during a period where we got a flood of very low-quality targeted posts. It took a few iterations to get that detection method right, and as those often didn't really contain spam in the classical sense, it was necessary to indicate that potential flaggers should pay extra attention; this reason hinted at using a red flag if they confirmed the post was part of the flood.
 
 The downside of that specific check is that it has a relatively high false positive rate under normal conditions. We're sorry for that.
