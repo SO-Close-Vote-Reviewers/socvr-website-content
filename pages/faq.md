@@ -211,7 +211,7 @@ the community on Stack Overflow and encourage our members to help us create a
 guidance toolkit that enables all of us to fulfill those needs.
 
 **No matter what is asked from us, we moderate the post and educate the user, 
-the [be nice policy][2] is our bible.**
+the [Code of Conduct][2] (formerly known as the "Be Nice" policy) is our bible.**
 
 Do not advertise or make a reference to the room out of the blue. If SOCVR is relevant
 to the conversation at hand, fine, but on Stack Overflow, don't say anything unless 
