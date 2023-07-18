@@ -1,4 +1,4 @@
-# Welcome to the Stack Overflow Close Vote Reviewers
+# Notice: Stack Overflow Close Vote Reviewers is currently inactive due to a [content moderation strike](https://meta.stackexchange.com/questions/389811).
 
 The [SO Close Vote Review Chat Room](https://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CV queue, reviewing and clean-up efforts.
 
