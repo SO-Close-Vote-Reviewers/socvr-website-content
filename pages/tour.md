@@ -6,7 +6,7 @@ Curation activities focus on improving the content of individual posts where pos
 
 ## Can we chat?
 
-<img align="right" src="https://i.stack.imgur.com/J9bqw.png" width="40%">
+<img align="right" src="/images/J9bqw.png" width="40%">
 
 The primary purpose of the [SOCVR chat room](https://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers) is to have company as you use your own [moderating privileges](https://stackoverflow.com/help/privileges?tab=moderation) on the site. 
 Working as part of a supportive team is much more enjoyable than slaving on your own.
